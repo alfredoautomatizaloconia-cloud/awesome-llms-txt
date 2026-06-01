@@ -75,6 +75,7 @@ const intro = `# Awesome \`llms.txt\` [![Awesome](https://awesome.re/badge.svg)]
 
 > The scored leaderboard of \`llms.txt\` quality. Like [Lighthouse](https://developer.chrome.com/docs/lighthouse/), but for the file that tells agents what your site can do.
 
+[![npm](https://img.shields.io/npm/v/llms-txt-score.svg?label=llms-txt-score&color=cb3837)](https://www.npmjs.com/package/llms-txt-score)
 [![Sites scored](https://img.shields.io/badge/sites_scored-${stats.total}-blue.svg)](./docs/leaderboard.json)
 [![Avg score](https://img.shields.io/badge/avg_score-${stats.avg}-yellow.svg)](./RUBRIC.md)
 [![A grades](https://img.shields.io/badge/A_grades-${aGraded.length}-brightgreen.svg)](#top-25)
