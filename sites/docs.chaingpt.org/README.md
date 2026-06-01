@@ -52,7 +52,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://docs.chaingpt.org/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.chaingpt.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chaingpt.org)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.chaingpt.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.chaingpt.org)
 ```
 
 ## Reproduce this score

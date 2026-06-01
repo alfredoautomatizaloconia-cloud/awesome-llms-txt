@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://rspack.rs/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/rspack.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/rspack.dev)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/rspack.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/rspack.dev)
 ```
 
 ## Reproduce this score

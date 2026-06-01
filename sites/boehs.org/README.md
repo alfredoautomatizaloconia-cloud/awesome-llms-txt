@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://boehs.org/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 37 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/boehs.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/boehs.org)
+[![llms.txt score 37 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/boehs.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/boehs.org)
 ```
 
 ## Reproduce this score

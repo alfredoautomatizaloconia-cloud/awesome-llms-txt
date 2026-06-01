@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://tz-machinery.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 36 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/tz-machinery.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tz-machinery.com)
+[![llms.txt score 36 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/tz-machinery.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/tz-machinery.com)
 ```
 
 ## Reproduce this score

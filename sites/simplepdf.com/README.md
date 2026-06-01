@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://simplepdf.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/simplepdf.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/simplepdf.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/simplepdf.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/simplepdf.com)
 ```
 
 ## Reproduce this score

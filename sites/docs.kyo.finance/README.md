@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.kyo.finance/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.kyo.finance.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.kyo.finance)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.kyo.finance.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.kyo.finance)
 ```
 
 ## Reproduce this score

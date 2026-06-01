@@ -56,7 +56,7 @@ Category: **billing** · [Live llms.txt](https://papergraderpro.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/papergraderpro.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/papergraderpro.com)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/papergraderpro.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/papergraderpro.com)
 ```
 
 ## Reproduce this score

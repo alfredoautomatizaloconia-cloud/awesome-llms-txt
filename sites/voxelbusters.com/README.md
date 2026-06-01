@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.voxelbusters.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/voxelbusters.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/voxelbusters.com)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/voxelbusters.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/voxelbusters.com)
 ```
 
 ## Reproduce this score

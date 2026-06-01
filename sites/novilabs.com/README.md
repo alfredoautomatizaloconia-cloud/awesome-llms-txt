@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://novilabs.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/novilabs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/novilabs.com)
+[![llms.txt score 39 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/novilabs.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/novilabs.com)
 ```
 
 ## Reproduce this score

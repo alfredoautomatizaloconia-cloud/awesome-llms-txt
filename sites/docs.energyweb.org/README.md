@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.energyweb.org/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.energyweb.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.energyweb.org)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.energyweb.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.energyweb.org)
 ```
 
 ## Reproduce this score

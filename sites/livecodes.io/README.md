@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://livecodes.io/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/livecodes.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/livecodes.io)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/livecodes.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/livecodes.io)
 ```
 
 ## Reproduce this score

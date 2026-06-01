@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://zuzia.app/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/zuzia.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zuzia.app)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/zuzia.app.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/zuzia.app)
 ```
 
 ## Reproduce this score

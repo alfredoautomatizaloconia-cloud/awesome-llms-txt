@@ -32,7 +32,7 @@ Category: **comms** · [Live llms.txt](https://www.adlogomat.nl/llms.txt) · Sna
 | Coverage | 0/20 | _thin_sectioning, few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_203_days_ |
+| Freshness | 3/10 | _stale_208_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 2/6 | _oversized_116kb_ |
@@ -49,14 +49,14 @@ Category: **comms** · [Live llms.txt](https://www.adlogomat.nl/llms.txt) · Sna
 - Spec compliance (4/18): multi_h1_27, no_blockquote_summary, no_structure
 - Coverage (0/20): thin_sectioning, few_value_links, missing_canonical_sections
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (3/10): stale_203_days
+- Freshness (3/10): stale_208_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 - Size discipline (2/6): oversized_116kb
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 28 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.adlogomat.nl.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.adlogomat.nl)
+[![llms.txt score 28 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.adlogomat.nl.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.adlogomat.nl)
 ```
 
 ## Reproduce this score

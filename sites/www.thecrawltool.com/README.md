@@ -2,8 +2,8 @@
 domain: www.thecrawltool.com
 display_name: The Crawl Tool
 category: comms
-score: 50
-grade: C
+score: 48
+grade: D
 last_scored: 2026-05-27
 verified_url: https://www.thecrawltool.com/llms.txt
 file_size_bytes: 390
@@ -15,7 +15,7 @@ freshness_age_days: 26
 
 # The Crawl Tool
 
-![Score 50/100 · Grade C](../../docs/badge/www.thecrawltool.com.svg)
+![Score 48/100 · Grade D](../../docs/badge/www.thecrawltool.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.thecrawltool.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -32,7 +32,7 @@ Category: **comms** · [Live llms.txt](https://www.thecrawltool.com/llms.txt) ·
 | Coverage | 1/20 | _thin_sectioning, few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 9/10 | |
+| Freshness | 7/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://www.thecrawltool.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.thecrawltool.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.thecrawltool.com)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.thecrawltool.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.thecrawltool.com)
 ```
 
 ## Reproduce this score

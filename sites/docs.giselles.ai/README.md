@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.giselles.ai/en/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.giselles.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.giselles.ai)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.giselles.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.giselles.ai)
 ```
 
 ## Reproduce this score

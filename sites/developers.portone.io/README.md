@@ -55,7 +55,7 @@ Category: **billing** · [Live llms.txt](https://developers.portone.io/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developers.portone.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.portone.io)
+[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/developers.portone.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/developers.portone.io)
 ```
 
 ## Reproduce this score

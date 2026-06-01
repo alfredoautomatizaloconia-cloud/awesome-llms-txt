@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://webrecorder.net/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/webrecorder.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/webrecorder.net)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/webrecorder.net.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/webrecorder.net)
 ```
 
 ## Reproduce this score

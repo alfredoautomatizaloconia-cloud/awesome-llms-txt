@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://iteroapp.ai/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/iteroapp.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/iteroapp.ai)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/iteroapp.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/iteroapp.ai)
 ```
 
 ## Reproduce this score

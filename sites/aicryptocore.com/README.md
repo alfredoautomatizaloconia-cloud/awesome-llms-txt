@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://aicryptocore.com/llms.txt) ·
 | Coverage | 0/20 | _thin_sectioning, few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 5/10 | _stale_123_days_ |
+| Freshness | 5/10 | _stale_128_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 5/6 | |
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://aicryptocore.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 29 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/aicryptocore.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/aicryptocore.com)
+[![llms.txt score 29 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/aicryptocore.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/aicryptocore.com)
 ```
 
 ## Reproduce this score

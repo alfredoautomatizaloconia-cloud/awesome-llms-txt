@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://toriut.com/llms.txt) · Snaps
 | Coverage | 0/20 | _thin_sectioning, few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 1/10 | _stale_447_days_ |
+| Freshness | 1/10 | _stale_452_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -50,13 +50,13 @@ Category: **dev-tools** · [Live llms.txt](https://toriut.com/llms.txt) · Snaps
 - Spec compliance (0/18): no_h1, no_blockquote_summary, no_structure
 - Coverage (0/20): thin_sectioning, few_value_links, missing_canonical_sections
 - Agent-action declarations (0/14): no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec
-- Freshness (1/10): stale_447_days
+- Freshness (1/10): stale_452_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 26 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/toriut.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/toriut.com)
+[![llms.txt score 26 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/toriut.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/toriut.com)
 ```
 
 ## Reproduce this score

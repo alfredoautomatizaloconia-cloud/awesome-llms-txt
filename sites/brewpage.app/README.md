@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://brewpage.app/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/brewpage.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/brewpage.app)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/brewpage.app.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/brewpage.app)
 ```
 
 ## Reproduce this score

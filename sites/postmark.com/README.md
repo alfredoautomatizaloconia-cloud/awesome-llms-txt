@@ -2,7 +2,7 @@
 domain: postmark.com
 display_name: Postmark
 category: comms
-score: 69
+score: 68
 grade: B
 last_scored: 2026-05-27
 verified_url: https://postmarkapp.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Postmark
 
-![Score 69/100 · Grade B](../../docs/badge/postmark.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/postmark.com.svg)
 
 Category: **comms** · [Live llms.txt](https://postmarkapp.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **comms** · [Live llms.txt](https://postmarkapp.com/llms.txt) · Snap
 | Coverage | 17/20 | |
 | Agent-action declarations | 1/14 | _no_llms_full_link, no_md_url_twins, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 6/8 | _redirect_chain_ |
 | Auth signposting | 6/8 | |
 | Size discipline | 4/6 | |
@@ -42,7 +42,6 @@ Category: **comms** · [Live llms.txt](https://postmarkapp.com/llms.txt) · Snap
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Content-Type & encoding (4/4)
 - Voice (2/2)
 
@@ -53,7 +52,7 @@ Category: **comms** · [Live llms.txt](https://postmarkapp.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/postmark.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/postmark.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/postmark.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/postmark.com)
 ```
 
 ## Reproduce this score

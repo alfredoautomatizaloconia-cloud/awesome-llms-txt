@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.ionq.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.ionq.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.ionq.com)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.ionq.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.ionq.com)
 ```
 
 ## Reproduce this score

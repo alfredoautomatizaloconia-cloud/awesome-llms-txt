@@ -141,7 +141,7 @@ const top25section = `## Top 25
 |---|------|--------|------:|:-----:|----------|-----:|
 ${top25.map(row).join('\n')}
 
-[Full table (${stats.total.toLocaleString()} rows) →](./docs/leaderboard.json) · [Sortable web view →](https://agentrhq.github.io/awesome-llms-txt/) ${'<!-- pages -->'}
+[Full table (${stats.total.toLocaleString()} rows) →](./docs/leaderboard.json) · [Sortable web view →](https://zriyansh.github.io/awesome-llms-txt/) ${'<!-- pages -->'}
 
 `;
 
@@ -239,7 +239,7 @@ Zero runtime dependencies. Node ≥ 18. Tool source: [\`tools/llms-txt-score/\`]
 Every scored site has its own SVG badge at \`web/badge/<domain>.svg\`. Drop this in your project README:
 
 \`\`\`markdown
-[![llms.txt score](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/your-site.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/your-site.com)
+[![llms.txt score](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/your-site.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/your-site.com)
 \`\`\`
 
 The badge color tracks the grade (green for A, red for F). Re-scored monthly. The badge updates automatically.

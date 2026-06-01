@@ -56,7 +56,7 @@ Category: **commerce** · [Live llms.txt](https://medusajs.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/medusajs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/medusajs.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/medusajs.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/medusajs.com)
 ```
 
 ## Reproduce this score

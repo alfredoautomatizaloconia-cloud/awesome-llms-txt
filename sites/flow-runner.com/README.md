@@ -2,7 +2,7 @@
 domain: flow-runner.com
 display_name: FlowRunner
 category: comms
-score: 68
+score: 67
 grade: B
 last_scored: 2026-05-27
 verified_url: https://flow-runner.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # FlowRunner
 
-![Score 68/100 · Grade B](../../docs/badge/flow-runner.com.svg)
+![Score 67/100 · Grade B](../../docs/badge/flow-runner.com.svg)
 
 Category: **comms** · [Live llms.txt](https://flow-runner.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **comms** · [Live llms.txt](https://flow-runner.com/llms.txt) · Snap
 | Coverage | 14/20 | |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 8/8 | |
 | Size discipline | 5/6 | |
@@ -42,7 +42,6 @@ Category: **comms** · [Live llms.txt](https://flow-runner.com/llms.txt) · Snap
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Auth signposting (8/8)
 - Content-Type & encoding (4/4)
@@ -55,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://flow-runner.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/flow-runner.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/flow-runner.com)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/flow-runner.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/flow-runner.com)
 ```
 
 ## Reproduce this score

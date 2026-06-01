@@ -10,7 +10,7 @@
   "file_size_bytes": 3908,
   "last_modified": "Tue, 19 May 2026 20:03:15 GMT",
   "freshness_age_days": 7,
-  "score": 56,
+  "score": 55,
   "grade": "C",
   "components": [
     {
@@ -53,9 +53,9 @@
     {
       "id": "freshness",
       "max": 10,
-      "points": 10,
+      "points": 9,
       "reasons": [],
-      "age_days": 7,
+      "age_days": 12,
       "source": "last_modified"
     },
     {

@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.whisk.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.whisk.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.whisk.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.whisk.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.whisk.com)
 ```
 
 ## Reproduce this score

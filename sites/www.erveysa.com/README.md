@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.erveysa.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.erveysa.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.erveysa.com)
+[![llms.txt score 41 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.erveysa.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.erveysa.com)
 ```
 
 ## Reproduce this score

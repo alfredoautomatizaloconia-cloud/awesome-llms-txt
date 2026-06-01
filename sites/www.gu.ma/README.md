@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.gu.ma/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.gu.ma.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gu.ma)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.gu.ma.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.gu.ma)
 ```
 
 ## Reproduce this score

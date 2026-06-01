@@ -2,7 +2,7 @@
 domain: kotlinlang.org
 display_name: Kotlin
 category: dev-tools
-score: 55
+score: 54
 grade: C
 last_scored: 2026-05-27
 verified_url: https://kotlinlang.org/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Kotlin
 
-![Score 55/100 · Grade C](../../docs/badge/kotlinlang.org.svg)
+![Score 54/100 · Grade C](../../docs/badge/kotlinlang.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://kotlinlang.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://kotlinlang.org/llms.txt) · S
 | Coverage | 10/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 4/6 | |
@@ -41,7 +41,6 @@ Category: **dev-tools** · [Live llms.txt](https://kotlinlang.org/llms.txt) · S
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Content-Type & encoding (4/4)
 - Voice (2/2)
@@ -54,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://kotlinlang.org/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/kotlinlang.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/kotlinlang.org)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/kotlinlang.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/kotlinlang.org)
 ```
 
 ## Reproduce this score

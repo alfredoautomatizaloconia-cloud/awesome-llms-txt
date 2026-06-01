@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://guide.dem.exchange:443/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.carbon.network.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.carbon.network)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.carbon.network.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.carbon.network)
 ```
 
 ## Reproduce this score

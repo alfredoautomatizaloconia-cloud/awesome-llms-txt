@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://www.quotidianomotori.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/quotidianomotori.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/quotidianomotori.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/quotidianomotori.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/quotidianomotori.com)
 ```
 
 ## Reproduce this score

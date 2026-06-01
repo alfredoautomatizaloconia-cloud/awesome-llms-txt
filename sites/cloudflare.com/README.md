@@ -52,7 +52,7 @@ Category: **infra** · [Live llms.txt](https://www.cloudflare.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cloudflare.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cloudflare.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/cloudflare.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/cloudflare.com)
 ```
 
 ## Reproduce this score

@@ -56,7 +56,7 @@ Category: **commerce** · [Live llms.txt](https://kraemerlaw.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/kraemerlaw.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/kraemerlaw.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/kraemerlaw.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/kraemerlaw.com)
 ```
 
 ## Reproduce this score

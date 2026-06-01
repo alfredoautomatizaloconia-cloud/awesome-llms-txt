@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://emailgic.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/emailgic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/emailgic.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/emailgic.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/emailgic.com)
 ```
 
 ## Reproduce this score

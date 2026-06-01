@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://vercel.com/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/vercel.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vercel.com)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/vercel.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/vercel.com)
 ```
 
 ## Reproduce this score

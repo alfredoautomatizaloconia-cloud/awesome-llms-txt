@@ -55,7 +55,7 @@ Category: **commerce** · [Live llms.txt](https://www.inro.social/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.inro.social.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.inro.social)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.inro.social.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.inro.social)
 ```
 
 ## Reproduce this score

@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.turso.tech/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.turso.tech.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.turso.tech)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.turso.tech.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.turso.tech)
 ```
 
 ## Reproduce this score

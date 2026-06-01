@@ -52,7 +52,7 @@ Category: **auth** · [Live llms.txt](https://lifewithai.ai/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/lifewithai.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/lifewithai.ai)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/lifewithai.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/lifewithai.ai)
 ```
 
 ## Reproduce this score

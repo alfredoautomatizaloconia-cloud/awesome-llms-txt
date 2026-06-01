@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.chirpwireless.io/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.chirpwireless.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chirpwireless.io)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.chirpwireless.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.chirpwireless.io)
 ```
 
 ## Reproduce this score

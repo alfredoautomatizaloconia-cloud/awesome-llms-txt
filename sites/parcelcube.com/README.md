@@ -56,7 +56,7 @@ Category: **commerce** · [Live llms.txt](https://parcelcube.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/parcelcube.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/parcelcube.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/parcelcube.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/parcelcube.com)
 ```
 
 ## Reproduce this score

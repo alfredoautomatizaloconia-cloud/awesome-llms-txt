@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://hono.dev/llms.txt) · Snapshot: [
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/hono.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/hono.dev)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/hono.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/hono.dev)
 ```
 
 ## Reproduce this score

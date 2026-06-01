@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://cureangelman.org/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cureangelman.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cureangelman.org)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/cureangelman.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/cureangelman.org)
 ```
 
 ## Reproduce this score

@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.docetl.org/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.docetl.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.docetl.org)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.docetl.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.docetl.org)
 ```
 
 ## Reproduce this score

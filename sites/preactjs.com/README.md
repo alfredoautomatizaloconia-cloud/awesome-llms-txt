@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://preactjs.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/preactjs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/preactjs.com)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/preactjs.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/preactjs.com)
 ```
 
 ## Reproduce this score

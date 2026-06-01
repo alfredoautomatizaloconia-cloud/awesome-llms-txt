@@ -56,7 +56,7 @@ Category: **billing** · [Live llms.txt](https://www.vibebot.gg/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.vibebot.gg.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.vibebot.gg)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.vibebot.gg.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.vibebot.gg)
 ```
 
 ## Reproduce this score

@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://scripnote.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 30 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/scripnote.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/scripnote.com)
+[![llms.txt score 30 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/scripnote.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/scripnote.com)
 ```
 
 ## Reproduce this score

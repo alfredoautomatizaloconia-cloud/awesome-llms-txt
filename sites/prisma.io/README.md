@@ -56,7 +56,7 @@ Category: **data** · [Live llms.txt](https://www.prisma.io/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/prisma.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/prisma.io)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/prisma.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/prisma.io)
 ```
 
 ## Reproduce this score

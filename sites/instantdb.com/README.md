@@ -56,7 +56,7 @@ Category: **data** · [Live llms.txt](https://www.instantdb.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/instantdb.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/instantdb.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/instantdb.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/instantdb.com)
 ```
 
 ## Reproduce this score

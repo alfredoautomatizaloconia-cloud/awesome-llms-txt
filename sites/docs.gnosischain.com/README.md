@@ -52,7 +52,7 @@ Category: **infra** · [Live llms.txt](https://docs.gnosischain.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.gnosischain.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.gnosischain.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.gnosischain.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.gnosischain.com)
 ```
 
 ## Reproduce this score

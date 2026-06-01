@@ -54,7 +54,7 @@ Category: **ai-platform** · [Live llms.txt](https://deapi.ai/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/deapi.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/deapi.ai)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/deapi.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/deapi.ai)
 ```
 
 ## Reproduce this score

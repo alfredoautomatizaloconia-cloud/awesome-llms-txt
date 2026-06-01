@@ -55,7 +55,7 @@ Category: **search** · [Live llms.txt](https://llmrefs.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/llmrefs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/llmrefs.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/llmrefs.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/llmrefs.com)
 ```
 
 ## Reproduce this score

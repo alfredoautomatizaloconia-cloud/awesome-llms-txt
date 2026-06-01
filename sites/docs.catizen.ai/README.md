@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.catizen.ai/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.catizen.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.catizen.ai)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.catizen.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.catizen.ai)
 ```
 
 ## Reproduce this score

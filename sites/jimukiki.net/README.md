@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://jimukiki.net/llms.txt) · Sna
 | Coverage | 10/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 1/10 | _stale_433_days_ |
+| Freshness | 1/10 | _stale_438_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 2/6 | _oversized_92kb_ |
@@ -47,14 +47,14 @@ Category: **dev-tools** · [Live llms.txt](https://jimukiki.net/llms.txt) · Sna
 ## What's weak
 
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (1/10): stale_433_days
+- Freshness (1/10): stale_438_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 - Size discipline (2/6): oversized_92kb
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/jimukiki.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/jimukiki.net)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/jimukiki.net.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/jimukiki.net)
 ```
 
 ## Reproduce this score

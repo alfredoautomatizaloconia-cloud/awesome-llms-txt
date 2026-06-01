@@ -49,7 +49,7 @@ Category: **dev-tools** · [Live llms.txt](https://open.longportapp.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/open.longportapp.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/open.longportapp.com)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/open.longportapp.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/open.longportapp.com)
 ```
 
 ## Reproduce this score

@@ -53,7 +53,7 @@ Category: **observability** · [Live llms.txt](https://newrelic.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/newrelic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/newrelic.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/newrelic.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/newrelic.com)
 ```
 
 ## Reproduce this score

@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://developer.onetrust.com/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developer.onetrust.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developer.onetrust.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/developer.onetrust.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/developer.onetrust.com)
 ```
 
 ## Reproduce this score

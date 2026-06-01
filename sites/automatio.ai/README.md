@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://automatio.ai/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/automatio.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/automatio.ai)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/automatio.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/automatio.ai)
 ```
 
 ## Reproduce this score

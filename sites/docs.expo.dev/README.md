@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.expo.dev/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.expo.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.expo.dev)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.expo.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.expo.dev)
 ```
 
 ## Reproduce this score

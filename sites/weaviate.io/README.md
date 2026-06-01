@@ -52,7 +52,7 @@ Category: **data** · [Live llms.txt](https://weaviate.io/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/weaviate.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/weaviate.io)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/weaviate.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/weaviate.io)
 ```
 
 ## Reproduce this score

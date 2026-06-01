@@ -56,7 +56,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://sarhaangulati.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.sarhaangulati.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.sarhaangulati.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.sarhaangulati.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.sarhaangulati.com)
 ```
 
 ## Reproduce this score

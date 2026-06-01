@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://cleaningservice4u.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cleaningservice4u.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cleaningservice4u.com)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/cleaningservice4u.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/cleaningservice4u.com)
 ```
 
 ## Reproduce this score

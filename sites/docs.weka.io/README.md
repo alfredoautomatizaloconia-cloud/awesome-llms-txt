@@ -53,7 +53,7 @@ Category: **infra** · [Live llms.txt](https://docs.weka.io/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.weka.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.weka.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.weka.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.weka.io)
 ```
 
 ## Reproduce this score

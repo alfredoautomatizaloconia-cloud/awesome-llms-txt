@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://vectorsgroup.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/vectorsgroup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vectorsgroup.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/vectorsgroup.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/vectorsgroup.com)
 ```
 
 ## Reproduce this score

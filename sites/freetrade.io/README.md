@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://freetrade.io/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/freetrade.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/freetrade.io)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/freetrade.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/freetrade.io)
 ```
 
 ## Reproduce this score

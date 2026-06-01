@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://gimmecalc.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/gimmecalc.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/gimmecalc.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/gimmecalc.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/gimmecalc.com)
 ```
 
 ## Reproduce this score

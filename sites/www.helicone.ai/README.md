@@ -57,7 +57,7 @@ Category: **observability** · [Live llms.txt](https://www.helicone.ai/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.helicone.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.helicone.ai)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.helicone.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.helicone.ai)
 ```
 
 ## Reproduce this score

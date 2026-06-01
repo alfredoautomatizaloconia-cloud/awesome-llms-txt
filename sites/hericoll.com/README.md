@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://hericoll.com/llms.txt) · Sna
 | Coverage | 8/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_344_days_ |
+| Freshness | 3/10 | _stale_349_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 5/6 | |
@@ -48,13 +48,13 @@ Category: **dev-tools** · [Live llms.txt](https://hericoll.com/llms.txt) · Sna
 
 - Coverage (8/20): missing_canonical_sections
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (3/10): stale_344_days
+- Freshness (3/10): stale_349_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/hericoll.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/hericoll.com)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/hericoll.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/hericoll.com)
 ```
 
 ## Reproduce this score

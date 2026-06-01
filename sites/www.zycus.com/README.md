@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.zycus.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.zycus.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.zycus.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.zycus.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.zycus.com)
 ```
 
 ## Reproduce this score

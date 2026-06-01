@@ -53,7 +53,7 @@ Category: **auth** · [Live llms.txt](https://www.parseable.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.parseable.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.parseable.com)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.parseable.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.parseable.com)
 ```
 
 ## Reproduce this score

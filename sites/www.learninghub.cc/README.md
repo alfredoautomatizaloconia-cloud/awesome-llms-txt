@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.learninghub.cc/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.learninghub.cc.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.learninghub.cc)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.learninghub.cc.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.learninghub.cc)
 ```
 
 ## Reproduce this score

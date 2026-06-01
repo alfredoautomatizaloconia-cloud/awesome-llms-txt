@@ -33,7 +33,7 @@ Category: **dev-tools** · [Live llms.txt](https://app.rapidtextai.com/llms.txt)
 | Coverage | 6/20 | _thin_sectioning, missing_canonical_sections_ |
 | Agent-action declarations | 3/14 | _no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_309_days_ |
+| Freshness | 3/10 | _stale_314_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -50,13 +50,13 @@ Category: **dev-tools** · [Live llms.txt](https://app.rapidtextai.com/llms.txt)
 
 - Coverage (6/20): thin_sectioning, missing_canonical_sections
 - Agent-action declarations (3/14): no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec
-- Freshness (3/10): stale_309_days
+- Freshness (3/10): stale_314_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/app.rapidtextai.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/app.rapidtextai.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/app.rapidtextai.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/app.rapidtextai.com)
 ```
 
 ## Reproduce this score

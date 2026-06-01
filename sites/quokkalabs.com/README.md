@@ -2,7 +2,7 @@
 domain: quokkalabs.com
 display_name: Quokkalabs
 category: dev-tools
-score: 33
+score: 32
 grade: F
 last_scored: 2026-05-27
 verified_url: https://quokkalabs.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Quokkalabs
 
-![Score 33/100 · Grade F](../../docs/badge/quokkalabs.com.svg)
+![Score 32/100 · Grade F](../../docs/badge/quokkalabs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://quokkalabs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://quokkalabs.com/llms.txt) · S
 | Coverage | 0/20 | _thin_sectioning, few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 4/6 | |
@@ -41,7 +41,6 @@ Category: **dev-tools** · [Live llms.txt](https://quokkalabs.com/llms.txt) · S
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Voice (2/2)
 
@@ -55,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://quokkalabs.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 33 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/quokkalabs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/quokkalabs.com)
+[![llms.txt score 32 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/quokkalabs.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/quokkalabs.com)
 ```
 
 ## Reproduce this score

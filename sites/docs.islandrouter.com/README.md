@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.islandrouter.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.islandrouter.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.islandrouter.com)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.islandrouter.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.islandrouter.com)
 ```
 
 ## Reproduce this score

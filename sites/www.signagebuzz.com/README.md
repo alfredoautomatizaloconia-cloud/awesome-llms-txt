@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.signagebuzz.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.signagebuzz.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.signagebuzz.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.signagebuzz.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.signagebuzz.com)
 ```
 
 ## Reproduce this score

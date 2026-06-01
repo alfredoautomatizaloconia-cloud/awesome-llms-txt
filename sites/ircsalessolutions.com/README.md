@@ -2,7 +2,7 @@
 domain: ircsalessolutions.com
 display_name: IRC Sales Solutions
 category: infra
-score: 53
+score: 51
 grade: C
 last_scored: 2026-05-27
 verified_url: https://ircsalessolutions.com/wp-content/uploads/2026/02/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 89
 
 # IRC Sales Solutions
 
-![Score 53/100 · Grade C](../../docs/badge/ircsalessolutions.com.svg)
+![Score 51/100 · Grade C](../../docs/badge/ircsalessolutions.com.svg)
 
 Category: **infra** · [Live llms.txt](https://ircsalessolutions.com/wp-content/uploads/2026/02/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **infra** · [Live llms.txt](https://ircsalessolutions.com/wp-content/
 | Coverage | 10/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 7/10 | |
+| Freshness | 5/10 | _stale_94_days_ |
 | Discoverability | 6/8 | _redirect_chain_ |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 5/6 | |
@@ -49,7 +49,7 @@ Category: **infra** · [Live llms.txt](https://ircsalessolutions.com/wp-content/
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ircsalessolutions.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ircsalessolutions.com)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/ircsalessolutions.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/ircsalessolutions.com)
 ```
 
 ## Reproduce this score

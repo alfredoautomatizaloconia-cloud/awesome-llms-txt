@@ -33,7 +33,7 @@ Category: **dev-tools** · [Live llms.txt](https://racebrain.io/llms.txt) · Sna
 | Coverage | 3/20 | _few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 5/10 | _stale_91_days_ |
+| Freshness | 5/10 | _stale_96_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://racebrain.io/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/racebrain.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/racebrain.io)
+[![llms.txt score 44 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/racebrain.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/racebrain.io)
 ```
 
 ## Reproduce this score

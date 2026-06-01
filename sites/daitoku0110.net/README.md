@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://daitoku0110.net/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/daitoku0110.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/daitoku0110.net)
+[![llms.txt score 39 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/daitoku0110.net.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/daitoku0110.net)
 ```
 
 ## Reproduce this score

@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://taishoku-anshin-daiko.com/llm
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/taishoku-anshin-daiko.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/taishoku-anshin-daiko.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/taishoku-anshin-daiko.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/taishoku-anshin-daiko.com)
 ```
 
 ## Reproduce this score

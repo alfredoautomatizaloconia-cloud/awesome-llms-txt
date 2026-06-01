@@ -7,7 +7,7 @@
 [![A grades](https://img.shields.io/badge/A_grades-3-brightgreen.svg)](#top-25)
 [![License: CC0-1.0](https://img.shields.io/badge/data-CC0--1.0-lightgrey.svg)](./LICENSE)
 
-The public leaderboard of `llms.txt` quality. We scored **1,016 production files**. Stripe scored **69**. Vercel scored **71**. Anthropic Docs scored **68**. Only **3** sites earned an **A**. What's your score?
+The public leaderboard of `llms.txt` quality. We scored **1,016 production files**. Stripe scored **69**. Vercel scored **71**. Anthropic Docs scored **67**. Only **3** sites earned an **A**. What's your score?
 
 ## Contents
 
@@ -57,7 +57,7 @@ No site can claim a different score by emailing us. The tool is the answer. If y
 - **1,016** accepted `llms.txt` files. We attempted **1,275** and rejected the rest for 404, HTML body, redirect chains, or auth walls.
 - **3** sites earned an **A** grade. Top of the leaderboard: **[Neon](./sites/neon.tech/)** at **89**.
 - Average score: **58 / 100**. Median: **58**.
-- Grade distribution: A=3 · A-=7 · B+=51 · B=231 · C=535 · D=144 · F=45.
+- Grade distribution: A=3 · A-=7 · B+=51 · B=228 · C=535 · D=140 · F=52.
 - Real `Last-Modified` data on **553 / 1016** sites (54%). The rest score the neutral 5 / 10 default on Freshness until they emit the header.
 
 ## Names you know
@@ -92,8 +92,8 @@ How the most-recognised dev tools and SaaS scored. Sorted by score within this c
 | 24 | [Datadog](./sites/datadog.com/) | `datadog.com` | 69 | **B** | Observability |
 | 25 | [React](./sites/react.dev/) | `react.dev` | 69 | **B** | Developer tools |
 | 26 | [Stripe Docs](./sites/docs.stripe.com/) | `docs.stripe.com` | 69 | **B** | Billing |
-| 27 | [Anthropic Docs](./sites/docs.anthropic.com/) | `docs.anthropic.com` | 68 | **B** | AI platforms |
-| 28 | [Cal.com](./sites/cal.com/) | `cal.com` | 68 | **B** | Developer tools |
+| 27 | [Cal.com](./sites/cal.com/) | `cal.com` | 68 | **B** | Developer tools |
+| 28 | [Anthropic Docs](./sites/docs.anthropic.com/) | `docs.anthropic.com` | 67 | **B** | AI platforms |
 | 29 | [Cohere](./sites/cohere.com/) | `cohere.com` | 67 | **B** | AI platforms |
 | 30 | [Vue.js](./sites/vuejs.org/) | `vuejs.org` | 67 | **B** | Developer tools |
 | 31 | [Clerk](./sites/clerk.com/) | `clerk.com` | 65 | **B** | Auth |
@@ -130,21 +130,21 @@ The same rubric grades every site in the corpus. Browse the [Top 25](#top-25) fo
 | 10 | [X Developer Platform](./sites/docs.x.com/) | `docs.x.com` | 80 | **A-** | Comms | 3.1 KB |
 | 11 | [Apify](./sites/apify.com/) | `apify.com` | 79 | **B+** | Infra | 11.8 KB |
 | 12 | [Linear](./sites/linear.app/) | `linear.app` | 79 | **B+** | Developer tools | 9.2 KB |
-| 13 | [Remult](./sites/remult.dev/) | `remult.dev` | 79 | **B+** | Developer tools | 26.1 KB |
-| 14 | [Adyen Docs](./sites/docs.adyen.com/) | `docs.adyen.com` | 78 | **B+** | Billing | 389.4 KB |
-| 15 | [Better Auth](./sites/better-auth.com/) | `better-auth.com` | 78 | **B+** | Auth | 21.7 KB |
-| 16 | [Deployhq](./sites/www.deployhq.com/) | `www.deployhq.com` | 78 | **B+** | Infra | 117.4 KB |
-| 17 | [Formo Docs](./sites/docs.formo.so/) | `docs.formo.so` | 78 | **B+** | Observability | 25.9 KB |
-| 18 | [Mangopay docs](./sites/docs.mangopay.com/) | `docs.mangopay.com` | 78 | **B+** | Billing | 54.9 KB |
-| 19 | [Nitro](./sites/nitro.build/) | `nitro.build` | 78 | **B+** | Developer tools | 9.7 KB |
-| 20 | [Nuxt Docs](./sites/nuxt.com/) | `nuxt.com` | 78 | **B+** | Developer tools | 50.7 KB |
-| 21 | [Parallel](./sites/docs.parallel.ai/) | `docs.parallel.ai` | 78 | **B+** | AI platforms | 19.7 KB |
-| 22 | [Plan Harmony](./sites/planharmony.com/) | `planharmony.com` | 78 | **B+** | Developer tools | 69.3 KB |
-| 23 | [Redis](./sites/redis.io/) | `redis.io` | 78 | **B+** | Data | 45.8 KB |
-| 24 | [Scrapfly Documentation](./sites/docs.scrapfly.io/) | `docs.scrapfly.io` | 78 | **B+** | Infra | 22.5 KB |
-| 25 | [Uithing](./sites/uithing.com/) | `uithing.com` | 78 | **B+** | Developer tools | 31.5 KB |
+| 13 | [Adyen Docs](./sites/docs.adyen.com/) | `docs.adyen.com` | 78 | **B+** | Billing | 389.4 KB |
+| 14 | [Better Auth](./sites/better-auth.com/) | `better-auth.com` | 78 | **B+** | Auth | 21.7 KB |
+| 15 | [Deployhq](./sites/www.deployhq.com/) | `www.deployhq.com` | 78 | **B+** | Infra | 117.4 KB |
+| 16 | [Formo Docs](./sites/docs.formo.so/) | `docs.formo.so` | 78 | **B+** | Observability | 25.9 KB |
+| 17 | [Mangopay docs](./sites/docs.mangopay.com/) | `docs.mangopay.com` | 78 | **B+** | Billing | 54.9 KB |
+| 18 | [Nuxt Docs](./sites/nuxt.com/) | `nuxt.com` | 78 | **B+** | Developer tools | 50.7 KB |
+| 19 | [Parallel](./sites/docs.parallel.ai/) | `docs.parallel.ai` | 78 | **B+** | AI platforms | 19.7 KB |
+| 20 | [Plan Harmony](./sites/planharmony.com/) | `planharmony.com` | 78 | **B+** | Developer tools | 69.3 KB |
+| 21 | [Redis](./sites/redis.io/) | `redis.io` | 78 | **B+** | Data | 45.8 KB |
+| 22 | [Remult](./sites/remult.dev/) | `remult.dev` | 78 | **B+** | Developer tools | 26.1 KB |
+| 23 | [Scrapfly Documentation](./sites/docs.scrapfly.io/) | `docs.scrapfly.io` | 78 | **B+** | Infra | 22.5 KB |
+| 24 | [Uithing](./sites/uithing.com/) | `uithing.com` | 78 | **B+** | Developer tools | 31.5 KB |
+| 25 | [포트원 개발자센터 문서](./sites/developers.portone.io/) | `developers.portone.io` | 78 | **B+** | Billing | 50.2 KB |
 
-[Full table (1,016 rows) →](./docs/leaderboard.json) · [Sortable web view →](https://agentrhq.github.io/awesome-llms-txt/) <!-- pages -->
+[Full table (1,016 rows) →](./docs/leaderboard.json) · [Sortable web view →](https://zriyansh.github.io/awesome-llms-txt/) <!-- pages -->
 
 ## Lowest scorers (each is a 5-minute fix)
 
@@ -195,8 +195,8 @@ The rubric is identical for every site. Categories exist so an agent builder loo
 | 10 | [deAPI](./sites/deapi.ai/) | `deapi.ai` | 70 | **B** |
 | 11 | [LangChain (JS)](./sites/js.langchain.com/) | `js.langchain.com` | 70 | **B** |
 | 12 | [Together AI](./sites/together.ai/) | `together.ai` | 70 | **B** |
-| 13 | [Anthropic Docs](./sites/docs.anthropic.com/) | `docs.anthropic.com` | 68 | **B** |
-| 14 | [Giles' Blog](./sites/www.gilesthomas.com/) | `www.gilesthomas.com` | 68 | **B** |
+| 13 | [Giles' Blog](./sites/www.gilesthomas.com/) | `www.gilesthomas.com` | 68 | **B** |
+| 14 | [Anthropic Docs](./sites/docs.anthropic.com/) | `docs.anthropic.com` | 67 | **B** |
 | 15 | [Cohere](./sites/cohere.com/) | `cohere.com` | 67 | **B** |
 
 _See [`leaderboard.json`](./docs/leaderboard.json) for the full 37._
@@ -217,9 +217,9 @@ _See [`leaderboard.json`](./docs/leaderboard.json) for the full 37._
 | 10 | [Hydrolix](./sites/hydrolix.io/) | `hydrolix.io` | 67 | **B** |
 | 11 | [Equipment Python](./sites/equipment-python.vercel.app/) | `equipment-python.vercel.app` | 66 | **B** |
 | 12 | [SpacetimeDB](./sites/spacetimedb.com/) | `spacetimedb.com` | 66 | **B** |
-| 13 | [TiDB Documentation](./sites/docs.pingcap.com/) | `docs.pingcap.com` | 65 | **B** |
-| 14 | [Upstash](./sites/upstash.com/) | `upstash.com` | 65 | **B** |
-| 15 | [Pinecone](./sites/pinecone.io/) | `pinecone.io` | 64 | **C** |
+| 13 | [Upstash](./sites/upstash.com/) | `upstash.com` | 65 | **B** |
+| 14 | [Pinecone](./sites/pinecone.io/) | `pinecone.io` | 64 | **C** |
+| 15 | [Supabase](./sites/supabase.com/) | `supabase.com` | 64 | **C** |
 
 _See [`leaderboard.json`](./docs/leaderboard.json) for the full 30._
 
@@ -229,16 +229,16 @@ _See [`leaderboard.json`](./docs/leaderboard.json) for the full 30._
 |---|------|--------|------:|:-----:|
 | 1 | [Openfort](./sites/www.openfort.io/) | `www.openfort.io` | 82 | **A-** |
 | 2 | [Better Auth](./sites/better-auth.com/) | `better-auth.com` | 78 | **B+** |
-| 3 | [Civic Docs](./sites/docs.civic.com/) | `docs.civic.com` | 77 | **B+** |
-| 4 | [WorkOS](./sites/workos.com/) | `workos.com` | 77 | **B+** |
-| 5 | [Auth0](./sites/auth0.com/) | `auth0.com` | 76 | **B+** |
-| 6 | [Better Auth](./sites/www.better-auth.com/) | `www.better-auth.com` | 76 | **B+** |
+| 3 | [WorkOS](./sites/workos.com/) | `workos.com` | 77 | **B+** |
+| 4 | [Auth0](./sites/auth0.com/) | `auth0.com` | 76 | **B+** |
+| 5 | [Better Auth](./sites/www.better-auth.com/) | `www.better-auth.com` | 76 | **B+** |
+| 6 | [Civic Docs](./sites/docs.civic.com/) | `docs.civic.com` | 76 | **B+** |
 | 7 | [Lifewithai](./sites/lifewithai.ai/) | `lifewithai.ai` | 76 | **B+** |
 | 8 | [Unkey](./sites/www.unkey.com/) | `www.unkey.com` | 76 | **B+** |
 | 9 | [Dynamic Documentation](./sites/docs.dynamic.xyz/) | `docs.dynamic.xyz` | 73 | **B** |
-| 10 | [CitizenShipper](./sites/citizenshipper.com/) | `citizenshipper.com` | 71 | **B** |
-| 11 | [UniWebView](./sites/docs.uniwebview.com/) | `docs.uniwebview.com` | 71 | **B** |
-| 12 | [/n software](./sites/www.nsoftware.com/) | `www.nsoftware.com` | 70 | **B** |
+| 10 | [UniWebView](./sites/docs.uniwebview.com/) | `docs.uniwebview.com` | 71 | **B** |
+| 11 | [/n software](./sites/www.nsoftware.com/) | `www.nsoftware.com` | 70 | **B** |
+| 12 | [CitizenShipper](./sites/citizenshipper.com/) | `citizenshipper.com` | 70 | **B** |
 | 13 | [ThatDeveloperGuy](./sites/thatdeveloperguy.com/) | `thatdeveloperguy.com` | 68 | **B** |
 | 14 | [Keeper Documentation Portal](./sites/docs.keeper.io/) | `docs.keeper.io` | 67 | **B** |
 | 15 | [Cardless ID](./sites/cardlessid.org/) | `cardlessid.org` | 66 | **B** |
@@ -252,17 +252,17 @@ _See [`leaderboard.json`](./docs/leaderboard.json) for the full 31._
 | 1 | [PostHog](./sites/posthog.com/) | `posthog.com` | 81 | **A-** |
 | 2 | [Formo Docs](./sites/docs.formo.so/) | `docs.formo.so` | 78 | **B+** |
 | 3 | [Databuddy Documentation](./sites/www.databuddy.cc/) | `www.databuddy.cc` | 75 | **B+** |
-| 4 | [Contentsquare Tech Docs](./sites/docs.contentsquare.com/) | `docs.contentsquare.com` | 74 | **B** |
+| 4 | [Contentsquare Tech Docs](./sites/docs.contentsquare.com/) | `docs.contentsquare.com` | 73 | **B** |
 | 5 | [LangWatch](./sites/docs.langwatch.ai/) | `docs.langwatch.ai` | 70 | **B** |
 | 6 | [Datadog](./sites/datadog.com/) | `datadog.com` | 69 | **B** |
 | 7 | [Dailygoal](./sites/www.dailygoal.fit/) | `www.dailygoal.fit` | 66 | **B** |
 | 8 | [Cloud Studio IoT](./sites/cloudstudioiot.com/) | `cloudstudioiot.com` | 64 | **C** |
 | 9 | [jobdata API](./sites/jobdataapi.com/) | `jobdataapi.com` | 64 | **C** |
-| 10 | [Rankscale](./sites/rankscale.ai/) | `rankscale.ai` | 64 | **C** |
-| 11 | [New Relic](./sites/newrelic.com/) | `newrelic.com` | 63 | **C** |
+| 10 | [New Relic](./sites/newrelic.com/) | `newrelic.com` | 63 | **C** |
+| 11 | [Rankscale](./sites/rankscale.ai/) | `rankscale.ai` | 63 | **C** |
 | 12 | [Cloud Studio IoT](./sites/www.cloudstudioiot.com/) | `www.cloudstudioiot.com` | 62 | **C** |
 | 13 | [Helicone](./sites/www.helicone.ai/) | `www.helicone.ai` | 62 | **C** |
-| 14 | [Scout Monitoring](./sites/www.scoutapm.com/) | `www.scoutapm.com` | 62 | **C** |
+| 14 | [Scout Monitoring](./sites/www.scoutapm.com/) | `www.scoutapm.com` | 61 | **C** |
 | 15 | [Langfuse](./sites/langfuse.com/) | `langfuse.com` | 60 | **C** |
 
 _See [`leaderboard.json`](./docs/leaderboard.json) for the full 28._
@@ -280,8 +280,8 @@ _See [`leaderboard.json`](./docs/leaderboard.json) for the full 28._
 | 7 | [Docker Docs](./sites/docs.docker.com/) | `docs.docker.com` | 74 | **B** |
 | 8 | [Juno](./sites/juno.build/) | `juno.build` | 74 | **B** |
 | 9 | [Paragon Documentation](./sites/docs.useparagon.com/) | `docs.useparagon.com` | 74 | **B** |
-| 10 | [Community Charts](./sites/community-charts.github.io/) | `community-charts.github.io` | 73 | **B** |
-| 11 | [Kernel Error](./sites/www.kernel-error.de/) | `www.kernel-error.de` | 73 | **B** |
+| 10 | [Kernel Error](./sites/www.kernel-error.de/) | `www.kernel-error.de` | 73 | **B** |
+| 11 | [Community Charts](./sites/community-charts.github.io/) | `community-charts.github.io` | 72 | **B** |
 | 12 | [xmcp](./sites/xmcp.dev/) | `xmcp.dev` | 72 | **B** |
 | 13 | [Vercel](./sites/vercel.com/) | `vercel.com` | 71 | **B** |
 | 14 | [Cloudflare](./sites/cloudflare.com/) | `cloudflare.com` | 70 | **B** |
@@ -298,10 +298,10 @@ _See [`leaderboard.json`](./docs/leaderboard.json) for the full 58._
 | 3 | [Upsun](./sites/docs.upsun.com/) | `docs.upsun.com` | 73 | **B** |
 | 4 | [Upsun Fixed](./sites/docs.platform.sh/) | `docs.platform.sh` | 72 | **B** |
 | 5 | [Agoragentic Triptych OS (Agent OS)](./sites/agoragentic.com/) | `agoragentic.com` | 71 | **B** |
-| 6 | [Postmark](./sites/postmark.com/) | `postmark.com` | 69 | **B** |
-| 7 | [FlowRunner](./sites/flow-runner.com/) | `flow-runner.com` | 68 | **B** |
-| 8 | [Bika](./sites/bika.ai/) | `bika.ai` | 67 | **B** |
-| 9 | [DreamHost](./sites/www.dreamhost.com/) | `www.dreamhost.com` | 67 | **B** |
+| 6 | [Postmark](./sites/postmark.com/) | `postmark.com` | 68 | **B** |
+| 7 | [Bika](./sites/bika.ai/) | `bika.ai` | 67 | **B** |
+| 8 | [DreamHost](./sites/www.dreamhost.com/) | `www.dreamhost.com` | 67 | **B** |
+| 9 | [FlowRunner](./sites/flow-runner.com/) | `flow-runner.com` | 67 | **B** |
 | 10 | [Abstract API](./sites/abstractapi.com/) | `abstractapi.com` | 66 | **B** |
 | 11 | [Claude](./sites/claude.com/) | `claude.com` | 66 | **B** |
 | 12 | [Loops](./sites/loops.so/) | `loops.so` | 66 | **B** |
@@ -371,14 +371,14 @@ _See [`leaderboard.json`](./docs/leaderboard.json) for the full 23._
 | 4 | [Akool](./sites/akool.com/) | `akool.com` | 69 | **B** |
 | 5 | [Weather](./sites/weather.com/) | `weather.com` | 68 | **B** |
 | 6 | [Quodat](./sites/quodat.com/) | `quodat.com` | 62 | **C** |
-| 7 | [Video SDK](./sites/docs.videosdk.live/) | `docs.videosdk.live` | 61 | **C** |
+| 7 | [Video SDK](./sites/docs.videosdk.live/) | `docs.videosdk.live` | 60 | **C** |
 | 8 | [FinalBit](./sites/www.finalbitai.com/) | `www.finalbitai.com` | 59 | **C** |
 | 9 | [Truffle](./sites/www.hiretruffle.com/) | `www.hiretruffle.com` | 58 | **C** |
 | 10 | [Default Store View](./sites/www.expodisplays.ca/) | `www.expodisplays.ca` | 56 | **C** |
 | 11 | [Qeeebo](./sites/qeeebo.com/) | `qeeebo.com` | 56 | **C** |
-| 12 | [PrompTessor](./sites/promptessor.com/) | `promptessor.com` | 55 | **C** |
-| 13 | [ShowsWatched](./sites/showswatched.com/) | `showswatched.com` | 55 | **C** |
-| 14 | [Tagshop](./sites/tagshop.ai/) | `tagshop.ai` | 55 | **C** |
+| 12 | [ShowsWatched](./sites/showswatched.com/) | `showswatched.com` | 55 | **C** |
+| 13 | [Tagshop](./sites/tagshop.ai/) | `tagshop.ai` | 55 | **C** |
+| 14 | [PrompTessor](./sites/promptessor.com/) | `promptessor.com` | 54 | **C** |
 | 15 | [Doc2lang](./sites/doc2lang.com/) | `doc2lang.com` | 51 | **C** |
 
 _See [`leaderboard.json`](./docs/leaderboard.json) for the full 17._
@@ -400,15 +400,15 @@ _See [`leaderboard.json`](./docs/leaderboard.json) for the full 17._
 |---|------|--------|------:|:-----:|
 | 1 | [Zapier Docs](./sites/docs.zapier.com/) | `docs.zapier.com` | 82 | **A-** |
 | 2 | [Linear](./sites/linear.app/) | `linear.app` | 79 | **B+** |
-| 3 | [Remult](./sites/remult.dev/) | `remult.dev` | 79 | **B+** |
-| 4 | [Nitro](./sites/nitro.build/) | `nitro.build` | 78 | **B+** |
-| 5 | [Nuxt Docs](./sites/nuxt.com/) | `nuxt.com` | 78 | **B+** |
-| 6 | [Plan Harmony](./sites/planharmony.com/) | `planharmony.com` | 78 | **B+** |
-| 7 | [Uithing](./sites/uithing.com/) | `uithing.com` | 78 | **B+** |
-| 8 | [Datafold](./sites/docs.datafold.com/) | `docs.datafold.com` | 77 | **B+** |
-| 9 | [Docs](./sites/docs.flowx.ai/) | `docs.flowx.ai` | 77 | **B+** |
-| 10 | [GitHub](./sites/github.com/) | `github.com` | 77 | **B+** |
-| 11 | [Hyperline](./sites/docs.hyperline.co/) | `docs.hyperline.co` | 77 | **B+** |
+| 3 | [Nuxt Docs](./sites/nuxt.com/) | `nuxt.com` | 78 | **B+** |
+| 4 | [Plan Harmony](./sites/planharmony.com/) | `planharmony.com` | 78 | **B+** |
+| 5 | [Remult](./sites/remult.dev/) | `remult.dev` | 78 | **B+** |
+| 6 | [Uithing](./sites/uithing.com/) | `uithing.com` | 78 | **B+** |
+| 7 | [Datafold](./sites/docs.datafold.com/) | `docs.datafold.com` | 77 | **B+** |
+| 8 | [Docs](./sites/docs.flowx.ai/) | `docs.flowx.ai` | 77 | **B+** |
+| 9 | [GitHub](./sites/github.com/) | `github.com` | 77 | **B+** |
+| 10 | [Hyperline](./sites/docs.hyperline.co/) | `docs.hyperline.co` | 77 | **B+** |
+| 11 | [Nitro](./sites/nitro.build/) | `nitro.build` | 77 | **B+** |
 | 12 | [Perplexity](./sites/docs.perplexity.ai/) | `docs.perplexity.ai` | 77 | **B+** |
 | 13 | [Side Copilot](./sites/sidespace.app/) | `sidespace.app` | 77 | **B+** |
 | 14 | [Coinbase Developer Documentation](./sites/docs.cdp.coinbase.com/) | `docs.cdp.coinbase.com` | 76 | **B+** |
@@ -444,7 +444,7 @@ Zero runtime dependencies. Node ≥ 18. Tool source: [`tools/llms-txt-score/`](.
 Every scored site has its own SVG badge at `web/badge/<domain>.svg`. Drop this in your project README:
 
 ```markdown
-[![llms.txt score](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/your-site.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/your-site.com)
+[![llms.txt score](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/your-site.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/your-site.com)
 ```
 
 The badge color tracks the grade (green for A, red for F). Re-scored monthly. The badge updates automatically.

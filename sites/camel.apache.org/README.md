@@ -33,7 +33,7 @@ Category: **infra** · [Live llms.txt](https://camel.apache.org/llms.txt) · Sna
 | Coverage | 10/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 4/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 5/10 | _stale_164_days_ |
+| Freshness | 5/10 | _stale_170_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://camel.apache.org/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/camel.apache.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/camel.apache.org)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/camel.apache.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/camel.apache.org)
 ```
 
 ## Reproduce this score

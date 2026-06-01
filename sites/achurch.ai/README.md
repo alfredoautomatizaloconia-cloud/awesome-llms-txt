@@ -33,7 +33,7 @@ Category: **auth** · [Live llms.txt](https://achurch.ai/llms.txt) · Snapshot: 
 | Coverage | 9/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 3/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 5/10 | _stale_104_days_ |
+| Freshness | 5/10 | _stale_109_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 2/8 | _no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -55,7 +55,7 @@ Category: **auth** · [Live llms.txt](https://achurch.ai/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/achurch.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/achurch.ai)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/achurch.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/achurch.ai)
 ```
 
 ## Reproduce this score

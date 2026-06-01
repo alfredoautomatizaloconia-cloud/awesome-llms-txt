@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://agentskills.io/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/agentskills.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/agentskills.io)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/agentskills.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/agentskills.io)
 ```
 
 ## Reproduce this score

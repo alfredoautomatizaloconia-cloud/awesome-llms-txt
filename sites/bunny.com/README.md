@@ -56,7 +56,7 @@ Category: **billing** · [Live llms.txt](https://bunny.com/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/bunny.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bunny.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/bunny.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/bunny.com)
 ```
 
 ## Reproduce this score

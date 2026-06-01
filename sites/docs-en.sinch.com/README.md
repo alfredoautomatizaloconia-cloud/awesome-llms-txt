@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs-latam.messaging.sinch.co
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs-en.sinch.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs-en.sinch.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs-en.sinch.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs-en.sinch.com)
 ```
 
 ## Reproduce this score

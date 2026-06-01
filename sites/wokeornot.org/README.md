@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://wokeornot.org/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/wokeornot.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/wokeornot.org)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/wokeornot.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/wokeornot.org)
 ```
 
 ## Reproduce this score

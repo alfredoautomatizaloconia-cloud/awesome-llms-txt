@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://tauri.app/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/tauri.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tauri.app)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/tauri.app.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/tauri.app)
 ```
 
 ## Reproduce this score

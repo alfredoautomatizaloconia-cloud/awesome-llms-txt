@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.goldsky.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.goldsky.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.goldsky.com)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.goldsky.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.goldsky.com)
 ```
 
 ## Reproduce this score

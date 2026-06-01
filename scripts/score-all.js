@@ -49,7 +49,7 @@ function siteReadme({ domain, display_name, category, result, fetched, freshness
     if (pct <= 0.4)  weak.push(`${labelFor(c.id)} (${c.points}/${c.max})${c.reasons && c.reasons.length ? ': ' + c.reasons.slice(0, 3).join(', ') : ''}`);
   }
   const badgeURL = `../../docs/badge/${domain}.svg`;
-  const embedURL = `https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/${domain}.svg`;
+  const embedURL = `https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/${domain}.svg`;
   const fresh = freshness && freshness.last_modified
     ? `${freshness.age_days} day${freshness.age_days === 1 ? '' : 's'} (per \`Last-Modified\`)`
     : `unknown (no \`Last-Modified\` header)`;
@@ -88,7 +88,7 @@ ${weak.length ? `## What's weak\n\n${weak.map(x => '- ' + x).join('\n')}\n` : ''
 ## Embed the badge
 
 \`\`\`markdown
-[![llms.txt score ${result.score} (${result.grade})](${embedURL})](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/${domain})
+[![llms.txt score ${result.score} (${result.grade})](${embedURL})](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/${domain})
 \`\`\`
 
 ## Reproduce this score

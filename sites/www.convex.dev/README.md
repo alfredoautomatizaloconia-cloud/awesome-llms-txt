@@ -54,7 +54,7 @@ Category: **auth** · [Live llms.txt](https://www.convex.dev/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.convex.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.convex.dev)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.convex.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.convex.dev)
 ```
 
 ## Reproduce this score

@@ -52,7 +52,7 @@ Category: **auth** · [Live llms.txt](https://inbed.ai/llms.txt) · Snapshot: [`
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/inbed.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/inbed.ai)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/inbed.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/inbed.ai)
 ```
 
 ## Reproduce this score

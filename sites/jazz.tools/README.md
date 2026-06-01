@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://jazz.tools/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/jazz.tools.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/jazz.tools)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/jazz.tools.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/jazz.tools)
 ```
 
 ## Reproduce this score

@@ -55,7 +55,7 @@ Category: **observability** · [Live llms.txt](https://www.databuddy.cc/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.databuddy.cc.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.databuddy.cc)
+[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.databuddy.cc.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.databuddy.cc)
 ```
 
 ## Reproduce this score

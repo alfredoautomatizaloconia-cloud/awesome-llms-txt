@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://help.citrusad.com/retail-medi
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/help.citrusad.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/help.citrusad.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/help.citrusad.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/help.citrusad.com)
 ```
 
 ## Reproduce this score

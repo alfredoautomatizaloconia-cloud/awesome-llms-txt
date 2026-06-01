@@ -56,7 +56,7 @@ Category: **commerce** · [Live llms.txt](https://www.bitcoin.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.bitcoin.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.bitcoin.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.bitcoin.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.bitcoin.com)
 ```
 
 ## Reproduce this score

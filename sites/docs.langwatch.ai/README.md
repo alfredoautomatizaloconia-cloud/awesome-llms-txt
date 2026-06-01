@@ -51,7 +51,7 @@ Category: **observability** · [Live llms.txt](https://langwatch.ai/docs/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.langwatch.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.langwatch.ai)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.langwatch.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.langwatch.ai)
 ```
 
 ## Reproduce this score

@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://8bitconcepts.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/8bitconcepts.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/8bitconcepts.com)
+[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/8bitconcepts.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/8bitconcepts.com)
 ```
 
 ## Reproduce this score

@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.mixo.io/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.mixo.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.mixo.io)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.mixo.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.mixo.io)
 ```
 
 ## Reproduce this score

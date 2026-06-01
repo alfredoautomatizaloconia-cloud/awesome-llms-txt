@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://fixed.docs.upsun.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.platform.sh.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.platform.sh)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.platform.sh.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.platform.sh)
 ```
 
 ## Reproduce this score

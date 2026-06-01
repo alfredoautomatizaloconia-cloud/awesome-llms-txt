@@ -57,7 +57,7 @@ Category: **commerce** Â· [Live llms.txt](https://truststvincent.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/truststvincent.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/truststvincent.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/truststvincent.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/truststvincent.com)
 ```
 
 ## Reproduce this score

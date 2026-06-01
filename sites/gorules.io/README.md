@@ -2,7 +2,7 @@
 domain: gorules.io
 display_name: GoRules
 category: dev-tools
-score: 71
+score: 70
 grade: B
 last_scored: 2026-05-27
 verified_url: https://gorules.io/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # GoRules
 
-![Score 71/100 · Grade B](../../docs/badge/gorules.io.svg)
+![Score 70/100 · Grade B](../../docs/badge/gorules.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://gorules.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **dev-tools** · [Live llms.txt](https://gorules.io/llms.txt) · Snaps
 | Coverage | 13/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 5/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 2/8 | _no_auth_section_ |
 | Size discipline | 4/6 | |
@@ -42,7 +42,6 @@ Category: **dev-tools** · [Live llms.txt](https://gorules.io/llms.txt) · Snaps
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Content-Type & encoding (4/4)
 - Voice (2/2)
@@ -55,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://gorules.io/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/gorules.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/gorules.io)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/gorules.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/gorules.io)
 ```
 
 ## Reproduce this score

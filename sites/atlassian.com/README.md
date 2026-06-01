@@ -54,7 +54,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.atlassian.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/atlassian.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/atlassian.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/atlassian.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/atlassian.com)
 ```
 
 ## Reproduce this score

@@ -57,7 +57,7 @@ Category: **comms** Â· [Live llms.txt](https://www.founderscene.tech/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.founderscene.tech.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.founderscene.tech)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.founderscene.tech.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.founderscene.tech)
 ```
 
 ## Reproduce this score

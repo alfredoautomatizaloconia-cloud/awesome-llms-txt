@@ -53,7 +53,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://docs.instruqt.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.instruqt.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.instruqt.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.instruqt.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.instruqt.com)
 ```
 
 ## Reproduce this score

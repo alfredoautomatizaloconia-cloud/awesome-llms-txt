@@ -56,7 +56,7 @@ Category: **ai-platform** · [Live llms.txt](https://keito.ai/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 80 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/keito.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/keito.ai)
+[![llms.txt score 80 (A-)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/keito.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/keito.ai)
 ```
 
 ## Reproduce this score

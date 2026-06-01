@@ -19,10 +19,10 @@
   "engines": {
     "node": ">=18"
   },
-  "homepage": "https://github.com/agentrhq/awesome-llms-txt",
+  "homepage": "https://github.com/zriyansh/awesome-llms-txt",
   "repository": {
     "type": "git",
-    "url": "https://github.com/agentrhq/awesome-llms-txt.git",
+    "url": "https://github.com/zriyansh/awesome-llms-txt.git",
     "directory": "tools/llms-txt-score"
   }
 }

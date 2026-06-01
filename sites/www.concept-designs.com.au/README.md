@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.concept-designs.com.au/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 29 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.concept-designs.com.au.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.concept-designs.com.au)
+[![llms.txt score 29 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.concept-designs.com.au.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.concept-designs.com.au)
 ```
 
 ## Reproduce this score

@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://elysiajs.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/elysiajs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/elysiajs.com)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/elysiajs.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/elysiajs.com)
 ```
 
 ## Reproduce this score

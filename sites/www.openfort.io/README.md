@@ -52,7 +52,7 @@ Category: **auth** · [Live llms.txt](https://www.openfort.io/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 82 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.openfort.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.openfort.io)
+[![llms.txt score 82 (A-)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.openfort.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.openfort.io)
 ```
 
 ## Reproduce this score

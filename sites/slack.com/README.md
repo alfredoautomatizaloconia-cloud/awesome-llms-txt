@@ -53,7 +53,7 @@ Category: **comms** · [Live llms.txt](https://slack.com/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/slack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/slack.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/slack.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/slack.com)
 ```
 
 ## Reproduce this score

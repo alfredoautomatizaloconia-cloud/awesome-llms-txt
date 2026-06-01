@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://xmcp.dev/llms.txt) · Snapshot: [
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/xmcp.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/xmcp.dev)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/xmcp.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/xmcp.dev)
 ```
 
 ## Reproduce this score

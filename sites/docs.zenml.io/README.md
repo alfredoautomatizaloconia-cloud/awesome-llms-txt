@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.zenml.io/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.zenml.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.zenml.io)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.zenml.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.zenml.io)
 ```
 
 ## Reproduce this score

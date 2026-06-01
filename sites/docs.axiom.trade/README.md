@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.axiom.trade/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.axiom.trade.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.axiom.trade)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.axiom.trade.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.axiom.trade)
 ```
 
 ## Reproduce this score

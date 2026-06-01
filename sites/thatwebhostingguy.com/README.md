@@ -55,7 +55,7 @@ Category: **auth** · [Live llms.txt](https://thatwebhostingguy.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/thatwebhostingguy.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thatwebhostingguy.com)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/thatwebhostingguy.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/thatwebhostingguy.com)
 ```
 
 ## Reproduce this score

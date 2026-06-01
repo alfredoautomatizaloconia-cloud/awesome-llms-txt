@@ -6,7 +6,7 @@ Show HN: I scored 1,023 production llms.txt files. Twilio got an F.
 
 ## URL
 
-`https://github.com/agentrhq/awesome-llms-txt`
+`https://github.com/zriyansh/awesome-llms-txt`
 
 ## Text
 
@@ -31,7 +31,7 @@ Zero deps, Node 18+. 17 passing tests. Source in `tools/llms-txt-score/`.
 
 Monthly re-crawl is wired into Actions. Score drops auto-open a regression issue. Appeals are public (issue template in repo). Rubric changes batched quarterly so historic scores stay comparable.
 
-Each site has its own SVG badge at `web/badge/<domain>.svg` and a permalink page at `agentrhq.github.io/awesome-llms-txt/site/<domain>.html`.
+Each site has its own SVG badge at `web/badge/<domain>.svg` and a permalink page at `zriyansh.github.io/awesome-llms-txt/site/<domain>.html`.
 
 Nobody had built a scored comparison of `llms.txt` files. Every existing directory I could find (`directory.llmstxt.cloud`, `llms-txt-hub`, `SecretiveShell/Awesome-llms-txt`) is alphabetical or sorted by raw token count. The dataset is CC0; the tool is MIT.
 

@@ -2,7 +2,7 @@
 domain: itdbay.com
 display_name: Itdbay
 category: commerce
-score: 53
+score: 51
 grade: C
 last_scored: 2026-05-27
 verified_url: https://itdbay.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 88
 
 # Itdbay
 
-![Score 53/100 · Grade C](../../docs/badge/itdbay.com.svg)
+![Score 51/100 · Grade C](../../docs/badge/itdbay.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://itdbay.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **commerce** · [Live llms.txt](https://itdbay.com/llms.txt) · Snapsh
 | Coverage | 8/20 | _few_value_links_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 7/10 | |
+| Freshness | 5/10 | _stale_93_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 3/8 | _no_auth_keywords_ |
 | Size discipline | 5/6 | |
@@ -54,7 +54,7 @@ Category: **commerce** · [Live llms.txt](https://itdbay.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/itdbay.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/itdbay.com)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/itdbay.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/itdbay.com)
 ```
 
 ## Reproduce this score

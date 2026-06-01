@@ -2,7 +2,7 @@
 domain: dejanmarkovic.com
 display_name: Dejanmarkovic
 category: dev-tools
-score: 59
+score: 58
 grade: C
 last_scored: 2026-05-27
 verified_url: https://dejanmarkovic.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Dejanmarkovic
 
-![Score 59/100 · Grade C](../../docs/badge/dejanmarkovic.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/dejanmarkovic.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://dejanmarkovic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **dev-tools** · [Live llms.txt](https://dejanmarkovic.com/llms.txt) �
 | Coverage | 7/20 | _few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 3/8 | _no_auth_keywords_ |
 | Size discipline | 6/6 | |
@@ -42,7 +42,6 @@ Category: **dev-tools** · [Live llms.txt](https://dejanmarkovic.com/llms.txt) �
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Size discipline (6/6)
 - Voice (2/2)
@@ -56,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://dejanmarkovic.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/dejanmarkovic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/dejanmarkovic.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/dejanmarkovic.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/dejanmarkovic.com)
 ```
 
 ## Reproduce this score

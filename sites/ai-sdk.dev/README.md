@@ -55,7 +55,7 @@ Category: **ai-platform** · [Live llms.txt](https://ai-sdk.dev/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ai-sdk.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ai-sdk.dev)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/ai-sdk.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/ai-sdk.dev)
 ```
 
 ## Reproduce this score

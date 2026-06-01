@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.spaceprompts.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.spaceprompts.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.spaceprompts.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.spaceprompts.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.spaceprompts.com)
 ```
 
 ## Reproduce this score

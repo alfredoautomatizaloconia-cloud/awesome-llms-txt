@@ -2,7 +2,7 @@
 domain: www.cdata.com
 display_name: CData Software
 category: dev-tools
-score: 57
+score: 55
 grade: C
 last_scored: 2026-05-27
 verified_url: https://www.cdata.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 28
 
 # CData Software
 
-![Score 57/100 · Grade C](../../docs/badge/www.cdata.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/www.cdata.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.cdata.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.cdata.com/llms.txt) · Sn
 | Coverage | 9/20 | |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 9/10 | |
+| Freshness | 7/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.cdata.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.cdata.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cdata.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.cdata.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.cdata.com)
 ```
 
 ## Reproduce this score

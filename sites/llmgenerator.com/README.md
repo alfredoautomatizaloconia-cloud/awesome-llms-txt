@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://llmgenerator.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/llmgenerator.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/llmgenerator.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/llmgenerator.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/llmgenerator.com)
 ```
 
 ## Reproduce this score

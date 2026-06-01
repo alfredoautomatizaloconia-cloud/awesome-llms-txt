@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://www.helius.dev/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.helius.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.helius.dev)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.helius.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.helius.dev)
 ```
 
 ## Reproduce this score

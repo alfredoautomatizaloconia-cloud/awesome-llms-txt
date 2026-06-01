@@ -53,7 +53,7 @@ Category: **ai-platform** Â· [Live llms.txt](https://docs.crewai.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.crewai.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.crewai.com)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.crewai.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.crewai.com)
 ```
 
 ## Reproduce this score

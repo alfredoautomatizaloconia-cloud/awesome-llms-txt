@@ -53,7 +53,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.promptfoo.dev/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.promptfoo.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.promptfoo.dev)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.promptfoo.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.promptfoo.dev)
 ```
 
 ## Reproduce this score

@@ -58,7 +58,7 @@ Category: **dev-tools** · [Live llms.txt](https://semgrep.dev/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/semgrep.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/semgrep.dev)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/semgrep.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/semgrep.dev)
 ```
 
 ## Reproduce this score

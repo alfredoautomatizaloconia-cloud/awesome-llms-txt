@@ -8,7 +8,7 @@ The first post is the screenshot. The rest is the punchline.
 
 Only three sites earned an A. Twilio and Notion both got F.
 
-`github.com/agentrhq/awesome-llms-txt`
+`github.com/zriyansh/awesome-llms-txt`
 
 [screenshot: the leaderboard, Top 10 with green A badges, then the Notable Failures table below with Twilio 27 F and Notion 29 F]
 
@@ -84,7 +84,7 @@ Zero deps. Node 18+. 17 tests in the repo. Monthly re-crawl auto-opens a PR; sco
 **9/10** Every site gets an SVG badge. Drop this in your README:
 
 ```markdown
-![llms.txt score](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/your-site.com.svg)
+![llms.txt score](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/your-site.com.svg)
 ```
 
 Color updates with the grade. Re-scored monthly.
@@ -93,5 +93,5 @@ Color updates with the grade. Re-scored monthly.
 
 **10/10** Why we built it: `llms.txt` is the file a site uses to tell an agent what it can do. Nobody was scoring them. Lighthouse showed that a public scorecard creates better files. So we built one.
 
-Repo + leaderboard + tool: `github.com/agentrhq/awesome-llms-txt`
-Web view: `agentrhq.github.io/awesome-llms-txt`
+Repo + leaderboard + tool: `github.com/zriyansh/awesome-llms-txt`
+Web view: `zriyansh.github.io/awesome-llms-txt`

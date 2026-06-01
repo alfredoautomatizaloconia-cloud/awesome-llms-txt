@@ -55,7 +55,7 @@ Category: **observability** · [Live llms.txt](https://www.comet.com/docs/opik/l
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.comet.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.comet.com)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.comet.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.comet.com)
 ```
 
 ## Reproduce this score

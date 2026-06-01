@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://randomizepro.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/randomizepro.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/randomizepro.com)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/randomizepro.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/randomizepro.com)
 ```
 
 ## Reproduce this score

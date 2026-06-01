@@ -2,7 +2,7 @@
 domain: docs.contentsquare.com
 display_name: Contentsquare Tech Docs
 category: observability
-score: 74
+score: 73
 grade: B
 last_scored: 2026-05-27
 verified_url: https://docs.contentsquare.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Contentsquare Tech Docs
 
-![Score 74/100 · Grade B](../../docs/badge/docs.contentsquare.com.svg)
+![Score 73/100 · Grade B](../../docs/badge/docs.contentsquare.com.svg)
 
 Category: **observability** · [Live llms.txt](https://docs.contentsquare.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **observability** · [Live llms.txt](https://docs.contentsquare.com/ll
 | Coverage | 16/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 6/14 | _no_llms_full_link, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 2/8 | _no_auth_section_ |
 | Size discipline | 2/6 | _oversized_65kb_ |
@@ -43,7 +43,6 @@ Category: **observability** · [Live llms.txt](https://docs.contentsquare.com/ll
 ## What's exceptional
 
 - Spec compliance (18/18)
-- Freshness (10/10)
 - Discoverability (8/8)
 - Content-Type & encoding (4/4)
 - Voice (2/2)
@@ -56,7 +55,7 @@ Category: **observability** · [Live llms.txt](https://docs.contentsquare.com/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.contentsquare.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.contentsquare.com)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.contentsquare.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.contentsquare.com)
 ```
 
 ## Reproduce this score

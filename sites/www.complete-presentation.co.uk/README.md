@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.complete-presentation.co.
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 38 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.complete-presentation.co.uk.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.complete-presentation.co.uk)
+[![llms.txt score 38 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.complete-presentation.co.uk.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.complete-presentation.co.uk)
 ```
 
 ## Reproduce this score

@@ -53,7 +53,7 @@ Category: **data** · [Live llms.txt](https://www.pinecone.io/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/pinecone.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pinecone.io)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/pinecone.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/pinecone.io)
 ```
 
 ## Reproduce this score

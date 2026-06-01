@@ -53,7 +53,7 @@ Category: **ai-platform** · [Live llms.txt](https://dchub.cloud/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.dchub.cloud.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.dchub.cloud)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.dchub.cloud.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.dchub.cloud)
 ```
 
 ## Reproduce this score

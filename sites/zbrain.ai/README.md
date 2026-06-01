@@ -33,7 +33,7 @@ Category: **infra** · [Live llms.txt](https://zbrain.ai/llms.txt) · Snapshot: 
 | Coverage | 16/20 | |
 | Agent-action declarations | 2/14 | _no_llms_full_link, no_md_url_twins, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_216_days_ |
+| Freshness | 3/10 | _stale_221_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 4/6 | |
@@ -47,13 +47,13 @@ Category: **infra** · [Live llms.txt](https://zbrain.ai/llms.txt) · Snapshot: 
 ## What's weak
 
 - Agent-action declarations (2/14): no_llms_full_link, no_md_url_twins, no_machine_readable_api_spec
-- Freshness (3/10): stale_216_days
+- Freshness (3/10): stale_221_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/zbrain.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zbrain.ai)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/zbrain.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/zbrain.ai)
 ```
 
 ## Reproduce this score

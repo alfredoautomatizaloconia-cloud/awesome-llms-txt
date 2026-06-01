@@ -56,7 +56,7 @@ Category: **content** · [Live llms.txt](https://www.tuttosullegalline.it/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.tuttosullegalline.it.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tuttosullegalline.it)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.tuttosullegalline.it.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.tuttosullegalline.it)
 ```
 
 ## Reproduce this score

@@ -55,9 +55,9 @@
       "max": 10,
       "points": 5,
       "reasons": [
-        "stale_91_days"
+        "stale_96_days"
       ],
-      "age_days": 91,
+      "age_days": 96,
       "source": "last_modified"
     },
     {

@@ -16,7 +16,7 @@ function request(target, method, redirectsLeft = 5) {
         port: u.port || (u.protocol === 'http:' ? 80 : 443),
         path: u.pathname + u.search,
         headers: {
-          'User-Agent': 'llms-txt-score/0.1 (+https://github.com/agentrhq/awesome-llms-txt)',
+          'User-Agent': 'llms-txt-score/0.1 (+https://github.com/zriyansh/awesome-llms-txt)',
           'Accept': 'text/markdown, text/plain, */*',
         },
       },

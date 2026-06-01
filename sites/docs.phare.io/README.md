@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.phare.io/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.phare.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.phare.io)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.phare.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.phare.io)
 ```
 
 ## Reproduce this score

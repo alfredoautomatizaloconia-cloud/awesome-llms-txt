@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.tele-assistance-senior.fr
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 27 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.tele-assistance-senior.fr.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tele-assistance-senior.fr)
+[![llms.txt score 27 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.tele-assistance-senior.fr.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.tele-assistance-senior.fr)
 ```
 
 ## Reproduce this score

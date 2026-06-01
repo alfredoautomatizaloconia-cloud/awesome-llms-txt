@@ -54,7 +54,7 @@ Category: **ai-platform** · [Live llms.txt](https://docs.langchain.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/js.langchain.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/js.langchain.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/js.langchain.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/js.langchain.com)
 ```
 
 ## Reproduce this score

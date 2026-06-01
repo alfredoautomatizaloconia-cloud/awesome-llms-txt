@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.appsecure.security/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 36 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.appsecure.security.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.appsecure.security)
+[![llms.txt score 36 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.appsecure.security.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.appsecure.security)
 ```
 
 ## Reproduce this score

@@ -32,7 +32,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.yellowlime.nl/llms.txt) Â
 | Coverage | 0/20 | _thin_sectioning, few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_321_days_ |
+| Freshness | 3/10 | _stale_326_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -51,13 +51,13 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.yellowlime.nl/llms.txt) Â
 - Spec compliance (0/18): no_h1, no_blockquote_summary, no_structure
 - Coverage (0/20): thin_sectioning, few_value_links, missing_canonical_sections
 - Agent-action declarations (0/14): no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec
-- Freshness (3/10): stale_321_days
+- Freshness (3/10): stale_326_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 29 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.yellowlime.nl.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.yellowlime.nl)
+[![llms.txt score 29 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.yellowlime.nl.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.yellowlime.nl)
 ```
 
 ## Reproduce this score

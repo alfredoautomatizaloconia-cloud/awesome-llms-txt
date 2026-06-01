@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.digitalmiddleground.com/l
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/digitalmiddleground.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/digitalmiddleground.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/digitalmiddleground.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/digitalmiddleground.com)
 ```
 
 ## Reproduce this score

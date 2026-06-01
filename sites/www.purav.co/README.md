@@ -58,7 +58,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.purav.co/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.purav.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.purav.co)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.purav.co.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.purav.co)
 ```
 
 ## Reproduce this score

@@ -33,7 +33,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.kenoleggio.it/llms.txt) Â
 | Coverage | 7/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 5/10 | _stale_134_days_ |
+| Freshness | 5/10 | _stale_139_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -55,7 +55,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.kenoleggio.it/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.kenoleggio.it.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.kenoleggio.it)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.kenoleggio.it.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.kenoleggio.it)
 ```
 
 ## Reproduce this score

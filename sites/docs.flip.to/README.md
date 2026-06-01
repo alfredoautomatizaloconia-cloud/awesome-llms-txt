@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.flip.to/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.flip.to.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.flip.to)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.flip.to.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.flip.to)
 ```
 
 ## Reproduce this score

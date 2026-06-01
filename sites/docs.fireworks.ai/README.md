@@ -52,7 +52,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://docs.fireworks.ai/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.fireworks.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.fireworks.ai)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.fireworks.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.fireworks.ai)
 ```
 
 ## Reproduce this score

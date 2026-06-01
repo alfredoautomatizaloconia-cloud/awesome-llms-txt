@@ -56,7 +56,7 @@ Category: **observability** · [Live llms.txt](https://www.dailygoal.fit/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.dailygoal.fit.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.dailygoal.fit)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.dailygoal.fit.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.dailygoal.fit)
 ```
 
 ## Reproduce this score

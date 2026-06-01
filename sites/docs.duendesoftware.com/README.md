@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.duendesoftware.com/llms.
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.duendesoftware.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.duendesoftware.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.duendesoftware.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.duendesoftware.com)
 ```
 
 ## Reproduce this score

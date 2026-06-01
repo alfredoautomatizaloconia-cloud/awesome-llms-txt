@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://giga.tools/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/giga.tools.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/giga.tools)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/giga.tools.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/giga.tools)
 ```
 
 ## Reproduce this score

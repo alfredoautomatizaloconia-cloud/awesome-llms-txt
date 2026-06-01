@@ -53,7 +53,7 @@ Category: **billing** · [Live llms.txt](https://www.sketchto.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.sketchto.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.sketchto.com)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.sketchto.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.sketchto.com)
 ```
 
 ## Reproduce this score

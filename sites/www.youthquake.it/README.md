@@ -56,7 +56,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.youthquake.it/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.youthquake.it.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.youthquake.it)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.youthquake.it.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.youthquake.it)
 ```
 
 ## Reproduce this score

@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.x-cmd.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/x-cmd.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/x-cmd.com)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/x-cmd.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/x-cmd.com)
 ```
 
 ## Reproduce this score

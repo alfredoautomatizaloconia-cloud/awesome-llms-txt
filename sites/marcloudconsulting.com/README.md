@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://marcloudconsulting.com/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/marcloudconsulting.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/marcloudconsulting.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/marcloudconsulting.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/marcloudconsulting.com)
 ```
 
 ## Reproduce this score

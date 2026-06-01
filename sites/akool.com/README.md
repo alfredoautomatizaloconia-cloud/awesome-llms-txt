@@ -55,7 +55,7 @@ Category: **content** · [Live llms.txt](https://akool.com/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/akool.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/akool.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/akool.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/akool.com)
 ```
 
 ## Reproduce this score

@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://memeasylum.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/memeasylum.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/memeasylum.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/memeasylum.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/memeasylum.com)
 ```
 
 ## Reproduce this score

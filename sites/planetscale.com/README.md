@@ -54,7 +54,7 @@ Category: **data** · [Live llms.txt](https://planetscale.com/docs/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/planetscale.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/planetscale.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/planetscale.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/planetscale.com)
 ```
 
 ## Reproduce this score

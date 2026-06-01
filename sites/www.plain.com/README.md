@@ -57,7 +57,7 @@ Category: **comms** · [Live llms.txt](https://www.plain.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.plain.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.plain.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.plain.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.plain.com)
 ```
 
 ## Reproduce this score

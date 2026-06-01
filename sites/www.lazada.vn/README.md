@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.lazada.vn/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.lazada.vn.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.lazada.vn)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.lazada.vn.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.lazada.vn)
 ```
 
 ## Reproduce this score

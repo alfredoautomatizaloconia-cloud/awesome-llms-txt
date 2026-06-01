@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://sealos.io/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 26 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sealos.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sealos.io)
+[![llms.txt score 26 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/sealos.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/sealos.io)
 ```
 
 ## Reproduce this score

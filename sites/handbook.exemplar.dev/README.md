@@ -55,7 +55,7 @@ Category: **commerce** · [Live llms.txt](https://handbook.exemplar.dev/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/handbook.exemplar.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/handbook.exemplar.dev)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/handbook.exemplar.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/handbook.exemplar.dev)
 ```
 
 ## Reproduce this score

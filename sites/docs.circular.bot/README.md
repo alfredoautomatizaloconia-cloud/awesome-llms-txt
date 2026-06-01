@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.circular.bot/circular-do
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.circular.bot.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.circular.bot)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.circular.bot.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.circular.bot)
 ```
 
 ## Reproduce this score

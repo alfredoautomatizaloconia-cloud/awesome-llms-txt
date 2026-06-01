@@ -55,7 +55,7 @@ Category: **commerce** · [Live llms.txt](https://www.zenbaki-inventory.com/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.zenbaki-inventory.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.zenbaki-inventory.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.zenbaki-inventory.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.zenbaki-inventory.com)
 ```
 
 ## Reproduce this score

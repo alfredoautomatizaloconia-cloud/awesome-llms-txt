@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://semalt.com/llms.txt) · Snaps
 | Coverage | 10/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 1/10 | _stale_399_days_ |
+| Freshness | 1/10 | _stale_404_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 4/6 | |
@@ -47,13 +47,13 @@ Category: **dev-tools** · [Live llms.txt](https://semalt.com/llms.txt) · Snaps
 ## What's weak
 
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (1/10): stale_399_days
+- Freshness (1/10): stale_404_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/semalt.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/semalt.com)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/semalt.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/semalt.com)
 ```
 
 ## Reproduce this score

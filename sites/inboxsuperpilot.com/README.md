@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://inboxsuperpilot.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/inboxsuperpilot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/inboxsuperpilot.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/inboxsuperpilot.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/inboxsuperpilot.com)
 ```
 
 ## Reproduce this score

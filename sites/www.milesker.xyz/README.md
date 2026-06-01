@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://static1.squarespace.com/stati
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.milesker.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.milesker.xyz)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.milesker.xyz.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.milesker.xyz)
 ```
 
 ## Reproduce this score

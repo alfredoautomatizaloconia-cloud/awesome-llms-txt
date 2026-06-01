@@ -53,7 +53,7 @@ Category: **billing** · [Live llms.txt](https://www.bladderjournal.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.bladderjournal.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.bladderjournal.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.bladderjournal.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.bladderjournal.com)
 ```
 
 ## Reproduce this score

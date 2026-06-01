@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://mdutil.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/mdutil.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mdutil.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/mdutil.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/mdutil.com)
 ```
 
 ## Reproduce this score

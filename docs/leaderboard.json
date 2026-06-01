@@ -168,20 +168,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "remult.dev",
-    "display_name": "Remult",
-    "category": "dev-tools",
-    "score": 79,
-    "grade": "B+",
-    "file_size_bytes": 26696,
-    "link_count": 154,
-    "value_link_count": 154,
-    "section_count": 5,
-    "freshness_age_days": 6,
-    "verified_url": "https://remult.dev/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.adyen.com",
     "display_name": "Adyen Docs",
     "category": "billing",
@@ -252,20 +238,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "nitro.build",
-    "display_name": "Nitro",
-    "category": "dev-tools",
-    "score": 78,
-    "grade": "B+",
-    "file_size_bytes": 9946,
-    "link_count": 83,
-    "value_link_count": 82,
-    "section_count": 2,
-    "freshness_age_days": 3,
-    "verified_url": "https://nitro.build/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "nuxt.com",
     "display_name": "Nuxt Docs",
     "category": "dev-tools",
@@ -319,6 +291,20 @@
     "section_count": 11,
     "freshness_age_days": 0,
     "verified_url": "https://redis.io/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "remult.dev",
+    "display_name": "Remult",
+    "category": "dev-tools",
+    "score": 78,
+    "grade": "B+",
+    "file_size_bytes": 26696,
+    "link_count": 154,
+    "value_link_count": 154,
+    "section_count": 5,
+    "freshness_age_days": 6,
+    "verified_url": "https://remult.dev/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -389,20 +375,6 @@
     "section_count": 2,
     "freshness_age_days": 0,
     "verified_url": "https://docs.chainbase.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "docs.civic.com",
-    "display_name": "Civic Docs",
-    "category": "auth",
-    "score": 77,
-    "grade": "B+",
-    "file_size_bytes": 12719,
-    "link_count": 90,
-    "value_link_count": 90,
-    "section_count": 9,
-    "freshness_age_days": 7,
-    "verified_url": "https://docs.civic.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -490,6 +462,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "nitro.build",
+    "display_name": "Nitro",
+    "category": "dev-tools",
+    "score": 77,
+    "grade": "B+",
+    "file_size_bytes": 9946,
+    "link_count": 83,
+    "value_link_count": 82,
+    "section_count": 2,
+    "freshness_age_days": 3,
+    "verified_url": "https://nitro.build/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "docs.perplexity.ai",
     "display_name": "Perplexity",
     "category": "dev-tools",
@@ -557,6 +543,20 @@
     "section_count": 1,
     "freshness_age_days": null,
     "verified_url": "https://better-auth.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "docs.civic.com",
+    "display_name": "Civic Docs",
+    "category": "auth",
+    "score": 76,
+    "grade": "B+",
+    "file_size_bytes": 12719,
+    "link_count": 90,
+    "value_link_count": 90,
+    "section_count": 9,
+    "freshness_age_days": 7,
+    "verified_url": "https://docs.civic.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -952,20 +952,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "docs.contentsquare.com",
-    "display_name": "Contentsquare Tech Docs",
-    "category": "observability",
-    "score": 74,
-    "grade": "B",
-    "file_size_bytes": 66106,
-    "link_count": 364,
-    "value_link_count": 349,
-    "section_count": 14,
-    "freshness_age_days": 6,
-    "verified_url": "https://docs.contentsquare.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.cryptoprocessing.com",
     "display_name": "CryptoProcessing",
     "category": "dev-tools",
@@ -1232,17 +1218,17 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "community-charts.github.io",
-    "display_name": "Community Charts",
-    "category": "infra",
+    "domain": "docs.contentsquare.com",
+    "display_name": "Contentsquare Tech Docs",
+    "category": "observability",
     "score": 73,
     "grade": "B",
-    "file_size_bytes": 79998,
-    "link_count": 258,
-    "value_link_count": 60,
-    "section_count": 3,
+    "file_size_bytes": 66106,
+    "link_count": 364,
+    "value_link_count": 349,
+    "section_count": 14,
     "freshness_age_days": 6,
-    "verified_url": "https://community-charts.github.io/llms.txt",
+    "verified_url": "https://docs.contentsquare.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -1554,6 +1540,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "community-charts.github.io",
+    "display_name": "Community Charts",
+    "category": "infra",
+    "score": 72,
+    "grade": "B",
+    "file_size_bytes": 79998,
+    "link_count": 258,
+    "value_link_count": 60,
+    "section_count": 3,
+    "freshness_age_days": 6,
+    "verified_url": "https://community-charts.github.io/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "docs.coollabs.io",
     "display_name": "coolLabs",
     "category": "dev-tools",
@@ -1565,20 +1565,6 @@
     "section_count": 3,
     "freshness_age_days": 0,
     "verified_url": "https://docs.coollabs.io/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "curling.io",
-    "display_name": "Curling IO Documentation",
-    "category": "dev-tools",
-    "score": 72,
-    "grade": "B",
-    "file_size_bytes": 10343,
-    "link_count": 71,
-    "value_link_count": 71,
-    "section_count": 5,
-    "freshness_age_days": 4,
-    "verified_url": "https://curling.io/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -1722,20 +1708,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "tiptap.dev",
-    "display_name": "Tiptap",
-    "category": "dev-tools",
-    "score": 72,
-    "grade": "B",
-    "file_size_bytes": 60410,
-    "link_count": 313,
-    "value_link_count": 309,
-    "section_count": 3,
-    "freshness_age_days": 5,
-    "verified_url": "https://tiptap.dev/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.platform.sh",
     "display_name": "Upsun Fixed",
     "category": "comms",
@@ -1820,20 +1792,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "citizenshipper.com",
-    "display_name": "CitizenShipper",
-    "category": "auth",
-    "score": 71,
-    "grade": "B",
-    "file_size_bytes": 6757,
-    "link_count": 41,
-    "value_link_count": 40,
-    "section_count": 8,
-    "freshness_age_days": 4,
-    "verified_url": "https://citizenshipper.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.commercelayer.io",
     "display_name": "Commerce Layer Docs",
     "category": "commerce",
@@ -1845,6 +1803,20 @@
     "section_count": 10,
     "freshness_age_days": null,
     "verified_url": "https://docs.commercelayer.io/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "curling.io",
+    "display_name": "Curling IO Documentation",
+    "category": "dev-tools",
+    "score": 71,
+    "grade": "B",
+    "file_size_bytes": 10343,
+    "link_count": 71,
+    "value_link_count": 71,
+    "section_count": 5,
+    "freshness_age_days": 4,
+    "verified_url": "https://curling.io/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -1918,20 +1890,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "gorules.io",
-    "display_name": "GoRules",
-    "category": "dev-tools",
-    "score": 71,
-    "grade": "B",
-    "file_size_bytes": 40411,
-    "link_count": 159,
-    "value_link_count": 146,
-    "section_count": 1,
-    "freshness_age_days": 6,
-    "verified_url": "https://gorules.io/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.tryvital.io",
     "display_name": "Junction",
     "category": "dev-tools",
@@ -1971,6 +1929,20 @@
     "section_count": 5,
     "freshness_age_days": null,
     "verified_url": "https://theirstack.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "tiptap.dev",
+    "display_name": "Tiptap",
+    "category": "dev-tools",
+    "score": 71,
+    "grade": "B",
+    "file_size_bytes": 60410,
+    "link_count": 313,
+    "value_link_count": 309,
+    "section_count": 3,
+    "freshness_age_days": 5,
+    "verified_url": "https://tiptap.dev/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -2100,6 +2072,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "citizenshipper.com",
+    "display_name": "CitizenShipper",
+    "category": "auth",
+    "score": 70,
+    "grade": "B",
+    "file_size_bytes": 6757,
+    "link_count": 41,
+    "value_link_count": 40,
+    "section_count": 8,
+    "freshness_age_days": 4,
+    "verified_url": "https://citizenshipper.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "cloudflare.com",
     "display_name": "Cloudflare",
     "category": "infra",
@@ -2142,20 +2128,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "formengine.io",
-    "display_name": "FormEngine LLM Index",
-    "category": "dev-tools",
-    "score": 70,
-    "grade": "B",
-    "file_size_bytes": 23372,
-    "link_count": 109,
-    "value_link_count": 109,
-    "section_count": 16,
-    "freshness_age_days": 6,
-    "verified_url": "https://formengine.io/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "www.glideapps.com",
     "display_name": "Glide",
     "category": "dev-tools",
@@ -2167,6 +2139,20 @@
     "section_count": 8,
     "freshness_age_days": 0,
     "verified_url": "https://www.glideapps.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "gorules.io",
+    "display_name": "GoRules",
+    "category": "dev-tools",
+    "score": 70,
+    "grade": "B",
+    "file_size_bytes": 40411,
+    "link_count": 159,
+    "value_link_count": 146,
+    "section_count": 1,
+    "freshness_age_days": 6,
+    "verified_url": "https://gorules.io/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -2338,20 +2324,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "docs.servicestack.net",
-    "display_name": "ServiceStack",
-    "category": "dev-tools",
-    "score": 70,
-    "grade": "B",
-    "file_size_bytes": 68208,
-    "link_count": 416,
-    "value_link_count": 416,
-    "section_count": 1,
-    "freshness_age_days": 26,
-    "verified_url": "https://docs.servicestack.net/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "ui.shadcn.com",
     "display_name": "shadcn/ui",
     "category": "dev-tools",
@@ -2520,6 +2492,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "formengine.io",
+    "display_name": "FormEngine LLM Index",
+    "category": "dev-tools",
+    "score": 69,
+    "grade": "B",
+    "file_size_bytes": 23372,
+    "link_count": 109,
+    "value_link_count": 109,
+    "section_count": 16,
+    "freshness_age_days": 6,
+    "verified_url": "https://formengine.io/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "www.helius.dev",
     "display_name": "Helius",
     "category": "infra",
@@ -2587,34 +2573,6 @@
     "section_count": 4,
     "freshness_age_days": null,
     "verified_url": "https://developer.onetrust.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "docs.pimlico.io",
-    "display_name": "Pimlico",
-    "category": "infra",
-    "score": 69,
-    "grade": "B",
-    "file_size_bytes": 87029,
-    "link_count": 309,
-    "value_link_count": 309,
-    "section_count": 1,
-    "freshness_age_days": 3,
-    "verified_url": "https://docs.pimlico.io/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "postmark.com",
-    "display_name": "Postmark",
-    "category": "comms",
-    "score": 69,
-    "grade": "B",
-    "file_size_bytes": 62246,
-    "link_count": 42,
-    "value_link_count": 42,
-    "section_count": 20,
-    "freshness_age_days": 5,
-    "verified_url": "https://postmarkapp.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -2730,20 +2688,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "docs.anthropic.com",
-    "display_name": "Anthropic Docs",
-    "category": "ai-platform",
-    "score": 68,
-    "grade": "B",
-    "file_size_bytes": 166613,
-    "link_count": 1541,
-    "value_link_count": 1491,
-    "section_count": 3,
-    "freshness_age_days": 4,
-    "verified_url": "https://platform.claude.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "bun.sh",
     "display_name": "Bun",
     "category": "dev-tools",
@@ -2797,20 +2741,6 @@
     "section_count": 2,
     "freshness_age_days": 0,
     "verified_url": "https://docs.windsurf.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "flow-runner.com",
-    "display_name": "FlowRunner",
-    "category": "comms",
-    "score": 68,
-    "grade": "B",
-    "file_size_bytes": 20942,
-    "link_count": 16,
-    "value_link_count": 16,
-    "section_count": 17,
-    "freshness_age_days": 6,
-    "verified_url": "https://flow-runner.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -2884,20 +2814,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "lunacy.docs.icons8.com",
-    "display_name": "Lunacy",
-    "category": "dev-tools",
-    "score": 68,
-    "grade": "B",
-    "file_size_bytes": 3981,
-    "link_count": 33,
-    "value_link_count": 33,
-    "section_count": 2,
-    "freshness_age_days": 4,
-    "verified_url": "https://lunacy.docs.icons8.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.luxalgo.com",
     "display_name": "LuxAlgo",
     "category": "dev-tools",
@@ -2926,6 +2842,34 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "docs.pimlico.io",
+    "display_name": "Pimlico",
+    "category": "infra",
+    "score": 68,
+    "grade": "B",
+    "file_size_bytes": 87029,
+    "link_count": 309,
+    "value_link_count": 309,
+    "section_count": 1,
+    "freshness_age_days": 3,
+    "verified_url": "https://docs.pimlico.io/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "postmark.com",
+    "display_name": "Postmark",
+    "category": "comms",
+    "score": 68,
+    "grade": "B",
+    "file_size_bytes": 62246,
+    "link_count": 42,
+    "value_link_count": 42,
+    "section_count": 20,
+    "freshness_age_days": 5,
+    "verified_url": "https://postmarkapp.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "docs.pydantic.dev",
     "display_name": "Pydantic Validation (Latest)",
     "category": "dev-tools",
@@ -2937,6 +2881,20 @@
     "section_count": 8,
     "freshness_age_days": null,
     "verified_url": "https://pydantic.dev/docs/validation/latest/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "docs.servicestack.net",
+    "display_name": "ServiceStack",
+    "category": "dev-tools",
+    "score": 68,
+    "grade": "B",
+    "file_size_bytes": 68208,
+    "link_count": 416,
+    "value_link_count": 416,
+    "section_count": 1,
+    "freshness_age_days": 26,
+    "verified_url": "https://docs.servicestack.net/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -3052,6 +3010,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "docs.anthropic.com",
+    "display_name": "Anthropic Docs",
+    "category": "ai-platform",
+    "score": 67,
+    "grade": "B",
+    "file_size_bytes": 166613,
+    "link_count": 1541,
+    "value_link_count": 1491,
+    "section_count": 3,
+    "freshness_age_days": 4,
+    "verified_url": "https://platform.claude.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "bika.ai",
     "display_name": "Bika",
     "category": "comms",
@@ -3122,6 +3094,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "flow-runner.com",
+    "display_name": "FlowRunner",
+    "category": "comms",
+    "score": 67,
+    "grade": "B",
+    "file_size_bytes": 20942,
+    "link_count": 16,
+    "value_link_count": 16,
+    "section_count": 17,
+    "freshness_age_days": 6,
+    "verified_url": "https://flow-runner.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "developers.front-commerce.com",
     "display_name": "Front-Commerce Developers",
     "category": "commerce",
@@ -3189,6 +3175,20 @@
     "section_count": 10,
     "freshness_age_days": 0,
     "verified_url": "https://www.kullhaus.gr/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "lunacy.docs.icons8.com",
+    "display_name": "Lunacy",
+    "category": "dev-tools",
+    "score": 67,
+    "grade": "B",
+    "file_size_bytes": 3981,
+    "link_count": 33,
+    "value_link_count": 33,
+    "section_count": 2,
+    "freshness_age_days": 4,
+    "verified_url": "https://lunacy.docs.icons8.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -3315,20 +3315,6 @@
     "section_count": 4,
     "freshness_age_days": null,
     "verified_url": "https://ai-sdk.dev/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "angular.dev",
-    "display_name": "Angular",
-    "category": "dev-tools",
-    "score": 66,
-    "grade": "B",
-    "file_size_bytes": 6606,
-    "link_count": 85,
-    "value_link_count": 85,
-    "section_count": 15,
-    "freshness_age_days": 4,
-    "verified_url": "https://angular.dev/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -3710,6 +3696,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "angular.dev",
+    "display_name": "Angular",
+    "category": "dev-tools",
+    "score": 65,
+    "grade": "B",
+    "file_size_bytes": 6606,
+    "link_count": 85,
+    "value_link_count": 85,
+    "section_count": 15,
+    "freshness_age_days": 4,
+    "verified_url": "https://angular.dev/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "clerk.com",
     "display_name": "Clerk",
     "category": "auth",
@@ -3721,20 +3721,6 @@
     "section_count": 5,
     "freshness_age_days": null,
     "verified_url": "https://clerk.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "defold.com",
-    "display_name": "Defold",
-    "category": "dev-tools",
-    "score": 65,
-    "grade": "B",
-    "file_size_bytes": 1143,
-    "link_count": 7,
-    "value_link_count": 7,
-    "section_count": 2,
-    "freshness_age_days": 5,
-    "verified_url": "https://defold.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -3892,20 +3878,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "navi-lang.org",
-    "display_name": "LLMs Documentation",
-    "category": "dev-tools",
-    "score": 65,
-    "grade": "B",
-    "file_size_bytes": 5520,
-    "link_count": 109,
-    "value_link_count": 109,
-    "section_count": 1,
-    "freshness_age_days": 3,
-    "verified_url": "https://navi-lang.org/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "lobehub.com",
     "display_name": "LobeHub",
     "category": "dev-tools",
@@ -4001,20 +3973,6 @@
     "section_count": 1,
     "freshness_age_days": 0,
     "verified_url": "https://docs.sourceforge.net/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "docs.pingcap.com",
-    "display_name": "TiDB Documentation",
-    "category": "data",
-    "score": 65,
-    "grade": "B",
-    "file_size_bytes": 5270,
-    "link_count": 22,
-    "value_link_count": 20,
-    "section_count": 7,
-    "freshness_age_days": 5,
-    "verified_url": "https://docs.pingcap.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -4158,6 +4116,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "defold.com",
+    "display_name": "Defold",
+    "category": "dev-tools",
+    "score": 64,
+    "grade": "C",
+    "file_size_bytes": 1143,
+    "link_count": 7,
+    "value_link_count": 7,
+    "section_count": 2,
+    "freshness_age_days": 5,
+    "verified_url": "https://defold.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "docs.flip.to",
     "display_name": "Docs",
     "category": "dev-tools",
@@ -4211,6 +4183,20 @@
     "section_count": 3,
     "freshness_age_days": 0,
     "verified_url": "https://www.learninghub.cc/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "navi-lang.org",
+    "display_name": "LLMs Documentation",
+    "category": "dev-tools",
+    "score": 64,
+    "grade": "C",
+    "file_size_bytes": 5520,
+    "link_count": 109,
+    "value_link_count": 109,
+    "section_count": 1,
+    "freshness_age_days": 3,
+    "verified_url": "https://navi-lang.org/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -4298,20 +4284,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "rankscale.ai",
-    "display_name": "Rankscale",
-    "category": "observability",
-    "score": 64,
-    "grade": "C",
-    "file_size_bytes": 3533,
-    "link_count": 12,
-    "value_link_count": 6,
-    "section_count": 11,
-    "freshness_age_days": 4,
-    "verified_url": "https://rankscale.ai/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "www.sarhaangulati.com",
     "display_name": "Sarhaan Gulati",
     "category": "dev-tools",
@@ -4379,6 +4351,20 @@
     "section_count": 13,
     "freshness_age_days": 0,
     "verified_url": "https://www.thatdevpro.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "docs.pingcap.com",
+    "display_name": "TiDB Documentation",
+    "category": "data",
+    "score": 64,
+    "grade": "C",
+    "file_size_bytes": 5270,
+    "link_count": 22,
+    "value_link_count": 20,
+    "section_count": 7,
+    "freshness_age_days": 5,
+    "verified_url": "https://docs.pingcap.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -4690,6 +4676,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "rankscale.ai",
+    "display_name": "Rankscale",
+    "category": "observability",
+    "score": 63,
+    "grade": "C",
+    "file_size_bytes": 3533,
+    "link_count": 12,
+    "value_link_count": 6,
+    "section_count": 11,
+    "freshness_age_days": 4,
+    "verified_url": "https://rankscale.ai/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "docs.rushdb.com",
     "display_name": "RushDB Docs",
     "category": "dev-tools",
@@ -4715,34 +4715,6 @@
     "section_count": 5,
     "freshness_age_days": null,
     "verified_url": "https://starwind.dev/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.stormkit.io",
-    "display_name": "Stormkit",
-    "category": "infra",
-    "score": 63,
-    "grade": "C",
-    "file_size_bytes": 5809,
-    "link_count": 5,
-    "value_link_count": 5,
-    "section_count": 10,
-    "freshness_age_days": 2,
-    "verified_url": "https://www.stormkit.io/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "vibetuner.alltuner.com",
-    "display_name": "Vibetuner",
-    "category": "data",
-    "score": 63,
-    "grade": "C",
-    "file_size_bytes": 16037,
-    "link_count": 21,
-    "value_link_count": 21,
-    "section_count": 6,
-    "freshness_age_days": 5,
-    "verified_url": "https://vibetuner.alltuner.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -4956,20 +4928,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "www.fragbin.com",
-    "display_name": "Fragbin",
-    "category": "infra",
-    "score": 62,
-    "grade": "C",
-    "file_size_bytes": 15567,
-    "link_count": 9,
-    "value_link_count": 5,
-    "section_count": 24,
-    "freshness_age_days": 5,
-    "verified_url": "https://www.fragbin.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "www.helicone.ai",
     "display_name": "Helicone",
     "category": "observability",
@@ -5110,20 +5068,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "lugg.com",
-    "display_name": "Lugg",
-    "category": "dev-tools",
-    "score": 62,
-    "grade": "C",
-    "file_size_bytes": 5568,
-    "link_count": 63,
-    "value_link_count": 61,
-    "section_count": 5,
-    "freshness_age_days": 4,
-    "verified_url": "https://lugg.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "www.mcginniscommawill.com",
     "display_name": "McGinnis, Will",
     "category": "dev-tools",
@@ -5149,20 +5093,6 @@
     "section_count": 4,
     "freshness_age_days": 0,
     "verified_url": "https://mdutil.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.mtrip.com",
-    "display_name": "Mtrip",
-    "category": "dev-tools",
-    "score": 62,
-    "grade": "C",
-    "file_size_bytes": 25041,
-    "link_count": 50,
-    "value_link_count": 50,
-    "section_count": 19,
-    "freshness_age_days": 5,
-    "verified_url": "https://www.mtrip.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -5250,20 +5180,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "www.scoutapm.com",
-    "display_name": "Scout Monitoring",
-    "category": "observability",
-    "score": 62,
-    "grade": "C",
-    "file_size_bytes": 2824,
-    "link_count": 16,
-    "value_link_count": 15,
-    "section_count": 7,
-    "freshness_age_days": 6,
-    "verified_url": "https://www.scoutapm.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "semgrep.dev",
     "display_name": "Semgrep",
     "category": "dev-tools",
@@ -5275,6 +5191,20 @@
     "section_count": 2,
     "freshness_age_days": 0,
     "verified_url": "https://semgrep.dev/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.stormkit.io",
+    "display_name": "Stormkit",
+    "category": "infra",
+    "score": 62,
+    "grade": "C",
+    "file_size_bytes": 5809,
+    "link_count": 5,
+    "value_link_count": 5,
+    "section_count": 10,
+    "freshness_age_days": 2,
+    "verified_url": "https://www.stormkit.io/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -5345,6 +5275,20 @@
     "section_count": 3,
     "freshness_age_days": null,
     "verified_url": "https://uxpatterns.dev/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "vibetuner.alltuner.com",
+    "display_name": "Vibetuner",
+    "category": "data",
+    "score": 62,
+    "grade": "C",
+    "file_size_bytes": 16037,
+    "link_count": 21,
+    "value_link_count": 21,
+    "section_count": 6,
+    "freshness_age_days": 5,
+    "verified_url": "https://vibetuner.alltuner.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -5670,6 +5614,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "www.fragbin.com",
+    "display_name": "Fragbin",
+    "category": "infra",
+    "score": 61,
+    "grade": "C",
+    "file_size_bytes": 15567,
+    "link_count": 9,
+    "value_link_count": 5,
+    "section_count": 24,
+    "freshness_age_days": 5,
+    "verified_url": "https://www.fragbin.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "docs.intelligems.io",
     "display_name": "Intelligems Docs",
     "category": "dev-tools",
@@ -5698,6 +5656,34 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "lugg.com",
+    "display_name": "Lugg",
+    "category": "dev-tools",
+    "score": 61,
+    "grade": "C",
+    "file_size_bytes": 5568,
+    "link_count": 63,
+    "value_link_count": 61,
+    "section_count": 5,
+    "freshness_age_days": 4,
+    "verified_url": "https://lugg.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.mtrip.com",
+    "display_name": "Mtrip",
+    "category": "dev-tools",
+    "score": 61,
+    "grade": "C",
+    "file_size_bytes": 25041,
+    "link_count": 50,
+    "value_link_count": 50,
+    "section_count": 19,
+    "freshness_age_days": 5,
+    "verified_url": "https://www.mtrip.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "www.payrollrabbit.com",
     "display_name": "Payrollrabbit",
     "category": "dev-tools",
@@ -5723,6 +5709,20 @@
     "section_count": 1,
     "freshness_age_days": null,
     "verified_url": "https://www.promptfoo.dev/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.scoutapm.com",
+    "display_name": "Scout Monitoring",
+    "category": "observability",
+    "score": 61,
+    "grade": "C",
+    "file_size_bytes": 2824,
+    "link_count": 16,
+    "value_link_count": 15,
+    "section_count": 7,
+    "freshness_age_days": 6,
+    "verified_url": "https://www.scoutapm.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -5779,20 +5779,6 @@
     "section_count": 5,
     "freshness_age_days": 0,
     "verified_url": "https://truststvincent.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "docs.videosdk.live",
-    "display_name": "Video SDK",
-    "category": "content",
-    "score": 61,
-    "grade": "C",
-    "file_size_bytes": 463706,
-    "link_count": 1823,
-    "value_link_count": 1795,
-    "section_count": 1,
-    "freshness_age_days": 3,
-    "verified_url": "https://docs.videosdk.live/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -6216,20 +6202,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "llmstxt.org",
-    "display_name": "Llmstxt",
-    "category": "dev-tools",
-    "score": 60,
-    "grade": "C",
-    "file_size_bytes": 648,
-    "link_count": 3,
-    "value_link_count": 3,
-    "section_count": 1,
-    "freshness_age_days": 6,
-    "verified_url": "https://llmstxt.org/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "loglayer.dev",
     "display_name": "LogLayer",
     "category": "comms",
@@ -6255,20 +6227,6 @@
     "section_count": 8,
     "freshness_age_days": 66,
     "verified_url": "https://mariadb.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.morphic-solutions.com",
-    "display_name": "Morphic Solutions",
-    "category": "dev-tools",
-    "score": 60,
-    "grade": "C",
-    "file_size_bytes": 23022,
-    "link_count": 22,
-    "value_link_count": 18,
-    "section_count": 17,
-    "freshness_age_days": 3,
-    "verified_url": "https://www.morphic-solutions.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -6451,6 +6409,20 @@
     "section_count": 4,
     "freshness_age_days": null,
     "verified_url": "https://upcgen.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "docs.videosdk.live",
+    "display_name": "Video SDK",
+    "category": "content",
+    "score": 60,
+    "grade": "C",
+    "file_size_bytes": 463706,
+    "link_count": 1823,
+    "value_link_count": 1795,
+    "section_count": 1,
+    "freshness_age_days": 3,
+    "verified_url": "https://docs.videosdk.live/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -6692,20 +6664,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "dejanmarkovic.com",
-    "display_name": "Dejanmarkovic",
-    "category": "dev-tools",
-    "score": 59,
-    "grade": "C",
-    "file_size_bytes": 2623,
-    "link_count": 10,
-    "value_link_count": 9,
-    "section_count": 4,
-    "freshness_age_days": 7,
-    "verified_url": "https://dejanmarkovic.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.insilicoterminal.com",
     "display_name": "Documentation",
     "category": "dev-tools",
@@ -6832,6 +6790,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "llmstxt.org",
+    "display_name": "Llmstxt",
+    "category": "dev-tools",
+    "score": 59,
+    "grade": "C",
+    "file_size_bytes": 648,
+    "link_count": 3,
+    "value_link_count": 3,
+    "section_count": 1,
+    "freshness_age_days": 6,
+    "verified_url": "https://llmstxt.org/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "docs.mantrachain.io",
     "display_name": "MANTRA Chain Documentation",
     "category": "dev-tools",
@@ -6857,6 +6829,20 @@
     "section_count": 8,
     "freshness_age_days": 16,
     "verified_url": "https://mirusuite.de/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.morphic-solutions.com",
+    "display_name": "Morphic Solutions",
+    "category": "dev-tools",
+    "score": 59,
+    "grade": "C",
+    "file_size_bytes": 23022,
+    "link_count": 22,
+    "value_link_count": 18,
+    "section_count": 17,
+    "freshness_age_days": 3,
+    "verified_url": "https://www.morphic-solutions.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -7224,6 +7210,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "dejanmarkovic.com",
+    "display_name": "Dejanmarkovic",
+    "category": "dev-tools",
+    "score": 58,
+    "grade": "C",
+    "file_size_bytes": 2623,
+    "link_count": 10,
+    "value_link_count": 9,
+    "section_count": 4,
+    "freshness_age_days": 7,
+    "verified_url": "https://dejanmarkovic.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "www.deliverect.com",
     "display_name": "Deliverect",
     "category": "dev-tools",
@@ -7263,20 +7263,6 @@
     "section_count": 3,
     "freshness_age_days": null,
     "verified_url": "https://flarewarden.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.geemco.de",
-    "display_name": "GeeMco – Götz Müller Consulting",
-    "category": "dev-tools",
-    "score": 58,
-    "grade": "C",
-    "file_size_bytes": 10843,
-    "link_count": 49,
-    "value_link_count": 31,
-    "section_count": 5,
-    "freshness_age_days": 6,
-    "verified_url": "https://www.geemco.de/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -7826,20 +7812,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "www.cdata.com",
-    "display_name": "CData Software",
-    "category": "dev-tools",
-    "score": 57,
-    "grade": "C",
-    "file_size_bytes": 3989,
-    "link_count": 12,
-    "value_link_count": 11,
-    "section_count": 3,
-    "freshness_age_days": 28,
-    "verified_url": "https://www.cdata.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.chiliz.com",
     "display_name": "Chiliz Chain Developer Docs",
     "category": "dev-tools",
@@ -8019,6 +7991,20 @@
     "section_count": 7,
     "freshness_age_days": 62,
     "verified_url": "https://froggyads.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.geemco.de",
+    "display_name": "GeeMco – Götz Müller Consulting",
+    "category": "dev-tools",
+    "score": 57,
+    "grade": "C",
+    "file_size_bytes": 10843,
+    "link_count": 49,
+    "value_link_count": 31,
+    "section_count": 5,
+    "freshness_age_days": 6,
+    "verified_url": "https://www.geemco.de/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -8442,20 +8428,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "www.unistyl.es",
-    "display_name": "Unistyl",
-    "category": "dev-tools",
-    "score": 57,
-    "grade": "C",
-    "file_size_bytes": 715,
-    "link_count": 2,
-    "value_link_count": 2,
-    "section_count": 2,
-    "freshness_age_days": 3,
-    "verified_url": "https://www.unistyl.es/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "unquoting.com",
     "display_name": "Unquoting",
     "category": "dev-tools",
@@ -8750,20 +8722,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "citability.ai",
-    "display_name": "Citability",
-    "category": "dev-tools",
-    "score": 56,
-    "grade": "C",
-    "file_size_bytes": 3908,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 11,
-    "freshness_age_days": 7,
-    "verified_url": "https://citability.ai/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.de.fi",
     "display_name": "De Docs",
     "category": "dev-tools",
@@ -8901,20 +8859,6 @@
     "section_count": 10,
     "freshness_age_days": null,
     "verified_url": "https://lumiet.net/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.mambomedia.com",
-    "display_name": "Mambomedia",
-    "category": "dev-tools",
-    "score": 56,
-    "grade": "C",
-    "file_size_bytes": 2014,
-    "link_count": 17,
-    "value_link_count": 3,
-    "section_count": 4,
-    "freshness_age_days": 5,
-    "verified_url": "https://www.mambomedia.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -9069,6 +9013,20 @@
     "section_count": 815,
     "freshness_age_days": null,
     "verified_url": "https://tamagui.dev/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.unistyl.es",
+    "display_name": "Unistyl",
+    "category": "dev-tools",
+    "score": 56,
+    "grade": "C",
+    "file_size_bytes": 715,
+    "link_count": 2,
+    "value_link_count": 2,
+    "section_count": 2,
+    "freshness_age_days": 3,
+    "verified_url": "https://www.unistyl.es/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -9254,17 +9212,17 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "bridgepdf.com",
-    "display_name": "Bridgepdf",
-    "category": "observability",
+    "domain": "www.cdata.com",
+    "display_name": "CData Software",
+    "category": "dev-tools",
     "score": 55,
     "grade": "C",
-    "file_size_bytes": 44961,
-    "link_count": 22,
-    "value_link_count": 20,
-    "section_count": 18,
-    "freshness_age_days": 89,
-    "verified_url": "https://bridgepdf.com/llms.txt",
+    "file_size_bytes": 3989,
+    "link_count": 12,
+    "value_link_count": 11,
+    "section_count": 3,
+    "freshness_age_days": 28,
+    "verified_url": "https://www.cdata.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -9307,6 +9265,20 @@
     "section_count": 1,
     "freshness_age_days": null,
     "verified_url": "https://docs.chartbeat.com/cbp/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "citability.ai",
+    "display_name": "Citability",
+    "category": "dev-tools",
+    "score": 55,
+    "grade": "C",
+    "file_size_bytes": 3908,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 11,
+    "freshness_age_days": 7,
+    "verified_url": "https://citability.ai/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -9548,20 +9520,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "kotlinlang.org",
-    "display_name": "Kotlin",
-    "category": "dev-tools",
-    "score": 55,
-    "grade": "C",
-    "file_size_bytes": 46083,
-    "link_count": 467,
-    "value_link_count": 467,
-    "section_count": 0,
-    "freshness_age_days": 4,
-    "verified_url": "https://kotlinlang.org/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.kyo.finance",
     "display_name": "KYO FINANCE",
     "category": "dev-tools",
@@ -9590,17 +9548,17 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "mcp.umin.ai",
-    "display_name": "MCP",
+    "domain": "www.mambomedia.com",
+    "display_name": "Mambomedia",
     "category": "dev-tools",
     "score": 55,
     "grade": "C",
-    "file_size_bytes": 4373,
-    "link_count": 26,
-    "value_link_count": 26,
-    "section_count": 8,
-    "freshness_age_days": 176,
-    "verified_url": "https://mcp.umin.ai/llms.txt",
+    "file_size_bytes": 2014,
+    "link_count": 17,
+    "value_link_count": 3,
+    "section_count": 4,
+    "freshness_age_days": 5,
+    "verified_url": "https://www.mambomedia.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -9671,20 +9629,6 @@
     "section_count": 8,
     "freshness_age_days": 0,
     "verified_url": "https://www.plain.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "promptessor.com",
-    "display_name": "PrompTessor",
-    "category": "content",
-    "score": 55,
-    "grade": "C",
-    "file_size_bytes": 2629,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 5,
-    "freshness_age_days": 3,
-    "verified_url": "https://promptessor.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -10136,6 +10080,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "kotlinlang.org",
+    "display_name": "Kotlin",
+    "category": "dev-tools",
+    "score": 54,
+    "grade": "C",
+    "file_size_bytes": 46083,
+    "link_count": 467,
+    "value_link_count": 467,
+    "section_count": 0,
+    "freshness_age_days": 4,
+    "verified_url": "https://kotlinlang.org/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "getlago.com",
     "display_name": "Lago (GetLago)",
     "category": "billing",
@@ -10217,6 +10175,20 @@
     "section_count": 8,
     "freshness_age_days": null,
     "verified_url": "https://nothumansearch.ai/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "promptessor.com",
+    "display_name": "PrompTessor",
+    "category": "content",
+    "score": 54,
+    "grade": "C",
+    "file_size_bytes": 2629,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 5,
+    "freshness_age_days": 3,
+    "verified_url": "https://promptessor.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -10416,6 +10388,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "bridgepdf.com",
+    "display_name": "Bridgepdf",
+    "category": "observability",
+    "score": 53,
+    "grade": "C",
+    "file_size_bytes": 44961,
+    "link_count": 22,
+    "value_link_count": 20,
+    "section_count": 18,
+    "freshness_age_days": 89,
+    "verified_url": "https://bridgepdf.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "briteksolar.com",
     "display_name": "Briteksolar",
     "category": "dev-tools",
@@ -10542,34 +10528,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "ircsalessolutions.com",
-    "display_name": "IRC Sales Solutions",
-    "category": "infra",
-    "score": 53,
-    "grade": "C",
-    "file_size_bytes": 8549,
-    "link_count": 25,
-    "value_link_count": 24,
-    "section_count": 6,
-    "freshness_age_days": 89,
-    "verified_url": "https://ircsalessolutions.com/wp-content/uploads/2026/02/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "itdbay.com",
-    "display_name": "Itdbay",
-    "category": "commerce",
-    "score": 53,
-    "grade": "C",
-    "file_size_bytes": 20627,
-    "link_count": 3,
-    "value_link_count": 3,
-    "section_count": 9,
-    "freshness_age_days": 88,
-    "verified_url": "https://itdbay.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.kaito.ai",
     "display_name": "Kaito AI",
     "category": "dev-tools",
@@ -10595,6 +10553,20 @@
     "section_count": 1,
     "freshness_age_days": null,
     "verified_url": "https://docs.lightlink.io/lightlink-protocol/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "mcp.umin.ai",
+    "display_name": "MCP",
+    "category": "dev-tools",
+    "score": 53,
+    "grade": "C",
+    "file_size_bytes": 4373,
+    "link_count": 26,
+    "value_link_count": 26,
+    "section_count": 8,
+    "freshness_age_days": 176,
+    "verified_url": "https://mcp.umin.ai/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -11158,6 +11130,34 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "ircsalessolutions.com",
+    "display_name": "IRC Sales Solutions",
+    "category": "infra",
+    "score": 51,
+    "grade": "C",
+    "file_size_bytes": 8549,
+    "link_count": 25,
+    "value_link_count": 24,
+    "section_count": 6,
+    "freshness_age_days": 89,
+    "verified_url": "https://ircsalessolutions.com/wp-content/uploads/2026/02/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "itdbay.com",
+    "display_name": "Itdbay",
+    "category": "commerce",
+    "score": 51,
+    "grade": "C",
+    "file_size_bytes": 20627,
+    "link_count": 3,
+    "value_link_count": 3,
+    "section_count": 9,
+    "freshness_age_days": 88,
+    "verified_url": "https://itdbay.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "millecheck.ai",
     "display_name": "Millecheck",
     "category": "comms",
@@ -11382,20 +11382,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "fragments-studio.com",
-    "display_name": "Hero Banner Section",
-    "category": "dev-tools",
-    "score": 50,
-    "grade": "C",
-    "file_size_bytes": 10321,
-    "link_count": 4,
-    "value_link_count": 4,
-    "section_count": 11,
-    "freshness_age_days": 4,
-    "verified_url": "https://fragments-studio.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "htmlhint.com",
     "display_name": "HTMLHint",
     "category": "dev-tools",
@@ -11449,20 +11435,6 @@
     "section_count": 2,
     "freshness_age_days": null,
     "verified_url": "https://www.launchfa.st/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.mateit.de",
-    "display_name": "Mate iT GmbH — Digital Architects",
-    "category": "commerce",
-    "score": 50,
-    "grade": "C",
-    "file_size_bytes": 9503,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 9,
-    "freshness_age_days": 6,
-    "verified_url": "https://www.mateit.de/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -11533,20 +11505,6 @@
     "section_count": 3,
     "freshness_age_days": 314,
     "verified_url": "https://shoppositioner.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.thecrawltool.com",
-    "display_name": "The Crawl Tool",
-    "category": "comms",
-    "score": 50,
-    "grade": "C",
-    "file_size_bytes": 390,
-    "link_count": 2,
-    "value_link_count": 2,
-    "section_count": 1,
-    "freshness_age_days": 26,
-    "verified_url": "https://www.thecrawltool.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -11659,6 +11617,34 @@
     "section_count": 5,
     "freshness_age_days": null,
     "verified_url": "https://evacalendar.app/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "fragments-studio.com",
+    "display_name": "Hero Banner Section",
+    "category": "dev-tools",
+    "score": 49,
+    "grade": "D",
+    "file_size_bytes": 10321,
+    "link_count": 4,
+    "value_link_count": 4,
+    "section_count": 11,
+    "freshness_age_days": 4,
+    "verified_url": "https://fragments-studio.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.mateit.de",
+    "display_name": "Mate iT GmbH — Digital Architects",
+    "category": "commerce",
+    "score": 49,
+    "grade": "D",
+    "file_size_bytes": 9503,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 9,
+    "freshness_age_days": 6,
+    "verified_url": "https://www.mateit.de/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -11897,6 +11883,20 @@
     "section_count": 6,
     "freshness_age_days": 398,
     "verified_url": "https://semalt.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.thecrawltool.com",
+    "display_name": "The Crawl Tool",
+    "category": "comms",
+    "score": 48,
+    "grade": "D",
+    "file_size_bytes": 390,
+    "link_count": 2,
+    "value_link_count": 2,
+    "section_count": 1,
+    "freshness_age_days": 26,
+    "verified_url": "https://www.thecrawltool.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -12222,20 +12222,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "daisyui.com",
-    "display_name": "daisyUI 5",
-    "category": "dev-tools",
-    "score": 45,
-    "grade": "D",
-    "file_size_bytes": 63204,
-    "link_count": 4,
-    "value_link_count": 4,
-    "section_count": 5,
-    "freshness_age_days": 5,
-    "verified_url": "https://daisyui.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.giselles.ai",
     "display_name": "Docs",
     "category": "dev-tools",
@@ -12429,6 +12415,20 @@
     "section_count": 7,
     "freshness_age_days": 194,
     "verified_url": "https://blueshift.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "daisyui.com",
+    "display_name": "daisyUI 5",
+    "category": "dev-tools",
+    "score": 44,
+    "grade": "D",
+    "file_size_bytes": 63204,
+    "link_count": 4,
+    "value_link_count": 4,
+    "section_count": 5,
+    "freshness_age_days": 5,
+    "verified_url": "https://daisyui.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -12768,20 +12768,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "www.cennso.com",
-    "display_name": "Cennso",
-    "category": "comms",
-    "score": 42,
-    "grade": "D",
-    "file_size_bytes": 1231,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 2,
-    "verified_url": "https://www.cennso.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "designmodo.com",
     "display_name": "Designmodo",
     "category": "dev-tools",
@@ -12793,20 +12779,6 @@
     "section_count": 4,
     "freshness_age_days": 0,
     "verified_url": "https://designmodo.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.china2move.com",
-    "display_name": "Detailed Content",
-    "category": "dev-tools",
-    "score": 42,
-    "grade": "D",
-    "file_size_bytes": 61150,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 2,
-    "freshness_age_days": 5,
-    "verified_url": "https://www.china2move.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -12866,31 +12838,31 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "adsbravo.com",
-    "display_name": "Detailed Content",
-    "category": "dev-tools",
+    "domain": "www.cennso.com",
+    "display_name": "Cennso",
+    "category": "comms",
     "score": 41,
     "grade": "D",
-    "file_size_bytes": 41932,
+    "file_size_bytes": 1231,
     "link_count": 0,
     "value_link_count": 0,
-    "section_count": 3,
-    "freshness_age_days": 4,
-    "verified_url": "https://adsbravo.com/llms.txt",
+    "section_count": 0,
+    "freshness_age_days": 2,
+    "verified_url": "https://www.cennso.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "www.clbconsult.com",
+    "domain": "www.china2move.com",
     "display_name": "Detailed Content",
     "category": "dev-tools",
     "score": 41,
     "grade": "D",
-    "file_size_bytes": 34291,
+    "file_size_bytes": 61150,
     "link_count": 0,
     "value_link_count": 0,
     "section_count": 2,
     "freshness_age_days": 5,
-    "verified_url": "https://www.clbconsult.com/llms.txt",
+    "verified_url": "https://www.china2move.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -12919,20 +12891,6 @@
     "section_count": 2,
     "freshness_age_days": 24,
     "verified_url": "https://www.tasarimimarlik.com.tr/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.webpro.in",
-    "display_name": "Detailed Content",
-    "category": "dev-tools",
-    "score": 41,
-    "grade": "D",
-    "file_size_bytes": 55327,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 2,
-    "freshness_age_days": 7,
-    "verified_url": "https://www.webpro.in/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -13034,6 +12992,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "adsbravo.com",
+    "display_name": "Detailed Content",
+    "category": "dev-tools",
+    "score": 40,
+    "grade": "D",
+    "file_size_bytes": 41932,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 3,
+    "freshness_age_days": 4,
+    "verified_url": "https://adsbravo.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "truyenthongdps.com",
     "display_name": "Detailed Content",
     "category": "dev-tools",
@@ -13045,6 +13017,34 @@
     "section_count": 2,
     "freshness_age_days": 0,
     "verified_url": "https://dps.media/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.clbconsult.com",
+    "display_name": "Detailed Content",
+    "category": "dev-tools",
+    "score": 40,
+    "grade": "D",
+    "file_size_bytes": 34291,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 2,
+    "freshness_age_days": 5,
+    "verified_url": "https://www.clbconsult.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.webpro.in",
+    "display_name": "Detailed Content",
+    "category": "dev-tools",
+    "score": 40,
+    "grade": "D",
+    "file_size_bytes": 55327,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 2,
+    "freshness_age_days": 7,
+    "verified_url": "https://www.webpro.in/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -13073,20 +13073,6 @@
     "section_count": 6,
     "freshness_age_days": 189,
     "verified_url": "https://www.cognos.pt/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.langflow.org",
-    "display_name": "Langflow",
-    "category": "infra",
-    "score": 40,
-    "grade": "D",
-    "file_size_bytes": 3335,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 4,
-    "verified_url": "https://www.langflow.org/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -13129,34 +13115,6 @@
     "section_count": 6,
     "freshness_age_days": 119,
     "verified_url": "https://www.aankoopvanautos.be/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "akademicevre.com",
-    "display_name": "Detailed Content",
-    "category": "dev-tools",
-    "score": 39,
-    "grade": "D",
-    "file_size_bytes": 90330,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 3,
-    "freshness_age_days": 6,
-    "verified_url": "https://akademicevre.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "comparisonator.com",
-    "display_name": "Detailed Content",
-    "category": "dev-tools",
-    "score": 39,
-    "grade": "D",
-    "file_size_bytes": 118609,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 2,
-    "freshness_age_days": 2,
-    "verified_url": "https://comparisonator.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -13230,6 +13188,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "www.langflow.org",
+    "display_name": "Langflow",
+    "category": "infra",
+    "score": 39,
+    "grade": "D",
+    "file_size_bytes": 3335,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 4,
+    "verified_url": "https://www.langflow.org/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "www.television.ai",
     "display_name": "Name",
     "category": "billing",
@@ -13241,6 +13213,34 @@
     "section_count": 0,
     "freshness_age_days": 0,
     "verified_url": "https://www.television.ai/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "akademicevre.com",
+    "display_name": "Detailed Content",
+    "category": "dev-tools",
+    "score": 38,
+    "grade": "D",
+    "file_size_bytes": 90330,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 3,
+    "freshness_age_days": 6,
+    "verified_url": "https://akademicevre.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "comparisonator.com",
+    "display_name": "Detailed Content",
+    "category": "dev-tools",
+    "score": 38,
+    "grade": "D",
+    "file_size_bytes": 118609,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 2,
+    "freshness_age_days": 2,
+    "verified_url": "https://comparisonator.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -13398,20 +13398,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "www.ikangai.com",
-    "display_name": "Ikangai",
-    "category": "dev-tools",
-    "score": 35,
-    "grade": "D",
-    "file_size_bytes": 2625,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 5,
-    "verified_url": "https://www.ikangai.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "maplebridge.io",
     "display_name": "Maplebridge",
     "category": "dev-tools",
@@ -13454,34 +13440,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "nexech.com",
-    "display_name": "Nexech",
-    "category": "dev-tools",
-    "score": 35,
-    "grade": "D",
-    "file_size_bytes": 637,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 4,
-    "verified_url": "https://nexech.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.papayaqatar.com",
-    "display_name": "Papayaqatar",
-    "category": "dev-tools",
-    "score": 35,
-    "grade": "D",
-    "file_size_bytes": 2391,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 3,
-    "verified_url": "https://www.papayaqatar.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "simplepdf.com",
     "display_name": "Simplepdf",
     "category": "dev-tools",
@@ -13507,34 +13465,6 @@
     "section_count": 0,
     "freshness_age_days": 38,
     "verified_url": "https://www.thethaipass.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.tidio.com",
-    "display_name": "Tidio",
-    "category": "dev-tools",
-    "score": 35,
-    "grade": "D",
-    "file_size_bytes": 13124,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 5,
-    "verified_url": "https://www.tidio.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "uploadcare.com",
-    "display_name": "Uploadcare",
-    "category": "dev-tools",
-    "score": 35,
-    "grade": "D",
-    "file_size_bytes": 14906,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 4,
-    "verified_url": "https://uploadcare.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -13566,48 +13496,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "wedgwoodinsurance.com",
-    "display_name": "Wedgwoodinsurance",
-    "category": "dev-tools",
-    "score": 35,
-    "grade": "D",
-    "file_size_bytes": 3847,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 6,
-    "verified_url": "https://wedgwoodinsurance.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "www.wellnessforaustin.com",
-    "display_name": "Wellnessforaustin",
-    "category": "dev-tools",
-    "score": 35,
-    "grade": "D",
-    "file_size_bytes": 4550,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 4,
-    "verified_url": "https://www.wellnessforaustin.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "acemoneytransfer.com",
-    "display_name": "Acemoneytransfer",
-    "category": "dev-tools",
-    "score": 34,
-    "grade": "F",
-    "file_size_bytes": 30286,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 4,
-    "verified_url": "https://acemoneytransfer.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "neuronup.com",
     "display_name": "Detailed Content",
     "category": "dev-tools",
@@ -13636,17 +13524,45 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "openvpn.net",
-    "display_name": "Openvpn",
+    "domain": "www.ikangai.com",
+    "display_name": "Ikangai",
     "category": "dev-tools",
     "score": 34,
     "grade": "F",
-    "file_size_bytes": 8310,
+    "file_size_bytes": 2625,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 5,
+    "verified_url": "https://www.ikangai.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "nexech.com",
+    "display_name": "Nexech",
+    "category": "dev-tools",
+    "score": 34,
+    "grade": "F",
+    "file_size_bytes": 637,
     "link_count": 0,
     "value_link_count": 0,
     "section_count": 0,
     "freshness_age_days": 4,
-    "verified_url": "https://openvpn.net/llms.txt",
+    "verified_url": "https://nexech.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.papayaqatar.com",
+    "display_name": "Papayaqatar",
+    "category": "dev-tools",
+    "score": 34,
+    "grade": "F",
+    "file_size_bytes": 2391,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 3,
+    "verified_url": "https://www.papayaqatar.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -13664,6 +13580,76 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "www.tidio.com",
+    "display_name": "Tidio",
+    "category": "dev-tools",
+    "score": 34,
+    "grade": "F",
+    "file_size_bytes": 13124,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 5,
+    "verified_url": "https://www.tidio.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "uploadcare.com",
+    "display_name": "Uploadcare",
+    "category": "dev-tools",
+    "score": 34,
+    "grade": "F",
+    "file_size_bytes": 14906,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 4,
+    "verified_url": "https://uploadcare.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "wedgwoodinsurance.com",
+    "display_name": "Wedgwoodinsurance",
+    "category": "dev-tools",
+    "score": 34,
+    "grade": "F",
+    "file_size_bytes": 3847,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 6,
+    "verified_url": "https://wedgwoodinsurance.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.wellnessforaustin.com",
+    "display_name": "Wellnessforaustin",
+    "category": "dev-tools",
+    "score": 34,
+    "grade": "F",
+    "file_size_bytes": 4550,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 4,
+    "verified_url": "https://www.wellnessforaustin.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "acemoneytransfer.com",
+    "display_name": "Acemoneytransfer",
+    "category": "dev-tools",
+    "score": 33,
+    "grade": "F",
+    "file_size_bytes": 30286,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 4,
+    "verified_url": "https://acemoneytransfer.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "www.eis-macher.de",
     "display_name": "Detailed Content",
     "category": "dev-tools",
@@ -13678,6 +13664,20 @@
     "last_scored": "2026-05-27"
   },
   {
+    "domain": "openvpn.net",
+    "display_name": "Openvpn",
+    "category": "dev-tools",
+    "score": 33,
+    "grade": "F",
+    "file_size_bytes": 8310,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 4,
+    "verified_url": "https://openvpn.net/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
     "domain": "protonxmedia.com",
     "display_name": "Protonxmedia",
     "category": "dev-tools",
@@ -13689,20 +13689,6 @@
     "section_count": 0,
     "freshness_age_days": 139,
     "verified_url": "https://protonxmedia.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "quokkalabs.com",
-    "display_name": "Quokkalabs",
-    "category": "dev-tools",
-    "score": 33,
-    "grade": "F",
-    "file_size_bytes": 56739,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 5,
-    "verified_url": "https://quokkalabs.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -13731,6 +13717,20 @@
     "section_count": 0,
     "freshness_age_days": 42,
     "verified_url": "https://www.eastagile.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "quokkalabs.com",
+    "display_name": "Quokkalabs",
+    "category": "dev-tools",
+    "score": 32,
+    "grade": "F",
+    "file_size_bytes": 56739,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 5,
+    "verified_url": "https://quokkalabs.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -13804,20 +13804,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "www.forkforce.com.au",
-    "display_name": "Forkforce",
-    "category": "dev-tools",
-    "score": 30,
-    "grade": "F",
-    "file_size_bytes": 209215,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 5,
-    "verified_url": "https://www.forkforce.com.au/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "graphite-note.com",
     "display_name": "Graphite Note",
     "category": "dev-tools",
@@ -13829,20 +13815,6 @@
     "section_count": 0,
     "freshness_age_days": 445,
     "verified_url": "https://graphite-note.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
-    "domain": "manofmany.com",
-    "display_name": "Manofmany",
-    "category": "dev-tools",
-    "score": 30,
-    "grade": "F",
-    "file_size_bytes": 153782,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 0,
-    "freshness_age_days": 4,
-    "verified_url": "https://manofmany.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -13899,6 +13871,34 @@
     "section_count": 0,
     "freshness_age_days": null,
     "verified_url": "https://www.concept-designs.com.au/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.forkforce.com.au",
+    "display_name": "Forkforce",
+    "category": "dev-tools",
+    "score": 29,
+    "grade": "F",
+    "file_size_bytes": 209215,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 5,
+    "verified_url": "https://www.forkforce.com.au/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "manofmany.com",
+    "display_name": "Manofmany",
+    "category": "dev-tools",
+    "score": 29,
+    "grade": "F",
+    "file_size_bytes": 153782,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 0,
+    "freshness_age_days": 4,
+    "verified_url": "https://manofmany.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {

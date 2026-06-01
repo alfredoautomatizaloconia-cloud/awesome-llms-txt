@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://techfusiongear.com/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/techfusiongear.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/techfusiongear.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/techfusiongear.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/techfusiongear.com)
 ```
 
 ## Reproduce this score

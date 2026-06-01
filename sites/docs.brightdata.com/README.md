@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://docs.brightdata.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.brightdata.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.brightdata.com)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.brightdata.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.brightdata.com)
 ```
 
 ## Reproduce this score

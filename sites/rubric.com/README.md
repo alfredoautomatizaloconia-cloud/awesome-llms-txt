@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://rubric.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/rubric.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/rubric.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/rubric.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/rubric.com)
 ```
 
 ## Reproduce this score

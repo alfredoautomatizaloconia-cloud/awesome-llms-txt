@@ -54,7 +54,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://docs.wingbits.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.wingbits.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.wingbits.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.wingbits.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.wingbits.com)
 ```
 
 ## Reproduce this score

@@ -2,7 +2,7 @@
 domain: docs.pimlico.io
 display_name: Pimlico
 category: infra
-score: 69
+score: 68
 grade: B
 last_scored: 2026-05-27
 verified_url: https://docs.pimlico.io/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # Pimlico
 
-![Score 69/100 · Grade B](../../docs/badge/docs.pimlico.io.svg)
+![Score 68/100 · Grade B](../../docs/badge/docs.pimlico.io.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.pimlico.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **infra** · [Live llms.txt](https://docs.pimlico.io/llms.txt) · Snap
 | Coverage | 12/20 | _thin_sectioning, missing_canonical_sections_ |
 | Agent-action declarations | 5/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 3/8 | _no_auth_section_ |
 | Size discipline | 2/6 | _oversized_85kb_ |
@@ -42,7 +42,6 @@ Category: **infra** · [Live llms.txt](https://docs.pimlico.io/llms.txt) · Snap
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Content-Type & encoding (4/4)
 - Voice (2/2)
@@ -56,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://docs.pimlico.io/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.pimlico.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.pimlico.io)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.pimlico.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.pimlico.io)
 ```
 
 ## Reproduce this score

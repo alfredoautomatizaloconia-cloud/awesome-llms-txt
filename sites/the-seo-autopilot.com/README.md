@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://the-seo-autopilot.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/the-seo-autopilot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/the-seo-autopilot.com)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/the-seo-autopilot.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/the-seo-autopilot.com)
 ```
 
 ## Reproduce this score

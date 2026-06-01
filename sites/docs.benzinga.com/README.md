@@ -52,7 +52,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://docs.benzinga.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.benzinga.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.benzinga.com)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.benzinga.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.benzinga.com)
 ```
 
 ## Reproduce this score

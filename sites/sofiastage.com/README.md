@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://sofiastage.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sofiastage.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sofiastage.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/sofiastage.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/sofiastage.com)
 ```
 
 ## Reproduce this score

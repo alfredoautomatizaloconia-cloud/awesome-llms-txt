@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://pagesmith.ai/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/pagesmith.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pagesmith.ai)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/pagesmith.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/pagesmith.ai)
 ```
 
 ## Reproduce this score

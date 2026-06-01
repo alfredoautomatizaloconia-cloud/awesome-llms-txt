@@ -54,7 +54,7 @@ Category: **data** · [Live llms.txt](https://turso.tech/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/turso.tech.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/turso.tech)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/turso.tech.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/turso.tech)
 ```
 
 ## Reproduce this score

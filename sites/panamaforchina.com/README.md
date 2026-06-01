@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://panamaforchina.com/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/panamaforchina.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/panamaforchina.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/panamaforchina.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/panamaforchina.com)
 ```
 
 ## Reproduce this score

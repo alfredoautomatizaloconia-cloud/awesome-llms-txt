@@ -2,7 +2,7 @@
 domain: lugg.com
 display_name: Lugg
 category: dev-tools
-score: 62
+score: 61
 grade: C
 last_scored: 2026-05-27
 verified_url: https://lugg.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Lugg
 
-![Score 62/100 · Grade C](../../docs/badge/lugg.com.svg)
+![Score 61/100 · Grade C](../../docs/badge/lugg.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://lugg.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://lugg.com/llms.txt) · Snapsho
 | Coverage | 10/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -41,7 +41,6 @@ Category: **dev-tools** · [Live llms.txt](https://lugg.com/llms.txt) · Snapsho
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Size discipline (6/6)
 - Content-Type & encoding (4/4)
@@ -55,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://lugg.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/lugg.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/lugg.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/lugg.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/lugg.com)
 ```
 
 ## Reproduce this score

@@ -53,7 +53,7 @@ Category: **billing** · [Live llms.txt](https://unlocksaas.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/unlocksaas.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/unlocksaas.com)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/unlocksaas.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/unlocksaas.com)
 ```
 
 ## Reproduce this score

@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://cleverhack.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cleverhack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cleverhack.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/cleverhack.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/cleverhack.com)
 ```
 
 ## Reproduce this score

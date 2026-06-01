@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.lightlink.io/lightlink-p
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.lightlink.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.lightlink.io)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.lightlink.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.lightlink.io)
 ```
 
 ## Reproduce this score

@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://sellm.io/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 30 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sellm.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sellm.io)
+[![llms.txt score 30 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/sellm.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/sellm.io)
 ```
 
 ## Reproduce this score

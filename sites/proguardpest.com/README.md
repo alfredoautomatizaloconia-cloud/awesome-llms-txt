@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://proguardpest.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/proguardpest.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/proguardpest.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/proguardpest.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/proguardpest.com)
 ```
 
 ## Reproduce this score

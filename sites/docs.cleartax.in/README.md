@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.cleartax.in/cleartax-doc
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.cleartax.in.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.cleartax.in)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.cleartax.in.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.cleartax.in)
 ```
 
 ## Reproduce this score

@@ -54,7 +54,7 @@ Category: **ai-platform** · [Live llms.txt](https://useapi.net/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/useapi.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/useapi.net)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/useapi.net.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/useapi.net)
 ```
 
 ## Reproduce this score

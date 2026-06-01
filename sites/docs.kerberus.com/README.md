@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.kerberus.com/kerberus/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.kerberus.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.kerberus.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.kerberus.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.kerberus.com)
 ```
 
 ## Reproduce this score

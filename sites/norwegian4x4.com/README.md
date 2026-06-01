@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://norwegian4x4.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/norwegian4x4.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/norwegian4x4.com)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/norwegian4x4.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/norwegian4x4.com)
 ```
 
 ## Reproduce this score

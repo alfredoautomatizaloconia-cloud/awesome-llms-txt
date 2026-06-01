@@ -57,7 +57,7 @@ Category: **billing** · [Live llms.txt](https://www.cartography.capital/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.cartography.capital.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cartography.capital)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.cartography.capital.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.cartography.capital)
 ```
 
 ## Reproduce this score

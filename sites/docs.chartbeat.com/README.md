@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.chartbeat.com/cbp/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.chartbeat.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chartbeat.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.chartbeat.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.chartbeat.com)
 ```
 
 ## Reproduce this score

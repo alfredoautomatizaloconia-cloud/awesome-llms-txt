@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.empirechase.co.uk/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.empirechase.co.uk.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.empirechase.co.uk)
+[![llms.txt score 41 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.empirechase.co.uk.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.empirechase.co.uk)
 ```
 
 ## Reproduce this score

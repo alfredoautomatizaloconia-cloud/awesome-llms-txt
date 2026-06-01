@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.agno.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/agno.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/agno.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/agno.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/agno.com)
 ```
 
 ## Reproduce this score

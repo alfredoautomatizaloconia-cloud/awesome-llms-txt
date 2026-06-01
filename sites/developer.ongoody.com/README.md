@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://developer.ongoody.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developer.ongoody.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developer.ongoody.com)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/developer.ongoody.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/developer.ongoody.com)
 ```
 
 ## Reproduce this score

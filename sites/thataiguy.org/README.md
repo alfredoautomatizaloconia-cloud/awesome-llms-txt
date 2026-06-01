@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://thataiguy.org/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/thataiguy.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thataiguy.org)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/thataiguy.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/thataiguy.org)
 ```
 
 ## Reproduce this score

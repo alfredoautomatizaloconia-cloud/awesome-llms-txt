@@ -51,7 +51,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.reflag.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.bucket.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.bucket.co)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.bucket.co.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.bucket.co)
 ```
 
 ## Reproduce this score

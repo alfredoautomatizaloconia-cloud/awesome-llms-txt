@@ -54,7 +54,7 @@ Category: **data** · [Live llms.txt](https://supabase.com/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/supabase.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/supabase.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/supabase.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/supabase.com)
 ```
 
 ## Reproduce this score

@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://bun.sh/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/bun.sh.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bun.sh)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/bun.sh.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/bun.sh)
 ```
 
 ## Reproduce this score

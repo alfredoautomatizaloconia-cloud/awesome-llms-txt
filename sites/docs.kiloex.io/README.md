@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.kiloex.io/kiloex/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.kiloex.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.kiloex.io)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.kiloex.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.kiloex.io)
 ```
 
 ## Reproduce this score

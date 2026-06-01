@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://pydantic.dev/docs/validation/
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.pydantic.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.pydantic.dev)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.pydantic.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.pydantic.dev)
 ```
 
 ## Reproduce this score

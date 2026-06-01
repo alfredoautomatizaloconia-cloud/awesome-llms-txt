@@ -29,7 +29,7 @@ ${RUBRIC.map(r => `  ${String(r.max).padStart(3)} pts  ${r.label}`).join('\n')}
 
 Grade thresholds: A+ 95+, A 85, A- 80, B+ 75, B 65, C 50, D 35, F < 35.
 
-Full methodology: https://github.com/agentrhq/awesome-llms-txt/blob/main/RUBRIC.md
+Full methodology: https://github.com/zriyansh/awesome-llms-txt/blob/main/RUBRIC.md
 `;
 
 function parseArgs(argv) {

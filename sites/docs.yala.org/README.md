@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.yala.org/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.yala.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.yala.org)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.yala.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.yala.org)
 ```
 
 ## Reproduce this score

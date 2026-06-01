@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.imaginepro.ai/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.imaginepro.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.imaginepro.ai)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.imaginepro.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.imaginepro.ai)
 ```
 
 ## Reproduce this score

@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.e6data.com/product-docum
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.e6data.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.e6data.com)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.e6data.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.e6data.com)
 ```
 
 ## Reproduce this score

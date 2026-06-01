@@ -57,7 +57,7 @@ Category: **commerce** · [Live llms.txt](https://developers.front-commerce.com/
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developers.front-commerce.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.front-commerce.com)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/developers.front-commerce.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/developers.front-commerce.com)
 ```
 
 ## Reproduce this score

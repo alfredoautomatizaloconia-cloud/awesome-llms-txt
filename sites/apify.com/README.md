@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://apify.com/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 79 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/apify.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/apify.com)
+[![llms.txt score 79 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/apify.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/apify.com)
 ```
 
 ## Reproduce this score

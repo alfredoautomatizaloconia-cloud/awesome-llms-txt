@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://froggyads.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/froggyads.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/froggyads.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/froggyads.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/froggyads.com)
 ```
 
 ## Reproduce this score

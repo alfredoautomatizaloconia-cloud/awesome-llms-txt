@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.imagin.studio/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.imagin.studio.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.imagin.studio)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.imagin.studio.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.imagin.studio)
 ```
 
 ## Reproduce this score

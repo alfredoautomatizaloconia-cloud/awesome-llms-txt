@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://ajaib.gitbook.io/coin-exchang
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ajaib.gitbook.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ajaib.gitbook.io)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/ajaib.gitbook.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/ajaib.gitbook.io)
 ```
 
 ## Reproduce this score

@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.sourceforge.net/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.sourceforge.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.sourceforge.net)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.sourceforge.net.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.sourceforge.net)
 ```
 
 ## Reproduce this score

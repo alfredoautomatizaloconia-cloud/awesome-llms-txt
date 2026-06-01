@@ -55,7 +55,7 @@ Category: **ai-platform** · [Live llms.txt](https://www.gilesthomas.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.gilesthomas.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gilesthomas.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.gilesthomas.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.gilesthomas.com)
 ```
 
 ## Reproduce this score

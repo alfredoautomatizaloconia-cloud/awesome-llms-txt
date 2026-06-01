@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://dualmark.dev/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/dualmark.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/dualmark.dev)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/dualmark.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/dualmark.dev)
 ```
 
 ## Reproduce this score

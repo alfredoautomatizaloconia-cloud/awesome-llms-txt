@@ -54,7 +54,7 @@ Category: **commerce** · [Live llms.txt](https://steelesolutions4u.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/steelesolutions4u.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/steelesolutions4u.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/steelesolutions4u.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/steelesolutions4u.com)
 ```
 
 ## Reproduce this score

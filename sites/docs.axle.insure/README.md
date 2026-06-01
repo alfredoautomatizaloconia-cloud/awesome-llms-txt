@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.axle.insure/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.axle.insure.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.axle.insure)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.axle.insure.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.axle.insure)
 ```
 
 ## Reproduce this score

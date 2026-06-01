@@ -33,7 +33,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.twoshoes.be/llms.txt) · 
 | Coverage | 6/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_209_days_ |
+| Freshness | 3/10 | _stale_214_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -51,13 +51,13 @@ Category: **dev-tools** · [Live llms.txt](https://www.twoshoes.be/llms.txt) · 
 
 - Coverage (6/20): missing_canonical_sections
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (3/10): stale_209_days
+- Freshness (3/10): stale_214_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.twoshoes.be.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.twoshoes.be)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.twoshoes.be.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.twoshoes.be)
 ```
 
 ## Reproduce this score

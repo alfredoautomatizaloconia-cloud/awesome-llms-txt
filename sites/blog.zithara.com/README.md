@@ -53,7 +53,7 @@ Category: **billing** · [Live llms.txt](https://blog.zithara.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/blog.zithara.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/blog.zithara.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/blog.zithara.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/blog.zithara.com)
 ```
 
 ## Reproduce this score

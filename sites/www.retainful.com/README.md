@@ -52,7 +52,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.retainful.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.retainful.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.retainful.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.retainful.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.retainful.com)
 ```
 
 ## Reproduce this score

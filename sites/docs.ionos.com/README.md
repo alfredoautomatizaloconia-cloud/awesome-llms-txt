@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://docs.ionos.com/cloud/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.ionos.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.ionos.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.ionos.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.ionos.com)
 ```
 
 ## Reproduce this score

@@ -53,7 +53,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://docs.chatknow.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.chatknow.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chatknow.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.chatknow.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.chatknow.com)
 ```
 
 ## Reproduce this score

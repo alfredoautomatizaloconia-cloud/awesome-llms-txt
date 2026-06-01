@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://www.pulumi.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/pulumi.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pulumi.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/pulumi.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/pulumi.com)
 ```
 
 ## Reproduce this score

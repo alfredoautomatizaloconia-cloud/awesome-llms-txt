@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://docs.upsun.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.upsun.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.upsun.com)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.upsun.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.upsun.com)
 ```
 
 ## Reproduce this score

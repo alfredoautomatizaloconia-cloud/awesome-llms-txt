@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://www.apibara.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.apibara.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.apibara.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.apibara.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.apibara.com)
 ```
 
 ## Reproduce this score

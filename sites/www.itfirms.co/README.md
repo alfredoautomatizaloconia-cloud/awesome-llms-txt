@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.itfirms.co/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.itfirms.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.itfirms.co)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.itfirms.co.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.itfirms.co)
 ```
 
 ## Reproduce this score

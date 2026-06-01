@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://nocruft.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/nocruft.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nocruft.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/nocruft.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/nocruft.com)
 ```
 
 ## Reproduce this score

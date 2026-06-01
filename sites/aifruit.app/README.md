@@ -53,7 +53,7 @@ Category: **ai-platform** · [Live llms.txt](https://aifruit.app/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/aifruit.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/aifruit.app)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/aifruit.app.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/aifruit.app)
 ```
 
 ## Reproduce this score

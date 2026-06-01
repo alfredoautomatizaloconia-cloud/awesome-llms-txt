@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://valdhealth.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/valdhealth.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/valdhealth.com)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/valdhealth.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/valdhealth.com)
 ```
 
 ## Reproduce this score

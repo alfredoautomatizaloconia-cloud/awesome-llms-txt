@@ -56,7 +56,7 @@ Category: **billing** · [Live llms.txt](https://ismartsync.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ismartsync.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ismartsync.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/ismartsync.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/ismartsync.com)
 ```
 
 ## Reproduce this score

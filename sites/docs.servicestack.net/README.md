@@ -2,7 +2,7 @@
 domain: docs.servicestack.net
 display_name: ServiceStack
 category: dev-tools
-score: 70
+score: 68
 grade: B
 last_scored: 2026-05-27
 verified_url: https://docs.servicestack.net/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 26
 
 # ServiceStack
 
-![Score 70/100 · Grade B](../../docs/badge/docs.servicestack.net.svg)
+![Score 68/100 · Grade B](../../docs/badge/docs.servicestack.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.servicestack.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.servicestack.net/llms.tx
 | Coverage | 12/20 | _thin_sectioning, missing_canonical_sections_ |
 | Agent-action declarations | 9/14 | _no_llms_full_link_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 9/10 | |
+| Freshness | 7/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 3/8 | _no_auth_section_ |
 | Size discipline | 2/6 | _oversized_67kb_ |
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.servicestack.net/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.servicestack.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.servicestack.net)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.servicestack.net.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.servicestack.net)
 ```
 
 ## Reproduce this score

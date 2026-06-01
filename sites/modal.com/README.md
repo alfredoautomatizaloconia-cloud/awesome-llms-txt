@@ -52,7 +52,7 @@ Category: **infra** · [Live llms.txt](https://modal.com/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/modal.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/modal.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/modal.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/modal.com)
 ```
 
 ## Reproduce this score

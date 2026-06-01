@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://uithing.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/uithing.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/uithing.com)
+[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/uithing.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/uithing.com)
 ```
 
 ## Reproduce this score

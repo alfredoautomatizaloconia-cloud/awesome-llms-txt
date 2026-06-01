@@ -55,7 +55,7 @@ Category: **billing** · [Live llms.txt](https://voidmob.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/voidmob.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/voidmob.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/voidmob.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/voidmob.com)
 ```
 
 ## Reproduce this score

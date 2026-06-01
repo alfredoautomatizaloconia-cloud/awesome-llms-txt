@@ -58,7 +58,7 @@ Category: **content** · [Live llms.txt](https://www.visioforge.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.visioforge.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.visioforge.com)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.visioforge.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.visioforge.com)
 ```
 
 ## Reproduce this score

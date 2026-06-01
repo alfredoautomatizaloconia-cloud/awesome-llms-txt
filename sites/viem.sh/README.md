@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://viem.sh/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/viem.sh.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/viem.sh)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/viem.sh.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/viem.sh)
 ```
 
 ## Reproduce this score

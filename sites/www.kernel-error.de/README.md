@@ -53,7 +53,7 @@ Category: **infra** · [Live llms.txt](https://www.kernel-error.de/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.kernel-error.de.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.kernel-error.de)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.kernel-error.de.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.kernel-error.de)
 ```
 
 ## Reproduce this score

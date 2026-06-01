@@ -33,7 +33,7 @@ Category: **dev-tools** · [Live llms.txt](https://worthyvibe.com/llms.txt) · S
 | Coverage | 13/20 | |
 | Agent-action declarations | 4/14 | _no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 5/10 | _stale_124_days_ |
+| Freshness | 5/10 | _stale_129_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 2/6 | _oversized_107kb_ |
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://worthyvibe.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/worthyvibe.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/worthyvibe.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/worthyvibe.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/worthyvibe.com)
 ```
 
 ## Reproduce this score

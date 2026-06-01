@@ -53,7 +53,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://docs.datafold.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.datafold.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.datafold.com)
+[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.datafold.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.datafold.com)
 ```
 
 ## Reproduce this score

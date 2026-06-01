@@ -55,7 +55,7 @@ Category: **observability** · [Live llms.txt](https://heeb.ai/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/heeb.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/heeb.ai)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/heeb.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/heeb.ai)
 ```
 
 ## Reproduce this score

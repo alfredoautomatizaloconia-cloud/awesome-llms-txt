@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://handledtax.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/handledtax.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/handledtax.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/handledtax.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/handledtax.com)
 ```
 
 ## Reproduce this score

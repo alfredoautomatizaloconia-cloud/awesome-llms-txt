@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://upstaff.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/upstaff.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/upstaff.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/upstaff.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/upstaff.com)
 ```
 
 ## Reproduce this score

@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://www.gumlet.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.gumlet.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gumlet.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.gumlet.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.gumlet.com)
 ```
 
 ## Reproduce this score

@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://www.tryprofound.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.tryprofound.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tryprofound.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.tryprofound.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.tryprofound.com)
 ```
 
 ## Reproduce this score

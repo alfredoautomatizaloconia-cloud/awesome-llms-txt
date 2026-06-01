@@ -55,7 +55,7 @@ Category: **billing** · [Live llms.txt](https://docs.mangopay.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.mangopay.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.mangopay.com)
+[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.mangopay.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.mangopay.com)
 ```
 
 ## Reproduce this score

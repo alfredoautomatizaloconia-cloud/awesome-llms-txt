@@ -56,7 +56,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.placemania.sk/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 31 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.placemania.sk.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.placemania.sk)
+[![llms.txt score 31 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.placemania.sk.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.placemania.sk)
 ```
 
 ## Reproduce this score

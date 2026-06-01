@@ -55,7 +55,7 @@ Category: **commerce** · [Live llms.txt](https://www.lazada.com.my/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.lazada.com.my.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.lazada.com.my)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.lazada.com.my.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.lazada.com.my)
 ```
 
 ## Reproduce this score

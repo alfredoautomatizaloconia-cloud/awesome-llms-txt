@@ -57,7 +57,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.glideapps.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.glideapps.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.glideapps.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.glideapps.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.glideapps.com)
 ```
 
 ## Reproduce this score

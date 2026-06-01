@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.heykel.org/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.heykel.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.heykel.org)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.heykel.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.heykel.org)
 ```
 
 ## Reproduce this score

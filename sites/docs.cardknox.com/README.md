@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.solapayments.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.cardknox.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.cardknox.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.cardknox.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.cardknox.com)
 ```
 
 ## Reproduce this score

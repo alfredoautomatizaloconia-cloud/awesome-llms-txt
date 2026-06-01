@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://llmvo.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/llmvo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/llmvo.com)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/llmvo.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/llmvo.com)
 ```
 
 ## Reproduce this score

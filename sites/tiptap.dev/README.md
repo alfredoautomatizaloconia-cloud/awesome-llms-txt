@@ -2,7 +2,7 @@
 domain: tiptap.dev
 display_name: Tiptap
 category: dev-tools
-score: 72
+score: 71
 grade: B
 last_scored: 2026-05-27
 verified_url: https://tiptap.dev/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Tiptap
 
-![Score 72/100 · Grade B](../../docs/badge/tiptap.dev.svg)
+![Score 71/100 · Grade B](../../docs/badge/tiptap.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://tiptap.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **dev-tools** · [Live llms.txt](https://tiptap.dev/llms.txt) · Snaps
 | Coverage | 20/20 | |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 2/8 | _no_auth_section_ |
 | Size discipline | 4/6 | |
@@ -44,7 +44,6 @@ Category: **dev-tools** · [Live llms.txt](https://tiptap.dev/llms.txt) · Snaps
 
 - Spec compliance (18/18)
 - Coverage (20/20)
-- Freshness (10/10)
 - Discoverability (8/8)
 
 ## What's weak
@@ -55,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://tiptap.dev/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/tiptap.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tiptap.dev)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/tiptap.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/tiptap.dev)
 ```
 
 ## Reproduce this score

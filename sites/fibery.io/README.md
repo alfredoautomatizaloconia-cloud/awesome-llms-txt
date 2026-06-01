@@ -55,7 +55,7 @@ Category: **data** · [Live llms.txt](https://fibery.com/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/fibery.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/fibery.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/fibery.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/fibery.io)
 ```
 
 ## Reproduce this score

@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.prodegeads.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.adgatemedia.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.adgatemedia.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.adgatemedia.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.adgatemedia.com)
 ```
 
 ## Reproduce this score

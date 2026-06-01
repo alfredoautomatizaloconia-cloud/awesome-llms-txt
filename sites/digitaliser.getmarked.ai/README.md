@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://digitaliser.getmarked.ai/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/digitaliser.getmarked.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/digitaliser.getmarked.ai)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/digitaliser.getmarked.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/digitaliser.getmarked.ai)
 ```
 
 ## Reproduce this score

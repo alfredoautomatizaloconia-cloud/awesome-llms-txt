@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://contractorgrowthnetwork.com/l
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/contractorgrowthnetwork.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/contractorgrowthnetwork.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/contractorgrowthnetwork.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/contractorgrowthnetwork.com)
 ```
 
 ## Reproduce this score

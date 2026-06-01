@@ -52,7 +52,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://docs.windsurf.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.codeium.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.codeium.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.codeium.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.codeium.com)
 ```
 
 ## Reproduce this score

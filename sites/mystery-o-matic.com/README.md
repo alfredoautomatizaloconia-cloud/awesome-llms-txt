@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://mystery-o-matic.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/mystery-o-matic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mystery-o-matic.com)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/mystery-o-matic.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/mystery-o-matic.com)
 ```
 
 ## Reproduce this score

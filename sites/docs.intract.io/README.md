@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.intract.io/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.intract.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.intract.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.intract.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.intract.io)
 ```
 
 ## Reproduce this score

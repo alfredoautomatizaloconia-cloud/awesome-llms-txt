@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://developers.raycast.com/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developers.raycast.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.raycast.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/developers.raycast.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/developers.raycast.com)
 ```
 
 ## Reproduce this score

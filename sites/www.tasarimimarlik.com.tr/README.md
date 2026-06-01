@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.tasarimimarlik.com.tr/llm
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.tasarimimarlik.com.tr.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tasarimimarlik.com.tr)
+[![llms.txt score 41 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.tasarimimarlik.com.tr.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.tasarimimarlik.com.tr)
 ```
 
 ## Reproduce this score

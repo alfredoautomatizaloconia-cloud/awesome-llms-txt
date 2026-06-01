@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.fervenza.fr/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.fervenza.fr.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.fervenza.fr)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.fervenza.fr.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.fervenza.fr)
 ```
 
 ## Reproduce this score

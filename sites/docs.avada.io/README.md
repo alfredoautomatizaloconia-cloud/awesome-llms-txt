@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.avada.io/seo-suite-help-
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.avada.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.avada.io)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.avada.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.avada.io)
 ```
 
 ## Reproduce this score

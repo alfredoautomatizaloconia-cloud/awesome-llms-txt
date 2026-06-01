@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.alva.xyz/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.alva.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.alva.xyz)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.alva.xyz.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.alva.xyz)
 ```
 
 ## Reproduce this score

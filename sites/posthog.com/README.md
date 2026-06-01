@@ -57,7 +57,7 @@ Category: **observability** · [Live llms.txt](https://posthog.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 81 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/posthog.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/posthog.com)
+[![llms.txt score 81 (A-)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/posthog.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/posthog.com)
 ```
 
 ## Reproduce this score

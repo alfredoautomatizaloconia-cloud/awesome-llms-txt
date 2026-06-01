@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://rsbuild.rs/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/rsbuild.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/rsbuild.dev)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/rsbuild.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/rsbuild.dev)
 ```
 
 ## Reproduce this score

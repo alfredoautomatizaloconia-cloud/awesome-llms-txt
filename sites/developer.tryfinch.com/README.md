@@ -53,7 +53,7 @@ Category: **data** Â· [Live llms.txt](https://developer.tryfinch.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developer.tryfinch.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developer.tryfinch.com)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/developer.tryfinch.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/developer.tryfinch.com)
 ```
 
 ## Reproduce this score

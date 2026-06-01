@@ -55,7 +55,7 @@ Category: **billing** · [Live llms.txt](https://latuos.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/latuos.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/latuos.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/latuos.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/latuos.com)
 ```
 
 ## Reproduce this score

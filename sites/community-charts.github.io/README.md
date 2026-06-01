@@ -2,7 +2,7 @@
 domain: community-charts.github.io
 display_name: Community Charts
 category: infra
-score: 73
+score: 72
 grade: B
 last_scored: 2026-05-27
 verified_url: https://community-charts.github.io/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Community Charts
 
-![Score 73/100 · Grade B](../../docs/badge/community-charts.github.io.svg)
+![Score 72/100 · Grade B](../../docs/badge/community-charts.github.io.svg)
 
 Category: **infra** · [Live llms.txt](https://community-charts.github.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **infra** · [Live llms.txt](https://community-charts.github.io/llms.t
 | Coverage | 14/20 | _mostly_low_value_198_of_258_ |
 | Agent-action declarations | 5/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 4/8 | |
 | Size discipline | 2/6 | _oversized_78kb_ |
@@ -43,7 +43,6 @@ Category: **infra** · [Live llms.txt](https://community-charts.github.io/llms.t
 ## What's exceptional
 
 - Spec compliance (18/18)
-- Freshness (10/10)
 - Discoverability (8/8)
 - Content-Type & encoding (4/4)
 - Voice (2/2)
@@ -56,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://community-charts.github.io/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/community-charts.github.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/community-charts.github.io)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/community-charts.github.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/community-charts.github.io)
 ```
 
 ## Reproduce this score

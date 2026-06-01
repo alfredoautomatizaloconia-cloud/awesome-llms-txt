@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.krootl.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.krootl.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.krootl.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.krootl.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.krootl.com)
 ```
 
 ## Reproduce this score

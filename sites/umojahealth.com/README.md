@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://umojahealth.com/llms.txt) · 
 | Coverage | 8/20 | _few_value_links_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 5/10 | _stale_103_days_ |
+| Freshness | 5/10 | _stale_108_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 3/8 | _no_auth_keywords_ |
 | Size discipline | 5/6 | |
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://umojahealth.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/umojahealth.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/umojahealth.com)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/umojahealth.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/umojahealth.com)
 ```
 
 ## Reproduce this score

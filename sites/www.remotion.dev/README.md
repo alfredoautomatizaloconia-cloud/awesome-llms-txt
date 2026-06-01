@@ -56,7 +56,7 @@ Category: **content** · [Live llms.txt](https://www.remotion.dev/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.remotion.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.remotion.dev)
+[![llms.txt score 44 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.remotion.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.remotion.dev)
 ```
 
 ## Reproduce this score

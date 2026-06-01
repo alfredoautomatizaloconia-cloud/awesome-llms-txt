@@ -13,7 +13,7 @@ const OUT = path.join(ROOT, 'research', 'freshness.json');
 
 const CONCURRENCY = 30;
 const TIMEOUT_MS = 15000;
-const UA = 'llms-txt-score/0.2 (+https://github.com/agentrhq/awesome-llms-txt)';
+const UA = 'llms-txt-score/0.2 (+https://github.com/zriyansh/awesome-llms-txt)';
 
 function request(target, method, redirectsLeft = 3) {
   return new Promise((resolve) => {

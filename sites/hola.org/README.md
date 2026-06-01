@@ -33,7 +33,7 @@ Category: **dev-tools** · [Live llms.txt](https://hola.org/llms.txt) · Snapsho
 | Coverage | 13/20 | _mostly_low_value_10_of_19, few_value_links_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 1/10 | _stale_9643_days_ |
+| Freshness | 1/10 | _stale_9648_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 2/8 | _no_auth_keywords_ |
 | Size discipline | 5/6 | |
@@ -49,13 +49,13 @@ Category: **dev-tools** · [Live llms.txt](https://hola.org/llms.txt) · Snapsho
 ## What's weak
 
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (1/10): stale_9643_days
+- Freshness (1/10): stale_9648_days
 - Auth signposting (2/8): no_auth_keywords
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/hola.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/hola.org)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/hola.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/hola.org)
 ```
 
 ## Reproduce this score

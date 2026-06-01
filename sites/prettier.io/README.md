@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://prettier.io/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/prettier.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/prettier.io)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/prettier.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/prettier.io)
 ```
 
 ## Reproduce this score

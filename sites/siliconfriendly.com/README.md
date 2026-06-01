@@ -52,7 +52,7 @@ Category: **auth** · [Live llms.txt](https://siliconfriendly.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/siliconfriendly.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/siliconfriendly.com)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/siliconfriendly.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/siliconfriendly.com)
 ```
 
 ## Reproduce this score

@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.digitalstar.lt/llms.txt) 
 | Coverage | 0/20 | _thin_sectioning, few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_305_days_ |
+| Freshness | 3/10 | _stale_310_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 0/6 | _empty_or_stub_ |
@@ -49,14 +49,14 @@ Category: **dev-tools** · [Live llms.txt](https://www.digitalstar.lt/llms.txt) 
 - Spec compliance (0/18): no_h1, no_blockquote_summary, no_structure
 - Coverage (0/20): thin_sectioning, few_value_links, missing_canonical_sections
 - Agent-action declarations (0/14): no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec
-- Freshness (3/10): stale_305_days
+- Freshness (3/10): stale_310_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 - Size discipline (0/6): empty_or_stub
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 22 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.digitalstar.lt.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.digitalstar.lt)
+[![llms.txt score 22 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.digitalstar.lt.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.digitalstar.lt)
 ```
 
 ## Reproduce this score

@@ -55,7 +55,7 @@ Category: **content** · [Live llms.txt](https://doc2lang.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/doc2lang.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/doc2lang.com)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/doc2lang.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/doc2lang.com)
 ```
 
 ## Reproduce this score

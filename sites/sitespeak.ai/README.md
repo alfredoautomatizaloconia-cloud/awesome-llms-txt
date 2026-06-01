@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://sitespeak.ai/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sitespeak.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sitespeak.ai)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/sitespeak.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/sitespeak.ai)
 ```
 
 ## Reproduce this score

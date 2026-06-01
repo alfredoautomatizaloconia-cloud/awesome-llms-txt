@@ -52,7 +52,7 @@ Category: **infra** · [Live llms.txt](https://www.daytona.io/docs/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.daytona.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.daytona.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.daytona.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.daytona.io)
 ```
 
 ## Reproduce this score

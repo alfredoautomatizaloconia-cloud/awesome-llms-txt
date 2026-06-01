@@ -32,7 +32,7 @@ Category: **search** · [Live llms.txt](https://cloudfix.com/llms.txt) · Snapsh
 | Coverage | 18/20 | |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 1/10 | _stale_439_days_ |
+| Freshness | 1/10 | _stale_444_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 4/8 | |
 | Size discipline | 0/6 | _oversized_741kb_ |
@@ -46,13 +46,13 @@ Category: **search** · [Live llms.txt](https://cloudfix.com/llms.txt) · Snapsh
 ## What's weak
 
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (1/10): stale_439_days
+- Freshness (1/10): stale_444_days
 - Size discipline (0/6): oversized_741kb
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cloudfix.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cloudfix.com)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/cloudfix.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/cloudfix.com)
 ```
 
 ## Reproduce this score

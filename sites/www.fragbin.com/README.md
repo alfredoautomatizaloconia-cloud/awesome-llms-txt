@@ -2,7 +2,7 @@
 domain: www.fragbin.com
 display_name: Fragbin
 category: infra
-score: 62
+score: 61
 grade: C
 last_scored: 2026-05-27
 verified_url: https://www.fragbin.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Fragbin
 
-![Score 62/100 · Grade C](../../docs/badge/www.fragbin.com.svg)
+![Score 61/100 · Grade C](../../docs/badge/www.fragbin.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.fragbin.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -32,7 +32,7 @@ Category: **infra** · [Live llms.txt](https://www.fragbin.com/llms.txt) · Snap
 | Coverage | 13/20 | _few_value_links_ |
 | Agent-action declarations | 3/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 4/8 | |
 | Size discipline | 5/6 | |
@@ -41,7 +41,6 @@ Category: **infra** · [Live llms.txt](https://www.fragbin.com/llms.txt) · Snap
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Content-Type & encoding (4/4)
 - Voice (2/2)
@@ -54,7 +53,7 @@ Category: **infra** · [Live llms.txt](https://www.fragbin.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.fragbin.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.fragbin.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.fragbin.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.fragbin.com)
 ```
 
 ## Reproduce this score

@@ -58,7 +58,7 @@ function shell({ title, description, body, ogImage, depth = 1 }) {
 <body>
 ${body}
 <footer>
-  <p>${depth === 0 ? '' : `<a href="${homePath}">Leaderboard</a> · `}<a href="https://github.com/agentrhq/awesome-llms-txt">GitHub</a> · <a href="https://github.com/agentrhq/awesome-llms-txt/blob/main/RUBRIC.md">Rubric</a> · <a href="https://github.com/agentrhq/awesome-llms-txt/blob/main/CONTRIBUTING.md">Contributing</a></p>
+  <p>${depth === 0 ? '' : `<a href="${homePath}">Leaderboard</a> · `}<a href="https://github.com/zriyansh/awesome-llms-txt">GitHub</a> · <a href="https://github.com/zriyansh/awesome-llms-txt/blob/main/RUBRIC.md">Rubric</a> · <a href="https://github.com/zriyansh/awesome-llms-txt/blob/main/CONTRIBUTING.md">Contributing</a></p>
 </footer>
 </body>
 </html>
@@ -98,7 +98,7 @@ function sitePageBody(entry, scoreJson) {
   </div>
   <div class="links">
     <a class="btn" href="${esc(entry.verified_url)}">Live llms.txt ↗</a>
-    <a class="btn" href="https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/${folder}">View on GitHub ↗</a>
+    <a class="btn" href="https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/${folder}">View on GitHub ↗</a>
     <a class="btn" href="../badge/${esc(entry.domain)}.svg">Badge SVG ↗</a>
   </div>
 </header>
@@ -115,14 +115,14 @@ function sitePageBody(entry, scoreJson) {
   <section>
     <h2>Embed the badge</h2>
     <p>Paste this in your project README. The badge updates when we re-score monthly.</p>
-    <pre><code>[![llms.txt score ${entry.score} (${esc(entry.grade)})](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/${esc(entry.domain)}.svg)](https://agentrhq.github.io/awesome-llms-txt/site/${esc(entry.domain)}.html)</code></pre>
+    <pre><code>[![llms.txt score ${entry.score} (${esc(entry.grade)})](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/${esc(entry.domain)}.svg)](https://zriyansh.github.io/awesome-llms-txt/site/${esc(entry.domain)}.html)</code></pre>
     <p>Renders as: <img src="../badge/${esc(entry.domain)}.svg" alt="llms.txt badge" /></p>
   </section>
 
   <section>
     <h2>Reproduce this score</h2>
     <pre><code>npx llms-txt-score ${esc(entry.verified_url)}</code></pre>
-    <p>Zero runtime dependencies. <a href="https://github.com/agentrhq/awesome-llms-txt/blob/main/RUBRIC.md">Full methodology in RUBRIC.md.</a></p>
+    <p>Zero runtime dependencies. <a href="https://github.com/zriyansh/awesome-llms-txt/blob/main/RUBRIC.md">Full methodology in RUBRIC.md.</a></p>
   </section>
 </main>
 `;
@@ -381,7 +381,7 @@ function ogSvg(entry) {
   <rect x="320" y="360" width="180" height="100" rx="10" fill="${color}"/>
   <text x="410" y="430" fill="#0a0a0a" font-family="ui-monospace,monospace" font-size="64" font-weight="800" text-anchor="middle">${esc(entry.grade)}</text>
   <text x="60" y="570" fill="#a3a3a3" font-family="system-ui,sans-serif" font-size="22">awesome-llms-txt · ${esc(entry.category)} · ${(entry.file_size_bytes/1024).toFixed(1)} KB</text>
-  <text x="60" y="600" fill="#83CA16" font-family="system-ui,sans-serif" font-size="20">github.com/agentrhq/awesome-llms-txt</text>
+  <text x="60" y="600" fill="#83CA16" font-family="system-ui,sans-serif" font-size="20">github.com/zriyansh/awesome-llms-txt</text>
 </svg>`;
 }
 
@@ -410,7 +410,7 @@ function main() {
       title: `${entry.display_name} · llms.txt score ${entry.score} (${entry.grade})`,
       description: `${entry.display_name}'s llms.txt scored ${entry.score}/100, grade ${entry.grade}. ${entry.section_count} sections, ${entry.link_count} links.`,
       body: sitePageBody(entry, scoreJson),
-      ogImage: `https://agentrhq.github.io/awesome-llms-txt/og/${entry.domain}.svg`,
+      ogImage: `https://zriyansh.github.io/awesome-llms-txt/og/${entry.domain}.svg`,
     }));
     count++;
   }

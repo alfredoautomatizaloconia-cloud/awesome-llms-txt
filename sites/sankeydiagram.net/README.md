@@ -56,7 +56,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://sankeydiagram.net/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sankeydiagram.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sankeydiagram.net)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/sankeydiagram.net.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/sankeydiagram.net)
 ```
 
 ## Reproduce this score

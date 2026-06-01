@@ -2,7 +2,7 @@
 domain: www.scoutapm.com
 display_name: Scout Monitoring
 category: observability
-score: 62
+score: 61
 grade: C
 last_scored: 2026-05-27
 verified_url: https://www.scoutapm.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Scout Monitoring
 
-![Score 62/100 · Grade C](../../docs/badge/www.scoutapm.com.svg)
+![Score 61/100 · Grade C](../../docs/badge/www.scoutapm.com.svg)
 
 Category: **observability** · [Live llms.txt](https://www.scoutapm.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **observability** · [Live llms.txt](https://www.scoutapm.com/llms.txt
 | Coverage | 11/20 | |
 | Agent-action declarations | 1/14 | _no_llms_full_link, no_md_url_twins, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -42,7 +42,6 @@ Category: **observability** · [Live llms.txt](https://www.scoutapm.com/llms.txt
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Size discipline (6/6)
 - Voice (2/2)
@@ -55,7 +54,7 @@ Category: **observability** · [Live llms.txt](https://www.scoutapm.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.scoutapm.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.scoutapm.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.scoutapm.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.scoutapm.com)
 ```
 
 ## Reproduce this score

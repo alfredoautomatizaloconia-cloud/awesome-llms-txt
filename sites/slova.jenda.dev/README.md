@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://slovohled.cz/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 42 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/slova.jenda.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/slova.jenda.dev)
+[![llms.txt score 42 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/slova.jenda.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/slova.jenda.dev)
 ```
 
 ## Reproduce this score

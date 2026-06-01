@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.assuranceendirect.com/llm
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 26 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.assuranceendirect.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.assuranceendirect.com)
+[![llms.txt score 26 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.assuranceendirect.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.assuranceendirect.com)
 ```
 
 ## Reproduce this score

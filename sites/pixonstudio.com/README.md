@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://pixonstudio.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/pixonstudio.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pixonstudio.com)
+[![llms.txt score 39 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/pixonstudio.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/pixonstudio.com)
 ```
 
 ## Reproduce this score

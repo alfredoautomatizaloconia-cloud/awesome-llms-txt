@@ -52,7 +52,7 @@ Category: **infra** · [Live llms.txt](https://render.com/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/render.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/render.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/render.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/render.com)
 ```
 
 ## Reproduce this score

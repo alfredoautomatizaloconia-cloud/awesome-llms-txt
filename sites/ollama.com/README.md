@@ -56,7 +56,7 @@ Category: **ai-platform** · [Live llms.txt](https://ollama.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ollama.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ollama.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/ollama.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/ollama.com)
 ```
 
 ## Reproduce this score

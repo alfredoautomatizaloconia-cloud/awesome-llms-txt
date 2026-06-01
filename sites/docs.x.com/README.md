@@ -56,7 +56,7 @@ Category: **comms** · [Live llms.txt](https://docs.x.com/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 80 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.x.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.x.com)
+[![llms.txt score 80 (A-)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.x.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.x.com)
 ```
 
 ## Reproduce this score

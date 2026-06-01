@@ -53,7 +53,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://docs.pinata.cloud/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.pinata.cloud.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.pinata.cloud)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.pinata.cloud.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.pinata.cloud)
 ```
 
 ## Reproduce this score

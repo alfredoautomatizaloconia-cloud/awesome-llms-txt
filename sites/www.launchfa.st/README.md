@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.launchfa.st/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.launchfa.st.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.launchfa.st)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.launchfa.st.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.launchfa.st)
 ```
 
 ## Reproduce this score

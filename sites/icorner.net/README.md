@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://icorner.net/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 37 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/icorner.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/icorner.net)
+[![llms.txt score 37 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/icorner.net.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/icorner.net)
 ```
 
 ## Reproduce this score

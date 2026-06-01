@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://carlo.ai/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/carlo.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/carlo.ai)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/carlo.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/carlo.ai)
 ```
 
 ## Reproduce this score

@@ -12,8 +12,8 @@ Two extremes drive shares. Message both: the A-graders (so they tweet the badge)
 >
 > [Site] scored **[N]** ([grade]). You're [rank #] of 1,023.
 >
-> Per-site permalink: `agentrhq.github.io/awesome-llms-txt/site/[domain].html`
-> Badge to drop in your README: `https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/[domain].svg`
+> Per-site permalink: `zriyansh.github.io/awesome-llms-txt/site/[domain].html`
+> Badge to drop in your README: `https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/[domain].svg`
 >
 > Re-scored monthly. The badge updates automatically when your score changes.
 >
@@ -25,9 +25,9 @@ Two extremes drive shares. Message both: the A-graders (so they tweet the badge)
 
 > Subject: your llms.txt scored [N] on a new public leaderboard. The fix is 10 minutes
 >
-> Hey [name], we shipped a scored leaderboard of `llms.txt` files. Rubric: github.com/agentrhq/awesome-llms-txt/blob/main/RUBRIC.md
+> Hey [name], we shipped a scored leaderboard of `llms.txt` files. Rubric: github.com/zriyansh/awesome-llms-txt/blob/main/RUBRIC.md
 >
-> [Site]'s file scored **[N]** ([grade]). Per-site permalink: `agentrhq.github.io/awesome-llms-txt/site/[domain].html`
+> [Site]'s file scored **[N]** ([grade]). Per-site permalink: `zriyansh.github.io/awesome-llms-txt/site/[domain].html`
 >
 > The "What's weak" section on the page surfaces the three things to fix first. Most are 5-10 minute changes:
 >

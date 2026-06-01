@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://platform-business.gitbook.io/
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.adpies.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.adpies.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.adpies.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.adpies.com)
 ```
 
 ## Reproduce this score

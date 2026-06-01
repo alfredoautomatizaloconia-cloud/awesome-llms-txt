@@ -32,7 +32,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://graphite-note.com/llms.txt) Â
 | Coverage | 0/20 | _thin_sectioning, few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 1/10 | _stale_445_days_ |
+| Freshness | 1/10 | _stale_450_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -50,13 +50,13 @@ Category: **dev-tools** Â· [Live llms.txt](https://graphite-note.com/llms.txt) Â
 - Spec compliance (4/18): multi_h1_20, no_blockquote_summary, no_structure
 - Coverage (0/20): thin_sectioning, few_value_links, missing_canonical_sections
 - Agent-action declarations (0/14): no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec
-- Freshness (1/10): stale_445_days
+- Freshness (1/10): stale_450_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 30 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/graphite-note.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/graphite-note.com)
+[![llms.txt score 30 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/graphite-note.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/graphite-note.com)
 ```
 
 ## Reproduce this score

@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.deepseo.it/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.deepseo.it.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.deepseo.it)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.deepseo.it.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.deepseo.it)
 ```
 
 ## Reproduce this score

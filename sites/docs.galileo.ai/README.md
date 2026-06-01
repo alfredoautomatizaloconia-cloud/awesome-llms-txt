@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.galileo.ai/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.galileo.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.galileo.ai)
+[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.galileo.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.galileo.ai)
 ```
 
 ## Reproduce this score

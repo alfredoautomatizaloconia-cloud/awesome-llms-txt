@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.ripplesfromthewell.org/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.ripplesfromthewell.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.ripplesfromthewell.org)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.ripplesfromthewell.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.ripplesfromthewell.org)
 ```
 
 ## Reproduce this score

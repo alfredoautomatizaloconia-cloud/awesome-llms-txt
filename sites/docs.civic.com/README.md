@@ -2,7 +2,7 @@
 domain: docs.civic.com
 display_name: Civic Docs
 category: auth
-score: 77
+score: 76
 grade: B+
 last_scored: 2026-05-27
 verified_url: https://docs.civic.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Civic Docs
 
-![Score 77/100 · Grade B+](../../docs/badge/docs.civic.com.svg)
+![Score 76/100 · Grade B+](../../docs/badge/docs.civic.com.svg)
 
 Category: **auth** · [Live llms.txt](https://docs.civic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **auth** · [Live llms.txt](https://docs.civic.com/llms.txt) · Snapsh
 | Coverage | 18/20 | |
 | Agent-action declarations | 1/14 | _no_llms_full_link, no_md_url_twins, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 6/8 | |
 | Size discipline | 5/6 | |
@@ -43,7 +43,6 @@ Category: **auth** · [Live llms.txt](https://docs.civic.com/llms.txt) · Snapsh
 ## What's exceptional
 
 - Spec compliance (18/18)
-- Freshness (10/10)
 - Discoverability (8/8)
 - Content-Type & encoding (4/4)
 
@@ -54,7 +53,7 @@ Category: **auth** · [Live llms.txt](https://docs.civic.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.civic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.civic.com)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.civic.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.civic.com)
 ```
 
 ## Reproduce this score

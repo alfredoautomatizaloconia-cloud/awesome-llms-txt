@@ -56,7 +56,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.greetwell.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.greetwell.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.greetwell.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.greetwell.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.greetwell.com)
 ```
 
 ## Reproduce this score

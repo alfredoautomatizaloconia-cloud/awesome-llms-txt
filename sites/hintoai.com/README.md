@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://hintoai.com/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/hintoai.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/hintoai.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/hintoai.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/hintoai.com)
 ```
 
 ## Reproduce this score

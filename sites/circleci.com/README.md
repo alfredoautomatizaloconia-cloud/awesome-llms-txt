@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://circleci.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 36 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/circleci.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/circleci.com)
+[![llms.txt score 36 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/circleci.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/circleci.com)
 ```
 
 ## Reproduce this score

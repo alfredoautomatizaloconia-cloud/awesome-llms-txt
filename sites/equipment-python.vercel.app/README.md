@@ -56,7 +56,7 @@ Category: **data** · [Live llms.txt](https://equipment-python.vercel.app/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/equipment-python.vercel.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/equipment-python.vercel.app)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/equipment-python.vercel.app.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/equipment-python.vercel.app)
 ```
 
 ## Reproduce this score

@@ -54,7 +54,7 @@ Category: **ai-platform** · [Live llms.txt](https://mastra.ai/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/mastra.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mastra.ai)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/mastra.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/mastra.ai)
 ```
 
 ## Reproduce this score

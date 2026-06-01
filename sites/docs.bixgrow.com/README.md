@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.bixgrow.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.bixgrow.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.bixgrow.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.bixgrow.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.bixgrow.com)
 ```
 
 ## Reproduce this score

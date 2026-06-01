@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://evy.so/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.evy.so.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.evy.so)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.evy.so.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.evy.so)
 ```
 
 ## Reproduce this score

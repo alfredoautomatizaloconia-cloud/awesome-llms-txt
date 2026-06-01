@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.kaito.ai/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.kaito.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.kaito.ai)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.kaito.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.kaito.ai)
 ```
 
 ## Reproduce this score

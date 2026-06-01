@@ -55,7 +55,7 @@ Category: **ai-platform** · [Live llms.txt](https://replicate.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/replicate.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/replicate.com)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/replicate.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/replicate.com)
 ```
 
 ## Reproduce this score

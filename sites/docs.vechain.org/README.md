@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.vechain.org/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.vechain.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vechain.org)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.vechain.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.vechain.org)
 ```
 
 ## Reproduce this score

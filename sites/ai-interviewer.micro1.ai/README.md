@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://ai-recruiter.micro1.ai/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ai-interviewer.micro1.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ai-interviewer.micro1.ai)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/ai-interviewer.micro1.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/ai-interviewer.micro1.ai)
 ```
 
 ## Reproduce this score

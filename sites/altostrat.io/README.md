@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://altostrat.io/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/altostrat.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/altostrat.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/altostrat.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/altostrat.io)
 ```
 
 ## Reproduce this score

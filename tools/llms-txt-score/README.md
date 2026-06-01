@@ -1,6 +1,6 @@
 # llms-txt-score
 
-Score an `llms.txt` file against the public [awesome-llms-txt](https://github.com/agentrhq/awesome-llms-txt) rubric. Like Lighthouse, but for `llms.txt`.
+Score an `llms.txt` file against the public [awesome-llms-txt](https://github.com/zriyansh/awesome-llms-txt) rubric. Like Lighthouse, but for `llms.txt`.
 
 ## Install
 
@@ -42,7 +42,7 @@ llms-txt-score <url-or-file> [options]
 |  4 | Content-Type & encoding: `text/markdown; charset=utf-8` |
 |  2 | Voice: plain language, no marketing fluff |
 
-Full rubric, weights, and rationale: [RUBRIC.md](https://github.com/agentrhq/awesome-llms-txt/blob/main/RUBRIC.md).
+Full rubric, weights, and rationale: [RUBRIC.md](https://github.com/zriyansh/awesome-llms-txt/blob/main/RUBRIC.md).
 
 Grade bands (Mozilla Observatory style, capped at 100): **A+** ≥ 95, **A** ≥ 85, **A-** ≥ 80, **B+** ≥ 75, **B** ≥ 65, **C** ≥ 50, **D** ≥ 35, **F** < 35.
 

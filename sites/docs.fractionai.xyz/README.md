@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://fraction-ai.gitbook.io/fracti
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.fractionai.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.fractionai.xyz)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.fractionai.xyz.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.fractionai.xyz)
 ```
 
 ## Reproduce this score

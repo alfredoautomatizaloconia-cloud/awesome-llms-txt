@@ -55,7 +55,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.zapstudio.dev/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/zap-ts.alexandretrotel.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zap-ts.alexandretrotel.org)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/zap-ts.alexandretrotel.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/zap-ts.alexandretrotel.org)
 ```
 
 ## Reproduce this score

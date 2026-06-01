@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.vapi.ai/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.vapi.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vapi.ai)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.vapi.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.vapi.ai)
 ```
 
 ## Reproduce this score

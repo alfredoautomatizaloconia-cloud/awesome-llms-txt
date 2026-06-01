@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://liblab.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/liblab.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/liblab.com)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/liblab.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/liblab.com)
 ```
 
 ## Reproduce this score

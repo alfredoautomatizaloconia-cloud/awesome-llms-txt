@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.junipercreates.com/llms.
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.junipercreates.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.junipercreates.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.junipercreates.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.junipercreates.com)
 ```
 
 ## Reproduce this score

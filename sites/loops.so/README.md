@@ -33,7 +33,7 @@ Category: **comms** · [Live llms.txt](https://loops.so/llms.txt) · Snapshot: [
 | Coverage | 11/20 | |
 | Agent-action declarations | 5/14 | _no_llms_full_link, no_md_url_twins_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 5/10 | _stale_169_days_ |
+| Freshness | 5/10 | _stale_174_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 2/8 | _no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://loops.so/llms.txt) · Snapshot: [
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/loops.so.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/loops.so)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/loops.so.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/loops.so)
 ```
 
 ## Reproduce this score

@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://www.tryopenclaw.ai/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 47 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.tryopenclaw.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tryopenclaw.ai)
+[![llms.txt score 47 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.tryopenclaw.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.tryopenclaw.ai)
 ```
 
 ## Reproduce this score

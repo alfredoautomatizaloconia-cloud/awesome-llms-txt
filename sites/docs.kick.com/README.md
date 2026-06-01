@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.kick.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.kick.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.kick.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.kick.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.kick.com)
 ```
 
 ## Reproduce this score

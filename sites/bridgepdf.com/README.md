@@ -2,7 +2,7 @@
 domain: bridgepdf.com
 display_name: Bridgepdf
 category: observability
-score: 55
+score: 53
 grade: C
 last_scored: 2026-05-27
 verified_url: https://bridgepdf.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 89
 
 # Bridgepdf
 
-![Score 55/100 · Grade C](../../docs/badge/bridgepdf.com.svg)
+![Score 53/100 · Grade C](../../docs/badge/bridgepdf.com.svg)
 
 Category: **observability** · [Live llms.txt](https://bridgepdf.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **observability** · [Live llms.txt](https://bridgepdf.com/llms.txt) �
 | Coverage | 14/20 | |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 7/10 | |
+| Freshness | 5/10 | _stale_94_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 4/6 | |
@@ -53,7 +53,7 @@ Category: **observability** · [Live llms.txt](https://bridgepdf.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/bridgepdf.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bridgepdf.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/bridgepdf.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/bridgepdf.com)
 ```
 
 ## Reproduce this score

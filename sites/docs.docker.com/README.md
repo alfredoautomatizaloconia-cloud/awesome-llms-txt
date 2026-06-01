@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://docs.docker.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.docker.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.docker.com)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.docker.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.docker.com)
 ```
 
 ## Reproduce this score

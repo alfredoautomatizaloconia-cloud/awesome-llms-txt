@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.hoteltarobafoz.com.br/llm
 | Coverage | 0/20 | _thin_sectioning, few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_324_days_ |
+| Freshness | 3/10 | _stale_329_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 0/6 | _empty_or_stub_ |
@@ -49,14 +49,14 @@ Category: **dev-tools** · [Live llms.txt](https://www.hoteltarobafoz.com.br/llm
 - Spec compliance (6/18): no_blockquote_summary, no_structure
 - Coverage (0/20): thin_sectioning, few_value_links, missing_canonical_sections
 - Agent-action declarations (0/14): no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec
-- Freshness (3/10): stale_324_days
+- Freshness (3/10): stale_329_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 - Size discipline (0/6): empty_or_stub
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 28 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.hoteltarobafoz.com.br.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.hoteltarobafoz.com.br)
+[![llms.txt score 28 (F)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.hoteltarobafoz.com.br.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.hoteltarobafoz.com.br)
 ```
 
 ## Reproduce this score

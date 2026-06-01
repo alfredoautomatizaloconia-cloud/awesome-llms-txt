@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://briteksolar.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/briteksolar.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/briteksolar.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/briteksolar.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/briteksolar.com)
 ```
 
 ## Reproduce this score

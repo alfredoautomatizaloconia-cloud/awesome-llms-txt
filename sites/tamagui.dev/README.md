@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://tamagui.dev/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/tamagui.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tamagui.dev)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/tamagui.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/tamagui.dev)
 ```
 
 ## Reproduce this score

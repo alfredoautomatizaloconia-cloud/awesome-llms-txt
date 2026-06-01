@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://lynxjs.org/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/lynxjs.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/lynxjs.org)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/lynxjs.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/lynxjs.org)
 ```
 
 ## Reproduce this score

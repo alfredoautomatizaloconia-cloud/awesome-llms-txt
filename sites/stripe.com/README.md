@@ -54,7 +54,7 @@ Category: **billing** · [Live llms.txt](https://stripe.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/stripe.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/stripe.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/stripe.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/stripe.com)
 ```
 
 ## Reproduce this score

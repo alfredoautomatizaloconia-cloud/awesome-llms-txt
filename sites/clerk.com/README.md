@@ -55,7 +55,7 @@ Category: **auth** · [Live llms.txt](https://clerk.com/llms.txt) · Snapshot: [
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/clerk.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/clerk.com)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/clerk.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/clerk.com)
 ```
 
 ## Reproduce this score

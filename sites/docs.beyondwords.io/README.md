@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.beyondwords.io/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.beyondwords.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.beyondwords.io)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.beyondwords.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.beyondwords.io)
 ```
 
 ## Reproduce this score

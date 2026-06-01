@@ -51,7 +51,7 @@ Category: **auth** · [Live llms.txt](https://auth0.com/llms.txt) · Snapshot: [
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/auth0.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/auth0.com)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/auth0.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/auth0.com)
 ```
 
 ## Reproduce this score

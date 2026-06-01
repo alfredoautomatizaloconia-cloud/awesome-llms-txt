@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.intelligems.io/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.intelligems.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.intelligems.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.intelligems.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.intelligems.io)
 ```
 
 ## Reproduce this score

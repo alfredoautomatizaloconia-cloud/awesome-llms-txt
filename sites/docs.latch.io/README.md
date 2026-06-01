@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.latch.io/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.latch.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.latch.io)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.latch.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.latch.io)
 ```
 
 ## Reproduce this score

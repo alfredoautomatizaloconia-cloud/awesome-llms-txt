@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://documentation.blitzllama.com/
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/documentation.blitzllama.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/documentation.blitzllama.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/documentation.blitzllama.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/documentation.blitzllama.com)
 ```
 
 ## Reproduce this score

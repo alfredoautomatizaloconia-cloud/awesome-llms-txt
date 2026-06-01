@@ -51,7 +51,7 @@ Category: **dev-tools** · [Live llms.txt](https://jam.dev/docs/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/jam.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/jam.dev)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/jam.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/jam.dev)
 ```
 
 ## Reproduce this score

@@ -32,7 +32,7 @@ Category: **ai-platform** · [Live llms.txt](https://www.mubashirhassan.com/llms
 | Coverage | 5/20 | _few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_185_days_ |
+| Freshness | 3/10 | _stale_190_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -50,13 +50,13 @@ Category: **ai-platform** · [Live llms.txt](https://www.mubashirhassan.com/llms
 - Spec compliance (7/18): multi_h1_2, no_blockquote_summary, sections_without_link_lists
 - Coverage (5/20): few_value_links, missing_canonical_sections
 - Agent-action declarations (0/14): no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec
-- Freshness (3/10): stale_185_days
+- Freshness (3/10): stale_190_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 40 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.mubashirhassan.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.mubashirhassan.com)
+[![llms.txt score 40 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.mubashirhassan.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.mubashirhassan.com)
 ```
 
 ## Reproduce this score

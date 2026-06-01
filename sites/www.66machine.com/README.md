@@ -57,7 +57,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://www.66machine.com/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.66machine.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.66machine.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.66machine.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.66machine.com)
 ```
 
 ## Reproduce this score

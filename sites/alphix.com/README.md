@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://alphix.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/alphix.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/alphix.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/alphix.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/alphix.com)
 ```
 
 ## Reproduce this score

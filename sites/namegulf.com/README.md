@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://namegulf.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/namegulf.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/namegulf.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/namegulf.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/namegulf.com)
 ```
 
 ## Reproduce this score

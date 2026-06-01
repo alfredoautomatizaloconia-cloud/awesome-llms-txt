@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://ai-sdk.dev/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sdk.vercel.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sdk.vercel.ai)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/sdk.vercel.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/sdk.vercel.ai)
 ```
 
 ## Reproduce this score

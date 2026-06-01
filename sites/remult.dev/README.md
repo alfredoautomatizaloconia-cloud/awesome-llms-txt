@@ -2,7 +2,7 @@
 domain: remult.dev
 display_name: Remult
 category: dev-tools
-score: 79
+score: 78
 grade: B+
 last_scored: 2026-05-27
 verified_url: https://remult.dev/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Remult
 
-![Score 79/100 · Grade B+](../../docs/badge/remult.dev.svg)
+![Score 78/100 · Grade B+](../../docs/badge/remult.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://remult.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **dev-tools** · [Live llms.txt](https://remult.dev/llms.txt) · Snaps
 | Coverage | 19/20 | |
 | Agent-action declarations | 6/14 | _no_llms_full_link_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 2/8 | _no_auth_section_ |
 | Size discipline | 5/6 | |
@@ -43,7 +43,6 @@ Category: **dev-tools** · [Live llms.txt](https://remult.dev/llms.txt) · Snaps
 ## What's exceptional
 
 - Coverage (19/20)
-- Freshness (10/10)
 - Discoverability (8/8)
 - Content-Type & encoding (4/4)
 - Voice (2/2)
@@ -55,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://remult.dev/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 79 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/remult.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/remult.dev)
+[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/remult.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/remult.dev)
 ```
 
 ## Reproduce this score

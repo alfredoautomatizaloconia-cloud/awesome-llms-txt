@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.callback.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.callback.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.callback.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.callback.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.callback.com)
 ```
 
 ## Reproduce this score

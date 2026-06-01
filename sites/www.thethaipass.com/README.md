@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://www.thethaipass.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.thethaipass.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.thethaipass.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.thethaipass.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.thethaipass.com)
 ```
 
 ## Reproduce this score

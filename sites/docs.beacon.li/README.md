@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.beacon.li/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.beacon.li.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.beacon.li)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.beacon.li.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.beacon.li)
 ```
 
 ## Reproduce this score

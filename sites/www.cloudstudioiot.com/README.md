@@ -53,7 +53,7 @@ Category: **observability** · [Live llms.txt](https://cloudstudioiot.com/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.cloudstudioiot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cloudstudioiot.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.cloudstudioiot.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.cloudstudioiot.com)
 ```
 
 ## Reproduce this score

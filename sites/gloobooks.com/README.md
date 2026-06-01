@@ -54,7 +54,7 @@ Category: **auth** · [Live llms.txt](https://gloobooks.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/gloobooks.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/gloobooks.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/gloobooks.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/gloobooks.com)
 ```
 
 ## Reproduce this score

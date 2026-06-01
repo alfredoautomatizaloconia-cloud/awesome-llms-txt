@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.sidecopilot.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sidespace.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sidespace.app)
+[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/sidespace.app.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/sidespace.app)
 ```
 
 ## Reproduce this score

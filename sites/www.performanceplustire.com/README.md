@@ -55,7 +55,7 @@ Category: **commerce** · [Live llms.txt](https://www.performanceplustire.com/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.performanceplustire.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.performanceplustire.com)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.performanceplustire.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.performanceplustire.com)
 ```
 
 ## Reproduce this score

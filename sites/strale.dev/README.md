@@ -53,7 +53,7 @@ Category: **ai-platform** · [Live llms.txt](https://strale.dev/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/strale.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/strale.dev)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/strale.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/strale.dev)
 ```
 
 ## Reproduce this score

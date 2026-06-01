@@ -52,7 +52,7 @@ Category: **infra** · [Live llms.txt](https://juno.build/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/juno.build.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/juno.build)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/juno.build.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/juno.build)
 ```
 
 ## Reproduce this score

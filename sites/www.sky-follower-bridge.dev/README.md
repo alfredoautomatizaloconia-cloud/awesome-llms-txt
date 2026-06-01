@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://www.sky-follower-bridge.dev/llms.
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.sky-follower-bridge.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.sky-follower-bridge.dev)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.sky-follower-bridge.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.sky-follower-bridge.dev)
 ```
 
 ## Reproduce this score

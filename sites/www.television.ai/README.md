@@ -56,7 +56,7 @@ Category: **billing** · [Live llms.txt](https://www.television.ai/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.television.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.television.ai)
+[![llms.txt score 39 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.television.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.television.ai)
 ```
 
 ## Reproduce this score

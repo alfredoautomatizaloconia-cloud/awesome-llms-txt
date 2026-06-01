@@ -54,7 +54,7 @@ Category: **billing** · [Live llms.txt](https://upcgen.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/upcgen.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/upcgen.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/upcgen.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/upcgen.com)
 ```
 
 ## Reproduce this score

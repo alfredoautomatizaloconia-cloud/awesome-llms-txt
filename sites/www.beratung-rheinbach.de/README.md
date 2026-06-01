@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.beratung-rheinbach.de/llm
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.beratung-rheinbach.de.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.beratung-rheinbach.de)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.beratung-rheinbach.de.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.beratung-rheinbach.de)
 ```
 
 ## Reproduce this score

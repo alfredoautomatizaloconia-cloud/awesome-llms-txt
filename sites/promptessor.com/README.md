@@ -2,7 +2,7 @@
 domain: promptessor.com
 display_name: PrompTessor
 category: content
-score: 55
+score: 54
 grade: C
 last_scored: 2026-05-27
 verified_url: https://promptessor.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # PrompTessor
 
-![Score 55/100 · Grade C](../../docs/badge/promptessor.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/promptessor.com.svg)
 
 Category: **content** · [Live llms.txt](https://promptessor.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **content** · [Live llms.txt](https://promptessor.com/llms.txt) · Sn
 | Coverage | 5/20 | _few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 3/14 | _no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -42,7 +42,6 @@ Category: **content** · [Live llms.txt](https://promptessor.com/llms.txt) · Sn
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Size discipline (6/6)
 - Content-Type & encoding (4/4)
@@ -57,7 +56,7 @@ Category: **content** · [Live llms.txt](https://promptessor.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/promptessor.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/promptessor.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/promptessor.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/promptessor.com)
 ```
 
 ## Reproduce this score

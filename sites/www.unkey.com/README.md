@@ -56,7 +56,7 @@ Category: **auth** · [Live llms.txt](https://www.unkey.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.unkey.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.unkey.com)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.unkey.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.unkey.com)
 ```
 
 ## Reproduce this score

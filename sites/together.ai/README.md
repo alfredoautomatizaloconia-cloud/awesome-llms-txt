@@ -54,7 +54,7 @@ Category: **ai-platform** Â· [Live llms.txt](https://www.together.ai/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/together.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/together.ai)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/together.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/together.ai)
 ```
 
 ## Reproduce this score

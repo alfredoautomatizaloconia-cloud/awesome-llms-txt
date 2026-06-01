@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.birds.dog/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.birds.dog.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.birds.dog)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.birds.dog.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.birds.dog)
 ```
 
 ## Reproduce this score

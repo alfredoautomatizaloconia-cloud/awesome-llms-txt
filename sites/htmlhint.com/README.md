@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://htmlhint.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/htmlhint.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/htmlhint.com)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/htmlhint.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/htmlhint.com)
 ```
 
 ## Reproduce this score

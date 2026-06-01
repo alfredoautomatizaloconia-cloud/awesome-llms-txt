@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://developer.fabric.inc/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developer.fabric.inc.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developer.fabric.inc)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/developer.fabric.inc.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/developer.fabric.inc)
 ```
 
 ## Reproduce this score

@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.i3d.net/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.i3d.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.i3d.net)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.i3d.net.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.i3d.net)
 ```
 
 ## Reproduce this score

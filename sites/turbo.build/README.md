@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://turborepo.dev/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/turbo.build.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/turbo.build)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/turbo.build.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/turbo.build)
 ```
 
 ## Reproduce this score

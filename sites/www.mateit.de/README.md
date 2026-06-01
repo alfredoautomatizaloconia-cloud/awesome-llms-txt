@@ -2,8 +2,8 @@
 domain: www.mateit.de
 display_name: Mate iT GmbH — Digital Architects
 category: commerce
-score: 50
-grade: C
+score: 49
+grade: D
 last_scored: 2026-05-27
 verified_url: https://www.mateit.de/llms.txt
 file_size_bytes: 9503
@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Mate iT GmbH — Digital Architects
 
-![Score 50/100 · Grade C](../../docs/badge/www.mateit.de.svg)
+![Score 49/100 · Grade D](../../docs/badge/www.mateit.de.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.mateit.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -33,7 +33,7 @@ Category: **commerce** · [Live llms.txt](https://www.mateit.de/llms.txt) · Sna
 | Coverage | 5/20 | _few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 5/6 | |
@@ -42,7 +42,6 @@ Category: **commerce** · [Live llms.txt](https://www.mateit.de/llms.txt) · Sna
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Content-Type & encoding (4/4)
 
@@ -55,7 +54,7 @@ Category: **commerce** · [Live llms.txt](https://www.mateit.de/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.mateit.de.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.mateit.de)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.mateit.de.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.mateit.de)
 ```
 
 ## Reproduce this score

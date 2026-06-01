@@ -56,7 +56,7 @@ Category: **ai-platform** · [Live llms.txt](https://backmesh.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/backmesh.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/backmesh.com)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/backmesh.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/backmesh.com)
 ```
 
 ## Reproduce this score

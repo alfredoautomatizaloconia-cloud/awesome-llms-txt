@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://developer.nvidia.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developer.nvidia.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developer.nvidia.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/developer.nvidia.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/developer.nvidia.com)
 ```
 
 ## Reproduce this score

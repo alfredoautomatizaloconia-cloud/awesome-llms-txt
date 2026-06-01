@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.maersk.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.maersk.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.maersk.com)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.maersk.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.maersk.com)
 ```
 
 ## Reproduce this score

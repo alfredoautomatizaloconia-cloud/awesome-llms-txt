@@ -57,7 +57,7 @@ Category: **comms** · [Live llms.txt](https://global-chat.io/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/global-chat.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/global-chat.io)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/global-chat.io.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/global-chat.io)
 ```
 
 ## Reproduce this score

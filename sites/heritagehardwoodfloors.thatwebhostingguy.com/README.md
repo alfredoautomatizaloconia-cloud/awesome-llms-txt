@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://heritagehardwoodfloorsnwa.com
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/heritagehardwoodfloors.thatwebhostingguy.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/heritagehardwoodfloors.thatwebhostingguy.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/heritagehardwoodfloors.thatwebhostingguy.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/heritagehardwoodfloors.thatwebhostingguy.com)
 ```
 
 ## Reproduce this score

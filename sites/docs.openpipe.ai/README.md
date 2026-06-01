@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.openpipe.ai/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.openpipe.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.openpipe.ai)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.openpipe.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.openpipe.ai)
 ```
 
 ## Reproduce this score

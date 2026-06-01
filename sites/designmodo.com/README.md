@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://designmodo.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 42 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/designmodo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/designmodo.com)
+[![llms.txt score 42 (D)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/designmodo.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/designmodo.com)
 ```
 
 ## Reproduce this score

@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://glucn.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/glucn.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/glucn.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/glucn.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/glucn.com)
 ```
 
 ## Reproduce this score

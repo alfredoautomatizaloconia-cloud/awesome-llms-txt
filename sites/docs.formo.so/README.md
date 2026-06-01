@@ -55,7 +55,7 @@ Category: **observability** Â· [Live llms.txt](https://docs.formo.so/llms.txt) Â
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.formo.so.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.formo.so)
+[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.formo.so.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.formo.so)
 ```
 
 ## Reproduce this score

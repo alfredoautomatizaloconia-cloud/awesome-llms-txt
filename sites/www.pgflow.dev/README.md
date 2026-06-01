@@ -56,7 +56,7 @@ Category: **data** · [Live llms.txt](https://www.pgflow.dev/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.pgflow.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.pgflow.dev)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/www.pgflow.dev.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/www.pgflow.dev)
 ```
 
 ## Reproduce this score

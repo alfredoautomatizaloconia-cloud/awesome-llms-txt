@@ -55,7 +55,7 @@ Category: **auth** · [Live llms.txt](https://thatdeveloperguy.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/thatdeveloperguy.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thatdeveloperguy.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/thatdeveloperguy.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/thatdeveloperguy.com)
 ```
 
 ## Reproduce this score

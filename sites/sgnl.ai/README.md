@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://sgnl.ai/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sgnl.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sgnl.ai)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/sgnl.ai.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/sgnl.ai)
 ```
 
 ## Reproduce this score

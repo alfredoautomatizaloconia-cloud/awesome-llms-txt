@@ -56,7 +56,7 @@ Category: **ai-platform** · [Live llms.txt](https://api.reve.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/api.reve.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/api.reve.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/api.reve.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/api.reve.com)
 ```
 
 ## Reproduce this score

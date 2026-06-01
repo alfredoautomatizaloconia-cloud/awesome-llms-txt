@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.imprint.co/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.imprint.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.imprint.co)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.imprint.co.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.imprint.co)
 ```
 
 ## Reproduce this score

@@ -53,7 +53,7 @@ Category: **auth** · [Live llms.txt](https://cardlessid.org/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cardlessid.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cardlessid.org)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/cardlessid.org.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/cardlessid.org)
 ```
 
 ## Reproduce this score

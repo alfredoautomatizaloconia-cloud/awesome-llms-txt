@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.carto.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.carto.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.carto.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/zriyansh/awesome-llms-txt/main/docs/badge/docs.carto.com.svg)](https://github.com/zriyansh/awesome-llms-txt/tree/main/sites/docs.carto.com)
 ```
 
 ## Reproduce this score
